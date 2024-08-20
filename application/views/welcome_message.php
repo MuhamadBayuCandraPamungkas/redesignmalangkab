@@ -6,9 +6,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
         <meta name="robots" content="index, follow">
-        <meta name="description" content="Menyajikan berita terbaru, tercepat, dan terpercaya seputar Pemerintah Kabupaten Kediri.">
-        <meta name="keywords" content="Selamat datang di website resmi Pemerintah Kabupaten Kediri. ">
-        <meta name="author" content="BAGOS ANGGARA & ARDY ERWANDA - DISKOMINFO KABUPATEN KEDIRI">
+        <meta name="description" content="Menyajikan berita terbaru, tercepat, dan terpercaya seputar Pemerintah Kabupaten Malang.">
+        <meta name="keywords" content="Selamat datang di website resmi Pemerintah Kabupaten Malang. ">
+        <meta name="author" content="DISKOMINFO KABUPATEN MALANG">
         <meta name="robots" content="all,index,follow">
         <meta http-equiv="Content-Language" content="id-ID">
         <meta NAME="Distribution" CONTENT="Global">
@@ -16,8 +16,8 @@
         <link rel="canonical" href="//berita.kedirikab.go.id/"/>
         <link rel="shortcut icon" href="asset/logo/logokab.png"/>
         <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.xml"/>
-        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/reset.css"/>
-        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/main-stylesheet.css"/>
+        <link type="text/css" rel="stylesheet" href="template/background/blue/reset.css"/>
+        <link type="text/css" rel="stylesheet" href="template/background/blue/main-stylesheet.css"/>
         <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/shortcode.css"/>
         <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/fonts.css"/>
         <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/responsive.css"/>
@@ -340,86 +340,41 @@
                     <div class="main-content">
                         <div id="jssor_1" style="position:relative;margin:0 auto;top:0;left:0;width:1366px;height:300px;overflow:hidden;visibility:hidden;">
                             <div data-u="slides" style="cursor:default;position:relative;top:0;left:0;width:1366px;height:300px;overflow:hidden;">
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-dewan-pengawas-bumd-kab-kediri-2024-' target='_BLANK' title='Badan Usaha Milik Daerah (BUMD) Kabupaten Kediri Tahun 2024 PD. Canda Bhirawa, PD. BPR Bank Daerah, '>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/dewasss1.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-anggota-dewan-pengawas-bumd-kabupaten-kediri-tahun-2024' target='_BLANK' title='Seleksi Administrasi Terbuka Anggota Dewan Pengawas BUMD Kabupaten Kediri tahun 2024'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---BANK-DAERAH-@@.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/profil-sekolah-di-kabupaten-kediri-menurut-jenjang-pendidikan-tahun-2023' target='_BLANK' title='PROFIL SEKOLAH DI KABUPATEN KEDIRI MENURUT JENJANG PENDIDIKAN TAHUN 2023'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---Statistik-Pendidikan-sddd.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/profil-kesehatan-kabupaten-kediri-tahun-2022' target='_BLANK' title='Profil Kesehatan Kabupaten Kediri Tahun 2022'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---Statistik-Kesehatan.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/download/file?id=210&hash=9e89eff5dc69e19ac11724c3316e9edc' target='_BLANK' title='Publikasi Perda APBD no 8 tahun 2023'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/banner-publikasi-perda-8-2023-cropped1.jpg'/>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Bullet Navigator -->
-                            <div data-u="navigator" class="jssorb031" style="position:absolute;bottom:16px;right:16px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
-                                <div data-u="prototype" class="i" style="width:13px;height:13px;">
-                                    <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                                        <circle class="b" cx="8000" cy="8000" r="5800"></circle>
-                                    </svg>
-                                </div>
-                            </div>
-                            <!-- Arrow Navigator -->
-                            <div data-u="arrowleft" class="jssora051" style="width:55px;height:55px;top:0;left:25px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
-                                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                                    <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
-                                </svg>
-                            </div>
-                            <div data-u="arrowright" class="jssora051" style="width:55px;height:55px;top:0;right:25px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
-                                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                                    <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
-                                </svg>
                             </div>
                         </div>
                     </div>
-                    <hr>
                     <div class="breaking-news">
                         <span class="the-title">Breaking News</span>
                         <ul>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79'>Lomba Gerak Jalan Tingkat SMP, Semarakkan Rangkaian HUT RI Ke-79</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/workshop-penyusunan-manajemen-resiko-spbe-2024'>Workshop Penyusunan Manajemen Resiko SPBE 2024</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/antusias-luar-biasa-peserta-lomba-gerak-jalan-tingkat-sd-dan-sma-sederajat-dalam-rangka-hut-ri-ke79-tahun-2024'>Antusias Luar Biasa Peserta Lomba Gerak Jalan Tingkat SD dan SMA Sederajat Dalam Rangka HUT RI ke-79 Tahun 2024</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>Terima Penghargaan UHC Award 2024, Bupati Dhito Tekankan Peningkatan Mutu Pelayanan Kesehatan</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri'>Sebagai Bentuk Perhatian, Pemerintah Salurkan Bantuan Kepada LVRI</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/mas-dhito-beri-lampu-hijau-pabrik-lakukan-ekspansi-'>Mas Dhito Beri Lampu Hijau Pabrik Lakukan Ekspansi</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/pemerintah-kabupaten-kediri-kembali-gelar-pembinaan-mental'>Pemerintah Kabupaten Kediri Kembali Gelar Pembinaan Mental</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/mbak-dewi-pembinaan-atlit-usia-dini-harus-gencar-dilaksanakan'>Mbak Dewi: Pembinaan Atlit Usia Dini Harus Gencar Dilaksanakan</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/menumbuhkan-sportivitas-dan-semangat-juang-para-atlit-piala-bupati-kediri-ii-tahun-2024'>Menumbuhkan Sportivitas dan Semangat Juang Para Atlit, Piala Bupati Kediri II Tahun 2024</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/stabilkan-harga-bahan-pokok-pemkab-kediri-gelar-gerakan-pangan-murah-dan-serahkan-bantuan-sembako-'>Stabilkan Harga Bahan Pokok, Pemkab kediri Gelar Gerakan Pangan Murah dan Serahkan bantuan Sembako</a>
+                                <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                             </li>
                         </ul>
                     </div>
@@ -437,27 +392,27 @@
                                                 </div>
                                                 <div data-u="slides" class='slides'>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/SMP_4.jpeg'/>
+                                                        <img data-u='image' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79'>Lomba Gerak Jalan Tingkat SMP, Semarakka,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/FUAD_5.jpeg'/>
+                                                        <img data-u='image' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/workshop-penyusunan-manajemen-resiko-spbe-2024'>Workshop Penyusunan Manajemen Resiko SPB,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/BARIS_5.jpeg'/>
+                                                        <img data-u='image' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/antusias-luar-biasa-peserta-lomba-gerak-jalan-tingkat-sd-dan-sma-sederajat-dalam-rangka-hut-ri-ke79-tahun-2024'>Antusias Luar Biasa Peserta Lomba Gerak ,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/UHC_1.jpeg'/>
+                                                        <img data-u='image' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>Terima Penghargaan UHC Award 2024, Bupat,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -482,28 +437,27 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="block"> style="background-color: red;">
+                                    <div class="block">
                                         <div class="block-title">
-                                            <a href="https://berita.kedirikab.go.id/berita/indeks_berita" class="right">Lihat Semua</a>
-                                            <h2>Berita Utama</h2>
+                                            <h2>BERITA UTAMA</h2>
                                         </div>
                                         <div class="block-content"> 
                                             <ul class="article-block-big">
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/UHC_1.jpeg' alt=''/>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
+                                                                <img style='height:110px;width:200px' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>Terima Penghargaan UHC Award 2024, Bupati Dhito Tekankan Peningkatan Mutu Pelayanan Kesehatan</a>
-                                                            <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
                                                                 22:00:26, 08 Agu 2024
                                                             </a>
@@ -512,105 +466,105 @@
                                                 </li>
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/SMP_4.jpeg' alt=''/>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
+                                                                <img style='height:110px;width:200px' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79'>Lomba Gerak Jalan Tingkat SMP, Semarakkan Rangkaian HUT RI Ke-79</a>
-                                                            <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                00:00:29, 07 Agu 2024
+                                                                22:00:26, 08 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/lvri_3.jpeg' alt=''/>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
+                                                                <img style='height:110px;width:200px' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri'>Sebagai Bentuk Perhatian, Pemerintah Salurkan Bantuan Kepada LVRI</a>
-                                                            <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                17:00:52, 06 Agu 2024
+                                                                22:00:26, 08 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/antusias-luar-biasa-peserta-lomba-gerak-jalan-tingkat-sd-dan-sma-sederajat-dalam-rangka-hut-ri-ke79-tahun-2024' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/antusias-luar-biasa-peserta-lomba-gerak-jalan-tingkat-sd-dan-sma-sederajat-dalam-rangka-hut-ri-ke79-tahun-2024'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/BARIS_5.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
+                                                                <img style='height:110px;width:200px' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/antusias-luar-biasa-peserta-lomba-gerak-jalan-tingkat-sd-dan-sma-sederajat-dalam-rangka-hut-ri-ke79-tahun-2024'>Antusias Luar Biasa Peserta Lomba Gerak Jalan Tingkat SD dan SMA Sederajat Dalam Rangka HUT RI ke-79 Tahun 2024</a>
-                                                            <a href='https://berita.kedirikab.go.id/antusias-luar-biasa-peserta-lomba-gerak-jalan-tingkat-sd-dan-sma-sederajat-dalam-rangka-hut-ri-ke79-tahun-2024.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/antusias-luar-biasa-peserta-lomba-gerak-jalan-tingkat-sd-dan-sma-sederajat-dalam-rangka-hut-ri-ke79-tahun-2024'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                17:00:34, 06 Agu 2024
+                                                                22:00:26, 08 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/workshop-penyusunan-manajemen-resiko-spbe-2024' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/workshop-penyusunan-manajemen-resiko-spbe-2024'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/FUAD_5.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
+                                                                <img style='height:110px;width:200px' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/workshop-penyusunan-manajemen-resiko-spbe-2024'>Workshop Penyusunan Manajemen Resiko SPBE 2024</a>
-                                                            <a href='https://berita.kedirikab.go.id/workshop-penyusunan-manajemen-resiko-spbe-2024.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/workshop-penyusunan-manajemen-resiko-spbe-2024'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                16:00:28, 06 Agu 2024
+                                                                22:00:26, 08 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/mas-dhito-beri-lampu-hijau-pabrik-lakukan-ekspansi-' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-beri-lampu-hijau-pabrik-lakukan-ekspansi-'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/pabrik_3.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
+                                                                <img style='height:110px;width:200px' src='https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-2.png' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/mas-dhito-beri-lampu-hijau-pabrik-lakukan-ekspansi-'>Mas Dhito Beri Lampu Hijau Pabrik Lakukan Ekspansi</a>
-                                                            <a href='https://berita.kedirikab.go.id/mas-dhito-beri-lampu-hijau-pabrik-lakukan-ekspansi-.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>Upacara Pengibaran bendera Merah Putih 17 Agustus 2024</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/mas-dhito-beri-lampu-hijau-pabrik-lakukan-ekspansi-'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-upacara-pengibaran-bendera-merah-putih-17-agustus-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                17:00:04, 05 Agu 2024
+                                                                22:00:26, 08 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
@@ -618,13 +572,12 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <a href='http://berita.kedirikab.go.id/perbup-sistem-pemerintahan-berbasis-elektronik-kab-kediri' target='_blank'>
-                                        <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/BANNER-PERBUP-SPBE2.jpg' title='Perbup Sistem Pemerintahan Berbasis Elektronik'/>
+                                    <a href='https://kominfo.malangkab.go.id/pd/detail?title=kominfo-opd@3507-optimalisasi-sistem-pemerintahan-berbasis-elektronik-spbe-kabupaten-malang' target='_blank'>
+                                        <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://kominfo.malangkab.go.id/uploads/artikel/kominfo-opd@3507-290724_010824_3.jpeg' title='Perbup Sistem Pemerintahan Berbasis Elektronik'/>
                                     </a>
                                     <div class="block">
                                         <div class="block-title">
-                                            <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right">Semua Artikel dari kategori ini</a>
-                                            <h2>Berita kategori Keluarga, Tokoh dan Agama</h2>
+                                             <h2>ARSIP BERITA</h2>
                                         </div>
                                         <div class="block-content">
                                             <div class='wide-article'>
@@ -859,7 +812,7 @@ Kegiatan ini dihadiri . . .</p>
                                         <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/simpatik_dpmptsp.jpg' title='Simpatik'/>
                                     </a>
                                     <div class="block">
-                                        <div class="block-title" style="background:#ff0000;">
+                                        <div class="block-title" style="background:#900404;">
                                             <a href="https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan" class="right">Semua Artikel dari kategori ini</a>
                                             <h2>Berita kategori Pemerintahan, Politik, dan Keamanan</h2>
                                         </div>
@@ -1094,7 +1047,7 @@ Kegiatan ini dihadiri . . .</p>
                                         <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/home.jpg' title='Iklan Bawah Detail Berita'/>
                                     </a>
                                     <div class="block">
-                                        <div class="block-title" style="background:#ff0000;">
+                                        <div class="block-title" style="background:#900404;">
                                             <a href="#" class="right">Beberapa Berita Pilihan</a>
                                             <h2>Berita Pilihan Redaksi</h2>
                                         </div>
@@ -1102,19 +1055,19 @@ Kegiatan ini dihadiri . . .</p>
                                             <ul class="article-block-big">
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur'>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-apel-gelar-pasukan-operasi-mantap-praja-semeru-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-apel-gelar-pasukan-operasi-mantap-praja-semeru-2024'>
                                                                 <img style='height:110px;width:210px' src='https://berita.kedirikab.go.id/asset/foto_berita/WhatsApp_Image_2023-12-18_at_16_09_48.jpeg' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur'>Persiapan Kelancaran Pemilu, Pemprov Jatim Menggelar Rapat Koordinasi Bersama Forum Koordinasi Pimpinan Daerah (Forkopimda) Seluruh Provinsi Jawa Timur</a>
-                                                            <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-apel-gelar-pasukan-operasi-mantap-praja-semeru-2024'>Apel Gelar Pasukan Operasi Mantap Praja Semeru 2024</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-apel-gelar-pasukan-operasi-mantap-praja-semeru-2024' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-apel-gelar-pasukan-operasi-mantap-praja-semeru-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
                                                                 11:00:35, 18 Des 2023
                                                             </a>
@@ -1232,13 +1185,13 @@ Kegiatan ini dihadiri . . .</p>
                                 </div>
                                 <div class="content-block left">
                                     <div class="block">
-                                        <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20;">Berita
-        Corona</h2>
+                                        <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20;">PENGUMUMAN</h2>
                                         <ul class="article-list">
                                             <li>
-                                                <a href='https://berita.kedirikab.go.id/sat-set-award-2022-15-desa-terima-reward-dari-mas-dhito'>Sat Set Award 2022, 15 Desa Terima Reward dari Mas Dhito</a>
-                                                <a href='https://berita.kedirikab.go.id/sat-set-award-2022-15-desa-terima-reward-dari-mas-dhito' class='h-comment'>0</a>
-                                                <br>
+                                            <a href="https://drive.google.com/file/d/1rYWi2bFiUMYZTT2IxA8jyvhJEM9jFqWa/view?usp=sharing" target="_blank">
+                                            <img class="image_fade" src="https://malangkab.go.id/backend/uploads/Pemilihan_Mitra_Kerja_Sama_Pemanfaatan_Taman_Wisata_Air_Wendit_Kabupaten_Malang.jpg" alt="Pemilihan Mitra Kerja Sama Pemanfaatan Taman Wisata Air Wendit Kabupaten Malang" style="opacity: 1;"> 
+                                            </a>
+                                            <br>
                                                 <span class='meta-date'>08:03:37, 18 Agu 2022</span>
                                             </li>
                                             <li>
@@ -1591,54 +1544,14 @@ Kegiatan ini dihadiri . . .</p>
                             </div>
                         </div>
                         <div class="main-sidebar right">
+                            <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20;">PENGUMUMAN</h2>
                             <div class="widget" style="margin-bottom:0;">
                                 <section style='margin-bottom:10px;'>
-                                    <a href='https://www.lapor.go.id/' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/lowongan_kerja_lapor.png' alt='SP4AN LAPOR'/>
-                                    </a>
-                                    <a href='https://www.lapor.go.id/' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        SP4AN LAPOR<span class='icon-text'>&#9652;</span>
-                                    </a>
+                                <a href="https://drive.google.com/file/d/1rYWi2bFiUMYZTT2IxA8jyvhJEM9jFqWa/view?usp=sharing" target="_blank">
+                                            <img class="image_fade" src="https://malangkab.go.id/backend/uploads/Pemilihan_Mitra_Kerja_Sama_Pemanfaatan_Taman_Wisata_Air_Wendit_Kabupaten_Malang.jpg" alt="Pemilihan Mitra Kerja Sama Pemanfaatan Taman Wisata Air Wendit Kabupaten Malang" style="opacity: 1;"> 
+                                            </a>
                                 </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-dewan-pengawas-bumd-kab-k' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/Untitled-1DDW.jpg' alt='unduh pengumuman dewas bumd '/>
-                                    </a>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-dewan-pengawas-bumd-kab-k' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        unduh pengumuman dewas bumd <span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-anggota-dewan-pengawas-bu' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/design2-MAS-DHITO-AWARD-SSS.jpg' alt='Unduh Pengumuman BUMD'/>
-                                    </a>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-anggota-dewan-pengawas-bu' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Unduh Pengumuman BUMD<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://ppid.kedirikab.go.id/informasi-berkala' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/LKJIP.jpg' alt='Unduh Laporan Kinerja Pemerintah Kabupaten Kediri'/>
-                                    </a>
-                                    <a href='https://ppid.kedirikab.go.id/informasi-berkala' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Unduh Laporan Kinerja Pemerintah Kabupaten Kediri<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/logo-mas-bup-merah-dan-vector-png' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/Untitled_design1.jpg' alt='Download Logo Mas Bup'/>
-                                    </a>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/logo-mas-bup-merah-dan-vector-png' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Download Logo Mas Bup<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                            </div>
-                            <hr>
+                
                             <div class="widget">
                                 <h3>Temukan kami di Media Sosial</h3>
                                 <div class="widget-social">
@@ -1855,10 +1768,9 @@ Kegiatan ini dihadiri . . .</p>
                 </li> -->
             </ul>
             <p>
-                &copy;2024‒2025 &mdash;<b style='color:#ff0000 '>Kominfo-CMS</b>
-                . All Rights reserved.<br/>
+                &copy;2024‒2025 &mdash; All Rights reserved.<br/>
                 Developed by 
-                <a href='https://diskominfo.kedirikab.go.id/' target='_blank'>
+                <a href='https://kominfo.malangkab.go.id/pd/' target='_blank'>
                     <b style='color:#ff0000 '>DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN MALANG</b>
                 </a>
             </p>
@@ -1976,11 +1888,5 @@ Kegiatan ini dihadiri . . .</p>
     });
 </script>
 </body>
-<!--
-Developed by:
-BAGOS ANGGARA, A.Md. & ARDY ERWANDA, S.Kom.
-DISKOMINFO KABUPATEN KEDIRI
-© 2019—2024
-All rights reserved
--->
+
 </html>

@@ -1,0 +1,35 @@
+#Back-to-top { text-align: center; z-index: 99999; position: fixed; bottom: 40px; right: 30px; cursor: pointer; display: none; opacity: 0.7; } 
+#Back-to-top:hover { opacity: 1; } 
+.table-download th, 
+.table-download td{ border:1px dotted #cecece; padding-left:5px; padding-top:9px; padding-bottom:9px; color: #000;}
+.table-download tr th:last-child {
+	width: 110px;
+}
+.table-download td:last-child {
+	text-align: center;
+}
+.table-download tr:hover > :not(th) {
+	background-color: #FFE0B2 !important;
+}
+.table-download td:hover {
+	cursor: pointer;
+}
+.table-download td a {
+	border-radius: 10px;
+}
+.table-download td a > i {
+	margin-top: 2px;
+}
+
+@media only screen and (max-width: 1200px) {
+
+	.main-sidebar.right {
+	    display: block !important;
+	    float: none;
+	}
+
+	.main-sidebar.right > .widget:first-child {
+	    /**/
+	}
+
+}
