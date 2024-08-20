@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="id">
     <head>
-        <title>Website Berita Resmi Pemerintah Kabupaten Kediri — DISKOMINFO</title>
+        <title>malangkab.go.id</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
@@ -14,7 +14,7 @@
         <meta NAME="Distribution" CONTENT="Global">
         <meta NAME="Rating" CONTENT="General">
         <link rel="canonical" href="//berita.kedirikab.go.id/"/>
-        <link rel="shortcut icon" href="https://berita.kedirikab.go.id/asset/images/favicon.png"/>
+        <link rel="shortcut icon" href="asset/logo/logokab.png"/>
         <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.xml"/>
         <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/reset.css"/>
         <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/main-stylesheet.css"/>
@@ -78,12 +78,12 @@
             <div class="header">
                 <div class='wrapper'>
                     <div class='header-logo'>
-                        <a href='https://berita.kedirikab.go.id/'>
-                            <!-- <img src='https://berita.kedirikab.go.id/asset/logo/logomalang.jpg'/> -->
+                        <a href='https://malangkab.go.id/'>
+                            <img src='asset/logo/maskot.png' width="100" height="auto"/>
                         </a>
                     </div>
                     <div class='header-menu'>
-                        <ul>
+                        <!-- <ul>
                             <li>
                                 <a href='https://berita.kedirikab.go.id/halaman/detail/tentang-kami'>Tentang Kami</a>
                             </li>
@@ -96,11 +96,12 @@
                             <li>
                                 <a href='https://berita.kedirikab.go.id/berita/indeks_berita'>Index Berita</a>
                             </li>
-                        </ul>
-                        <p>PEMERINTAH KABUPATEN MALANG
-						</p>
+                        </ul> -->
+                        <p style="font-size: 30px; font-weight: bold;">PEMERINTAH KABUPATEN MALANG</p>
+                            
                         <ul>
                             <li>
+                                <a> Malangkab.go.id</a>
                                 <!-- <a href='tel:+62354682152'>
                                     <span class='fa fa-phone' style='margin-right:.5rem;vertical-align:middle;'></span>
                                     Hubungi kami di: (0354) 682152 / 696714
@@ -146,28 +147,28 @@
 								</a>
 								<ul>
 								<li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan'>SAKIP</a>
+                                        <a href="https://malangkab.go.id/Laporan/Lakip">SAKIP</a>
                                     </li>
                                     <li>
                                         <a href='https://berita.kedirikab.go.id/kategori/detail/kesehatan-sosial-dan-lingkungan-hidup'>Misi Kabupaten Malang</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pertanian--perkebunan-perikanan-dan-peternakan'>Program Pembangunan</a>
+                                        <a href="https://malangkab.go.id/Berita/index/misi-kabupaten-malang">Program Pembangunan</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pariwisata-seni-dan-budaya'>Visi Kabupaten Malang</a>
+                                        <a href="https://malangkab.go.id/Berita/index/program-pembangunan">>Visi Kabupaten Malang</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/umkm-koperasi-dan-perdagangan'>Selayang Pandang</a>
+                                        <a href="https://malangkab.go.id/Berita/index/visi-kabupaten-malang">Selayang Pandang</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/industri-dan-teknologi'>RPJMD</a>
+                                        <a href="https://malangkab.go.id/Berita/index/selayang-pandang-mlg">RPJMD</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama'>RPJPD</a>
+                                        <a href="https://malangkab.go.id/Berita/index/rpjmd">RPJPD</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/stunting'>Struktur Organisasi Kabupaten Malang</a>
+                                        <a href="https://malangkab.go.id/Berita/index/title=struktur-organisasi-kabupaten-malang">Struktur Organisasi Kabupaten Malang</a>
                                     </li>
 							</ul>
                             </li>
@@ -177,19 +178,19 @@
                                 </a>
                                 <ul>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan'>Bupati</a>
+                                        <a href="https://malangkab.go.id/Berita/index/bupati">Bupati</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/kesehatan-sosial-dan-lingkungan-hidup'>Wakil Bupati</a>
+                                        <a href="https://malangkab.go.id/Berita/index/wakil-bupati">Wakil Bupati</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pertanian--perkebunan-perikanan-dan-peternakan'>Pejabat Ekonomi</a>
+                                        <a href="https://malangkab.go.id/Berita/index/pejabat-eksekutif">Pejabat Ekonomi</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pariwisata-seni-dan-budaya'>Pejabat Eksekutif Kecamatan</a>
+                                        <a href="https://malangkab.go.id/Berita/index/pejabat-eksekutif-kecamatan">Pejabat Eksekutif Kecamatan</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/umkm-koperasi-dan-perdagangan'>Periode Bupati</a>
+                                        <a href="https://malangkab.go.id/Berita/index/title-periode-bupati">Periode Bupati</a>
                                     </li>
                                     <li>
                                 </ul>
@@ -481,12 +482,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="block">
+                                    <div class="block"> style="background-color: red;">
                                         <div class="block-title">
                                             <a href="https://berita.kedirikab.go.id/berita/indeks_berita" class="right">Lihat Semua</a>
                                             <h2>Berita Utama</h2>
                                         </div>
-                                        <div class="block-content">
+                                        <div class="block-content"> 
                                             <ul class="article-block-big">
                                                 <li>
                                                     <div class='article-photo'>
@@ -1840,7 +1841,7 @@ Kegiatan ini dihadiri . . .</p>
     <div class="footer">
         <div class='wrapper'>
             <ul class='right'>
-                <li>
+                <!-- <li>
                     <a href='https://berita.kedirikab.go.id/halaman/detail/alamat-kantor'>Alamat Kami</a>
                 </li>
                 <li>
@@ -1851,14 +1852,14 @@ Kegiatan ini dihadiri . . .</p>
                 </li>
                 <li>
                     <a href='https://berita.kedirikab.go.id/berita/indeks_berita'>Index Berita</a>
-                </li>
+                </li> -->
             </ul>
             <p>
-                &copy;2019‒2024 &mdash;<b style='color:#FF7043'>Kominfo-CMS</b>
+                &copy;2024‒2025 &mdash;<b style='color:#ff0000 '>Kominfo-CMS</b>
                 . All Rights reserved.<br/>
                 Developed by 
                 <a href='https://diskominfo.kedirikab.go.id/' target='_blank'>
-                    <b style='color:#FF9100'>DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN KEDIRI</b>
+                    <b style='color:#ff0000 '>DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN MALANG</b>
                 </a>
             </p>
         </div>
