@@ -1037,7 +1037,7 @@ Kegiatan ini dihadiri . . .</p>
                                         </div>
                                     </div>
                                 </div>
-
+                                
                                 <!-- <------Footer-left-------> 
                                 <div class="content-block left">
                                     <div class="block">
@@ -1507,14 +1507,7 @@ Kegiatan ini dihadiri . . .</p>
             </div>
         </div>
     </div>
-</div>
 
-    
-           
-        </div>
-    </div>
-</footer>
-</div>
 <!-- Load all required scripts -->
 <script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/jquery-latest.min.js"></script>
