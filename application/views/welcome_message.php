@@ -157,7 +157,7 @@
                                         <a href="https://malangkab.go.id/Berita/index/misi-kabupaten-malang">Program Pembangunan</a>
                                     </li>
                                     <li>
-                                        <a href="https://malangkab.go.id/Berita/index/program-pembangunan">>Visi Kabupaten Malang</a>
+                                        <a href="https://malangkab.go.id/Berita/index/program-pembangunan">Visi Kabupaten Malang</a>
                                     </li>
                                     <li>
                                         <a href="https://malangkab.go.id/Berita/index/visi-kabupaten-malang">Selayang Pandang</a>
@@ -782,7 +782,7 @@ Kegiatan ini dihadiri . . .</p>
                                     <!-- <a href="https://simpatik.kedirikab.go.id/" target="_blank">
                                         <img style="margin-top:-10px;margin-bottom:5px" width="100%" src="https://berita.kedirikab.go.id/asset/foto_iklantengah/simpatik_dpmptsp.jpg" title="Simpatik">
                                     </a> -->
-                                    <<div class="block">
+                                    <div class="block">
                                         <div class="block-title">
                                             <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right"><div><span style="margin-top:4px;" class="fa fa-arrow-right"></span> Lihat semua</div></a>
                                             <h2>POTENSI DAERAH</h2>
@@ -1014,6 +1014,7 @@ Kegiatan ini dihadiri . . .</p>
                                             </div>
                                         </div>
                                     </div>
+
                                       <!-- SURATWARGA Logo -->
                                      <img src="asset/download/surat warga.png" alt="SURATWARGA Logo" style="max-width: 30%; height: auto; margin-top: 1px;">
                                     <a href="https://play.google.com/store" target="_blank">
@@ -1022,19 +1023,93 @@ Kegiatan ini dihadiri . . .</p>
                                      <!-- SURAT WARGA -->
                                     <div class="block">
                                         <div class="block-content">
-                                            <ul class="article-block-big">
-                                                    <div class="article-content">
-                                                        <span class="meta">
-                                                        <br><br><br>
-                                                        <div class="card border">
-                                                        <div class="card-header p-3 pl-4" style="background-color:#008000">
-                                   
-                                                            </div>
-                                                        </span>
-                                                    </div>
-                                                </li>
-                                            </ul>
+                                
                                         </div>
+                                        <div class="block">
+                                        <div class="block-title">
+                                            <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right"><div><span style="margin-top:4px;" class="fa fa-arrow-right"></span> Lihat semua</div></a>
+                                            <h2>GALERY DAERAH</h2>
+                                        </div>
+                                        <div class="block-content">
+                                            <div class="wide-article">
+                    
+                                            </div>
+                                            <div class="paragraph-row">
+                                                <!-- BEGIN .column6 -->
+                                                <div class="column6">
+                                                    
+                                                    <!-- END .column6 -->
+                                                </div>
+                                                <!-- BEGIN .column6 -->
+                                                <div class="column6">
+                                                    <ul class="article-block">
+                                                        
+                                                    </ul>
+                                                    <!-- END .column6 -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="block">
+                                        <div class="block-title">
+                                            <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right"><div><span style="margin-top:4px;" class="fa fa-arrow-right"></span> Lihat semua</div></a>
+                                            <h2>POTENSI DAERAH</h2>
+                                        </div>
+                                        <div class="block-content">
+                                            <div class="wide-article">
+                    
+                                            </div>
+                                            <div class="paragraph-row">
+                                                <!-- BEGIN .column6 -->
+                                                <div class="column6">
+                                                    
+                                                    <!-- END .column6 -->
+                                                </div>
+                                                <!-- BEGIN .column6 -->
+                                                <div class="column6">
+                                                    <ul class="article-block">
+                                                        
+                                                    </ul>
+                                                    <!-- END .column6 -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="block">
+                                        <div class="block-title">
+                                            <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right"><div><span style="margin-top:4px;" class="fa fa-arrow-right"></span> Lihat semua</div></a>
+                                            <h2>SISTEM INFORMASI</h2>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    <div class="block">
+                                        <div class="block-title">
+                                            <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right"><div><span style="margin-top:4px;" class="fa fa-arrow-right"></span> Lihat semua</div></a>
+                                            <h2>SUB DOMAIN</h2>
+                                        </div>
+                                        <div class="block-content">
+                                            <div class="wide-article">
+                    
+                                            </div>
+                                            <div class="paragraph-row">
+                                                <!-- BEGIN .column6 -->
+                                                <div class="column6">
+                                                    
+                                                    <!-- END .column6 -->
+                                                </div>
+                                                <!-- BEGIN .column6 -->
+                                                <div class="column6">
+                                                    <ul class="article-block">
+                                                        
+                                                    </ul>
+                                                    <!-- END .column6 -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     </div>
                                 </div>
 
