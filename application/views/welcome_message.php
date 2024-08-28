@@ -1058,7 +1058,7 @@ Kegiatan ini dihadiri . . .</p>
                                         </div>
                                         <div class="block-content">
                                             <div class="wide-article">
-                    
+                                            
                                             </div>
                                             <div class="paragraph-row">
                                                 <!-- BEGIN .column6 -->
@@ -1692,6 +1692,6 @@ Kegiatan ini dihadiri . . .</p>
     $(function() {/*$('footer .wrapper p > a').after('<p>Your IP Address: 157.10.158.1</p>');*/
     });
 </script>
-</body>
 
+</body>
 </html>
