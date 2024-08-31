@@ -1888,6 +1888,9 @@ p .required {
 	background: #4260b4;
 }
 
+.widget .social-bar a span.youtube {
+	background: #b10202;
+}
 .widget .social-bar a span.twitter {
 	background: #3fb9d7;
 }
@@ -2333,6 +2336,7 @@ a.hover-effect:hover .cover i:before {
 	display: block;
 	color: #a0a0a0;
 	background: #f0efef;
+	clear: both;
 }
 
 .footer p {

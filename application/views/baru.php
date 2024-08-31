@@ -1,16 +1,211 @@
+<!DOCTYPE HTML>
+<html lang="id">
+    <head>
+        <title>Website Berita Resmi Pemerintah Kabupaten Kediri — DISKOMINFO</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
+        <meta name="robots" content="index, follow">
+        <meta name="description" content="Menyajikan berita terbaru, tercepat, dan terpercaya seputar Pemerintah Kabupaten Kediri.">
+        <meta name="keywords" content="Selamat datang di website resmi Pemerintah Kabupaten Kediri. ">
+        <meta name="author" content="BAGOS ANGGARA & ARDY ERWANDA - DISKOMINFO KABUPATEN KEDIRI">
+        <meta name="robots" content="all,index,follow">
+        <meta http-equiv="Content-Language" content="id-ID">
+        <meta NAME="Distribution" CONTENT="Global">
+        <meta NAME="Rating" CONTENT="General">
+        <link rel="canonical" href="//berita.kedirikab.go.id/"/>
+        <link rel="shortcut icon" href="https://berita.kedirikab.go.id/asset/images/favicon.png"/>
+        <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.xml"/>
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/reset.css"/>
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/main-stylesheet.css"/>
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/shortcode.css"/>
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/fonts.css"/>
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/responsive.css"/>
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/style.css">
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/animated_social_icons.css">
+        <!-- JssorSlider CSS -->
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/slide/slide.css">
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/asset/libs/JssorSlider/css/jssor-new.css">
+        <link rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/lightbox/lightbox.css">
+        <link rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/fonts/font-awesome.min.css">
+        <!-- Custom CSS -->
+        <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/asset/css/custom.css"/>
+        <style type="text/css">
+            .the-menu a.active {
+                color: #d9d19c !important;
+            }
+        </style>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GZS9WEMZ5B"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
 
-        
-        <!-- topbar content -->
+            gtag('config', 'G-GZS9WEMZ5B');
+        </script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0]
+                  , j = d.createElement(s)
+                  , dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            }
+            )(window, document, 'script', 'dataLayer', 'GTM-WNSR784');
+        </script>
+        <!-- End Google Tag Manager -->
+        <!-- Cloudflare Web Analytics -->
+        <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8d103a4a79b5466f83ec83d329949138"}'></script>
+        <!-- End Cloudflare Web Analytics -->
+    </head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNSR784" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <div id='Back-to-top'>
+            <img alt='Scroll to top' src='https://berita.kedirikab.go.id/asset/images/blue/top.png'/>
+        </div>
+        <div class="boxed">
+            <div class="header">
+                <div class='wrapper'>
+                    <div class='header-logo'>
+                        <a href='https://berita.kedirikab.go.id/'>
+                            <img src='https://berita.kedirikab.go.id/asset/logo/logoberita21.png'/>
+                        </a>
+                    </div>
+                    <div class='header-menu'>
+                        <ul>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/halaman/detail/tentang-kami'>Tentang Kami</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/halaman/detail/alamat-kantor'>Alamat Kami</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/hubungi'>Hubungi Kami</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/berita/indeks_berita'>Index Berita</a>
+                            </li>
+                        </ul>
+                        <p>Menyajikan berita terbaru, tercepat, dan terpercaya seputar Pemerintah Kabupaten Kediri.</p>
+                        <ul>
+                            <li>
+                                <a href='tel:+62354682152'>
+                                    <span class='fa fa-phone' style='margin-right:.5rem;vertical-align:middle;'></span>
+                                    Hubungi kami di: (0354) 682152 / 696714
+                                </a>
+                            </li>
+                            <li>
+                                <a id='mailto-link' href="/cdn-cgi/l/email-protection#a7c3ced4ccc8cacec9c1c8e7ccc2c3ced5ceccc6c589c0c889cec3" target='_BLANK'>
+                                    <span class='fa fa-envelope' style='margin-right:.5rem;vertical-align:middle;'></span>
+                                    E-mail: diskominfo[at]kedirikab.go.id
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class='header-addons'>
+                        <span class='city'>
+                            Rabu, 28 Agu 2024, <span id='jam'></span>
+                        </span>
+                        <div class='header-search'>
+                            <form action="https://berita.kedirikab.go.id/berita/index" method="post" accept-charset="utf-8">
+                                <input type='text' placeholder='Cari berita atau informasi' name='kata' class='search-input' autocomplete='off' required/>
+                                <input type='submit' value='Search' name='cari' class='search-button'/>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class='main-menu sticky'>
+                    <div class='wrapper'>
+                        <ul class='the-menu'>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/' style='background:url(https://berita.kedirikab.go.id/asset/images/home.png) no-repeat center;font-size:0;width:34px;'>
+                                    <br>
+                                </a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/kategori/detail/corona'>Corona</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id//berita/indeks_berita'>
+                                    <span>Berita</span>
+                                </a>
+                                <ul>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan'>Pemerintahan, Politik, dan Kea</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/kesehatan-sosial-dan-lingkungan-hidup'>Kesehatan, Sosial dan Lingkung</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pertanian--perkebunan-perikanan-dan-peternakan'>Pertanian, Perkebunan, Perikan</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pariwisata-seni-dan-budaya'>Pariwisata, Seni dan Budaya</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/umkm-koperasi-dan-perdagangan'>UMKM, Koperasi dan Perdagangan</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/industri-dan-teknologi'>Industri dan Teknologi</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama'>Keluarga, Tokoh dan Agama</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/stunting'>Stunting</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/olahraga'>Olahraga</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/pendidikan-dan-olahraga'>Pendidikan</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id//kategori/detail/infrastruktur'>Infrastruktur</a>
+                                    </li>
+                                    <li>
+                                        <a href='https://berita.kedirikab.go.id/kategori/detail/warta-desa-dan-citizen-journalism'>Warta Desa dan Citizen Journal</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/playlist'>Video</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/albums'>Berita Foto</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/download'>Download</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/agenda'>Agenda</a>
+                            </li>
+                            <li>
+                                <a href='https://berita.kedirikab.go.id/pengumuman'>Pengumuman</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
             <div class="content">
                 <div class="wrapper">
                     <div class="main-content">
                         <div id="jssor_1" style="position:relative;margin:0 auto;top:0;left:0;width:1366px;height:300px;overflow:hidden;visibility:hidden;">
                             <div data-u="slides" style="cursor:default;position:relative;top:0;left:0;width:1366px;height:300px;overflow:hidden;">
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/pengumuman-hasil-seleksi-administrasi-calon-dewan-pengawas-bumd-kabupaten-kediri-2024' target='_BLANK' title='Pengumuman Hasil Seleksi Administrasi Calon Dewan Pengawas BUMD Kabupaten Kediri 2024	'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---BANK-DAERAH-@@sw1.jpg'/>
-                                    </a>
-                                </div>
                                 <div>
                                     <a href='https://berita.kedirikab.go.id/halaman/detail/penerimaan-calon-pegawai-negeri-sipil-di-lingkungan-pemerintah-kabupaten-kediri-tahun-anggaran-2024' target='_BLANK' title='Penerimaan Calon Pegawai Negeri Sipil di Lingkungan Pemerintah Kabupaten Kediri Tahun Anggaran 2024'>
                                         <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---JADWAL-PPPK-hasil-akhDir.jpg'/>
@@ -31,9 +226,12 @@
                                         <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---Statistik-Pendidikan-sddd.jpg'/>
                                     </a>
                                 </div>
+                                <div>
+                                    <a href='https://berita.kedirikab.go.id/halaman/detail/profil-kesehatan-kabupaten-kediri-tahun-2022' target='_BLANK' title='Profil Kesehatan Kabupaten Kediri Tahun 2022'>
+                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---Statistik-Kesehatan.jpg'/>
+                                    </a>
+                                </div>
                             </div>
-                    <!-- end topbar content -->
-                    
                             <!-- Bullet Navigator -->
                             <div data-u="navigator" class="jssorb031" style="position:absolute;bottom:16px;right:16px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
                                 <div data-u="prototype" class="i" style="width:13px;height:13px;">
@@ -57,37 +255,37 @@
                     </div>
                     <hr>
                     <div class="breaking-news">
-                        <span class="the-title">Berita Terkini  </span>
+                        <span class="the-title">Breaking News</span>
                         <ul>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jalan Santai Desa Gempolan Kabupaten Kediri Dalam Rangka Memperingati HUT RI ke-79</a>
+                                <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>Nusantara Baru Indonesia Maju, Mbak Dewi Hadiri Doa Bersama Umat Kristiani</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
+                                <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa'>Upacara Pelantikan Pramuka Garuda dan Penganugerahan Lencana Pancawarasa</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
+                                <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>Rapat Koordinasi Pimpinan Kwarcab Kabupaten Kediri dan Kwaran SBH Kabupaten Kediri</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
+                                <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>Kwartir Ranting Ngadiluwih Gelar Pentas Seni Jambore Ranting 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
+                                <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>Ikuti Jalannya Simulasi Sispamkota, Mas Dhito Berharap Pilkada 2024 Berjalan Kondusif </a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>Nusantara Baru, Mas Dhito Tancap Gas Tingkatkan Program Prioritas</a>
+                                <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Kukuhkan 75 Anggota Paskibraka Kabupaten Kediri 2024</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan'>Apel Kehormatan dan Renungan Suci Kenang Jasa Pahlawan</a>
+                                <a href='https://berita.kedirikab.go.id/hadiri-undangan-presiden-mas-dhito-tanpa-sengaja-bertemu-warganya-di-ikn'>Hadiri Undangan Presiden, Mas Dhito Tanpa Sengaja Bertemu Warganya di IKN</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79'>Mbak Dewi Pimpin Langsung Upacara Peringatan Hari Kemerdekaan Indonesia ke-79</a>
+                                <a href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat'>Transparansi, Akuntabilitas dan Efektivitas Pemerintah Dalam Menyediakan Informasi Kepada Masyarakat</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Mengukuhkan Anggota Paskibraka Kabupaten Kediri 2024</a>
+                                <a href='https://berita.kedirikab.go.id/melalui-lomba-burung-sosialisasikan-pelestarian-jaga-dari-kepunahan'>Melalui Lomba Burung, Sosialisasikan Pelestarian Jaga Dari Kepunahan</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>Pesan Mas Bupati, Harus Berkomitmen Meningkatkan Pelayanan Kesehatan Bagi Marayakat</a>
+                                <a href='https://berita.kedirikab.go.id/persatuan-perangkat-desa-kabupaten-kediri-rayakan-ulang-tahun-ke18'>Persatuan Perangkat Desa Kabupaten Kediri Rayakan Ulang Tahun Ke-18</a>
                             </li>
                         </ul>
                     </div>
@@ -105,27 +303,27 @@
                                                 </div>
                                                 <div data-u="slides" class='slides'>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/jls_1.jpeg'/>
+                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/kris_1.jpeg'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jala,..</a>
+                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>Nusantara Baru Indonesia Maju, Mbak Dewi,..</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg'/>
+                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/lantik_1.jpeg'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar ,..</a>
+                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa'>Upacara Pelantikan Pramuka Garuda dan Pe,..</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg'/>
+                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/no-image-main.jpg'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasi,..</a>
+                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>Rapat Koordinasi Pimpinan Kwarcab Kabupa,..</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg'/>
+                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/pram_3.jpeg'/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna,..</a>
+                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>Kwartir Ranting Ngadiluwih Gelar Pentas ,..</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -159,126 +357,126 @@
                                             <ul class="article-block-big">
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/jls_1.jpeg' alt=''/>
+                                                        <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif ' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>
+                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/pam_1.jpeg' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jalan Santai Desa Gempolan Kabupaten Kediri Dalam Rangka Memperingati HUT RI ke-79</a>
-                                                            <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79.html' class='h-comment'>0</a>
+                                                            <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>Ikuti Jalannya Simulasi Sispamkota, Mas Dhito Berharap Pilkada 2024 Berjalan Kondusif </a>
+                                                            <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif .html' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>
+                                                            <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                16:00:41, 25 Agu 2024
+                                                                16:00:13, 16 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg' alt=''/>
+                                                        <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>
+                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/kukuh_4.jpeg' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
-                                                            <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional.html' class='h-comment'>0</a>
+                                                            <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Kukuhkan 75 Anggota Paskibraka Kabupaten Kediri 2024</a>
+                                                            <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024.html' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
+                                                            <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                16:00:31, 23 Agu 2024
+                                                                15:00:35, 15 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg' alt=''/>
+                                                        <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>
+                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/kris_1.jpeg' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
-                                                            <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas.html' class='h-comment'>0</a>
+                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>Nusantara Baru Indonesia Maju, Mbak Dewi Hadiri Doa Bersama Umat Kristiani</a>
+                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani.html' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
+                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                16:00:24, 21 Agu 2024
+                                                                22:00:18, 14 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg' alt=''/>
+                                                        <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>
+                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/small_no-image.jpg' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
-                                                            <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera.html' class='h-comment'>0</a>
+                                                            <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>Rapat Koordinasi Pimpinan Kwarcab Kabupaten Kediri dan Kwaran SBH Kabupaten Kediri</a>
+                                                            <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri.html' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
+                                                            <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                15:00:34, 21 Agu 2024
+                                                                19:00:31, 14 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/uks_4.jpeg' alt=''/>
+                                                        <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>
+                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/pram_3.jpeg' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
-                                                            <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas.html' class='h-comment'>0</a>
+                                                            <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>Kwartir Ranting Ngadiluwih Gelar Pentas Seni Jambore Ranting 2024</a>
+                                                            <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024.html' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
+                                                            <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                15:00:29, 19 Agu 2024
+                                                                22:00:47, 13 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/detik_1.jpeg' alt=''/>
+                                                        <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa'>
+                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/lantik_1.jpeg' alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>Nusantara Baru, Mas Dhito Tancap Gas Tingkatkan Program Prioritas</a>
-                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas.html' class='h-comment'>0</a>
+                                                            <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa'>Upacara Pelantikan Pramuka Garuda dan Penganugerahan Lencana Pancawarasa</a>
+                                                            <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa.html' class='h-comment'>0</a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>
+                                                            <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                17:00:24, 17 Agu 2024
+                                                                22:00:28, 13 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
@@ -532,22 +730,22 @@
                                         <div class="block-content">
                                             <div class='wide-article'>
                                                 <div class='article-photo'>
-                                                    <a class='hover-effect' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
-                                                        <img style='width:160px;height:117px;' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg' alt=''/>
+                                                    <a class='hover-effect' href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>
+                                                        <img style='width:160px;height:117px;' src='https://berita.kedirikab.go.id/asset/foto_berita/pam_1.jpeg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h2>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas' class='h-comment'>0</a>
+                                                        <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>Ikuti Jalannya Simulasi Sispamkota, Mas Dhito Berharap Pilkada 2024 Berjalan Kondusif </a>
+                                                        <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif ' class='h-comment'>0</a>
                                                     </h2>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
+                                                        <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            16:00:24, 21 Agu 2024 - Oleh : Dinas Kominfo Kab. Kediri
+                                                            16:00:13, 16 Agu 2024 - Oleh : Dinas Kominfo Kab. Kediri
                                                         </a>
                                                     </span>
-                                                    <p>Pemerintah Kabupaten Kediri melalui Inspektorat menggelar Sosialisasi Anti Korupsi di lingkungan Pemkab Kediri, Kegiatan ini mempunyai tujuan mewujudkan Pemerintahan yang bersih, transparan dan berintegritas bertempat di Ruang Joyoboyo Kabupaten . . .</p>
+                                                    <p>Kediri – Bupati Hanindhito Himawan Pramana menyaksikan jalannya simulasi sistem kemanan kota (Sispamkota) dalam rangka kesiapan pengamanan Pilkada 2024 yang diadakan Polres Kediri di depan Kantor Dinas Perhubungan Kabupaten Kediri, Jumat . . .</p>
                                                 </div>
                                             </div>
                                             <div class="paragraph-row">
@@ -556,127 +754,7 @@
                                                     <ul class="article-block">
                                                         <li>
                                                             <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg' alt='HAN_1.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:34, 21 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/detik_1.jpeg' alt='detik_1.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>Nusantara Baru, Mas Dhito Tancap Gas Tingkatkan Program Prioritas</a>
-                                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        17:00:24, 17 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/tmp_2.jpeg' alt='tmp_2.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan'>Apel Kehormatan dan Renungan Suci Kenang Jasa Pahlawan</a>
-                                                                    <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:49, 17 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/dewi_dewi_4.jpeg' alt='dewi_dewi_4.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79'>Mbak Dewi Pimpin Langsung Upacara Peringatan Hari Kemerdekaan Indonesia ke-79</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        13:00:02, 17 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif .html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/pam_11.jpeg' alt='pam_11.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>Ikuti Jalannya Simulasi Sispamkota, Mas Dhito Berharap Pilkada 2024 Berjalan Kondusif </a>
-                                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif ' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        16:00:13, 16 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                    </ul>
-                                                    <!-- END .column6 -->
-                                                </div>
-                                                <!-- BEGIN .column6 -->
-                                                <div class="column6">
-                                                    <ul class="article-block">
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/paski_kukuh_4.jpeg' alt='paski_kukuh_4.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Mengukuhkan Anggota Paskibraka Kabupaten Kediri 2024</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:52, 16 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024.html'>
                                                                     <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/kukuh_4.jpeg' alt='kukuh_4.jpeg'/>
                                                                 </a>
                                                             </div>
@@ -695,26 +773,7 @@
                                                         </li>
                                                         <li>
                                                             <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/suka_1.jpeg' alt='suka_1.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>Pesan Mas Bupati, Harus Berkomitmen Meningkatkan Pelayanan Kesehatan Bagi Marayakat</a>
-                                                                    <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 14 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/hadiri-undangan-presiden-mas-dhito-tanpa-sengaja-bertemu-warganya-di-ikn'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/hadiri-undangan-presiden-mas-dhito-tanpa-sengaja-bertemu-warganya-di-ikn.html'>
                                                                     <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/ikn_2.jpeg' alt='ikn_2.jpeg'/>
                                                                 </a>
                                                             </div>
@@ -733,7 +792,7 @@
                                                         </li>
                                                         <li>
                                                             <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat.html'>
                                                                     <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/ppid_1.jpeg' alt='ppid_1.jpeg'/>
                                                                 </a>
                                                             </div>
@@ -746,6 +805,145 @@
                                                                     <a href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat'>
                                                                         <span class='icon-text'>&#128340;</span>
                                                                         17:00:54, 12 Agu 2024
+                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/persatuan-perangkat-desa-kabupaten-kediri-rayakan-ulang-tahun-ke18.html'>
+                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/ppdi_1.jpeg' alt='ppdi_1.jpeg'/>
+                                                                </a>
+                                                            </div>
+                                                            <div class='article-content'>
+                                                                <h4>
+                                                                    <a href='https://berita.kedirikab.go.id/persatuan-perangkat-desa-kabupaten-kediri-rayakan-ulang-tahun-ke18'>Persatuan Perangkat Desa Kabupaten Kediri Rayakan Ulang Tahun Ke-18</a>
+                                                                    <a href='https://berita.kedirikab.go.id/persatuan-perangkat-desa-kabupaten-kediri-rayakan-ulang-tahun-ke18' class='h-comment'>0</a>
+                                                                </h4>
+                                                                <span class='meta'>
+                                                                    <a href='https://berita.kedirikab.go.id/persatuan-perangkat-desa-kabupaten-kediri-rayakan-ulang-tahun-ke18'>
+                                                                        <span class='icon-text'>&#128340;</span>
+                                                                        17:00:28, 10 Agu 2024
+                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/veteran-tangguh-indonesia-emas-tumbuh.html'>
+                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/vet_1.jpeg' alt='vet_1.jpeg'/>
+                                                                </a>
+                                                            </div>
+                                                            <div class='article-content'>
+                                                                <h4>
+                                                                    <a href='https://berita.kedirikab.go.id/veteran-tangguh-indonesia-emas-tumbuh'>Veteran Tangguh, Indonesia Emas Tumbuh</a>
+                                                                    <a href='https://berita.kedirikab.go.id/veteran-tangguh-indonesia-emas-tumbuh' class='h-comment'>0</a>
+                                                                </h4>
+                                                                <span class='meta'>
+                                                                    <a href='https://berita.kedirikab.go.id/veteran-tangguh-indonesia-emas-tumbuh'>
+                                                                        <span class='icon-text'>&#128340;</span>
+                                                                        17:00:26, 10 Agu 2024
+                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                    <!-- END .column6 -->
+                                                </div>
+                                                <!-- BEGIN .column6 -->
+                                                <div class="column6">
+                                                    <ul class="article-block">
+                                                        <li>
+                                                            <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>
+                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/UHC_1.jpeg' alt='UHC_1.jpeg'/>
+                                                                </a>
+                                                            </div>
+                                                            <div class='article-content'>
+                                                                <h4>
+                                                                    <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>Terima Penghargaan UHC Award 2024, Bupati Dhito Tekankan Peningkatan Mutu Pelayanan Kesehatan</a>
+                                                                    <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-' class='h-comment'>0</a>
+                                                                </h4>
+                                                                <span class='meta'>
+                                                                    <a href='https://berita.kedirikab.go.id/terima-penghargaan-uhc-award-2024-bupati-dhito-tekankan-peningkatan-mutu-pelayanan-kesehatan-'>
+                                                                        <span class='icon-text'>&#128340;</span>
+                                                                        22:00:26, 08 Agu 2024
+                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/gerakan-kediri-cinta-dan-peduli-veteran-pemerintah-kabupaten-kediri-laksanakan-home-visit'>
+                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/visit_3.jpeg' alt='visit_3.jpeg'/>
+                                                                </a>
+                                                            </div>
+                                                            <div class='article-content'>
+                                                                <h4>
+                                                                    <a href='https://berita.kedirikab.go.id/gerakan-kediri-cinta-dan-peduli-veteran-pemerintah-kabupaten-kediri-laksanakan-home-visit'>Gerakan Kediri Cinta dan Peduli Veteran Pemerintah Kabupaten Kediri Laksanakan 'Home Visit'</a>
+                                                                    <a href='https://berita.kedirikab.go.id/gerakan-kediri-cinta-dan-peduli-veteran-pemerintah-kabupaten-kediri-laksanakan-home-visit' class='h-comment'>0</a>
+                                                                </h4>
+                                                                <span class='meta'>
+                                                                    <a href='https://berita.kedirikab.go.id/gerakan-kediri-cinta-dan-peduli-veteran-pemerintah-kabupaten-kediri-laksanakan-home-visit'>
+                                                                        <span class='icon-text'>&#128340;</span>
+                                                                        00:00:05, 07 Agu 2024
+                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri'>
+                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/lvri_3.jpeg' alt='lvri_3.jpeg'/>
+                                                                </a>
+                                                            </div>
+                                                            <div class='article-content'>
+                                                                <h4>
+                                                                    <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri'>Sebagai Bentuk Perhatian, Pemerintah Salurkan Bantuan Kepada LVRI</a>
+                                                                    <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri' class='h-comment'>0</a>
+                                                                </h4>
+                                                                <span class='meta'>
+                                                                    <a href='https://berita.kedirikab.go.id/sebagai-bentuk-perhatian-pemerintah-salurkan-bantuan-kepada-lvri'>
+                                                                        <span class='icon-text'>&#128340;</span>
+                                                                        17:00:52, 06 Agu 2024
+                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/pemerintah-kabupaten-kediri-kembali-gelar-pembinaan-mental'>
+                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/mentalan_3.jpeg' alt='mentalan_3.jpeg'/>
+                                                                </a>
+                                                            </div>
+                                                            <div class='article-content'>
+                                                                <h4>
+                                                                    <a href='https://berita.kedirikab.go.id/pemerintah-kabupaten-kediri-kembali-gelar-pembinaan-mental'>Pemerintah Kabupaten Kediri Kembali Gelar Pembinaan Mental</a>
+                                                                    <a href='https://berita.kedirikab.go.id/pemerintah-kabupaten-kediri-kembali-gelar-pembinaan-mental' class='h-comment'>0</a>
+                                                                </h4>
+                                                                <span class='meta'>
+                                                                    <a href='https://berita.kedirikab.go.id/pemerintah-kabupaten-kediri-kembali-gelar-pembinaan-mental'>
+                                                                        <span class='icon-text'>&#128340;</span>
+                                                                        15:00:40, 05 Agu 2024
+                                                                    </a>
+                                                                </span>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-bupati-kediri-serahkan-sk-perpanjangan-bpd'>
+                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/bpd_21.jpeg' alt='bpd_21.jpeg'/>
+                                                                </a>
+                                                            </div>
+                                                            <div class='article-content'>
+                                                                <h4>
+                                                                    <a href='https://berita.kedirikab.go.id/mas-bupati-kediri-serahkan-sk-perpanjangan-bpd'>Mas Bupati Kediri Serahkan SK Perpanjangan BPD</a>
+                                                                    <a href='https://berita.kedirikab.go.id/mas-bupati-kediri-serahkan-sk-perpanjangan-bpd' class='h-comment'>0</a>
+                                                                </h4>
+                                                                <span class='meta'>
+                                                                    <a href='https://berita.kedirikab.go.id/mas-bupati-kediri-serahkan-sk-perpanjangan-bpd'>
+                                                                        <span class='icon-text'>&#128340;</span>
+                                                                        15:00:35, 18 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
@@ -896,10 +1094,11 @@
                                         </div>
                                     </div>
                                 </div>
-                                    <div class="content-block left">
-                                        <div class="block">
-                                            <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20;font-size : 17px">KEGIATAN PERANGKAT DAERAH</h2>
-                                            <ul class="article-list">
+                                <div class="content-block left">
+                                    <div class="block">
+                                        <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20;">Berita
+        Corona</h2>
+                                        <ul class="article-list">
                                             <li>
                                                 <a href='https://berita.kedirikab.go.id/sat-set-award-2022-15-desa-terima-reward-dari-mas-dhito'>Sat Set Award 2022, 15 Desa Terima Reward dari Mas Dhito</a>
                                                 <a href='https://berita.kedirikab.go.id/sat-set-award-2022-15-desa-terima-reward-dari-mas-dhito' class='h-comment'>0</a>
@@ -1041,25 +1240,6 @@
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/uks_4.jpeg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class='article-photo'>
                                                     <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri' class='hover-effect'>
                                                         <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/small_no-image.jpg' alt=''/>
                                                     </a>
@@ -1134,6 +1314,25 @@
                                                     </span>
                                                 </div>
                                             </li>
+                                            <li>
+                                                <div class='article-photo'>
+                                                    <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/SMP_4.jpeg' alt=''/>
+                                                    </a>
+                                                </div>
+                                                <div class='article-content'>
+                                                    <h4>
+                                                        <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79'>Lomba Gerak Jalan Tingkat SMP, Semarakkan Rangkaian HUT RI Ke-79</a>
+                                                        <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79' class='h-comment'>0</a>
+                                                    </h4>
+                                                    <span class='meta'>
+                                                        <a href='https://berita.kedirikab.go.id/lomba-gerak-jalan-tingkat-smp-semarakkan-rangkaian-hut-ri-ke79'>
+                                                            <span class='icon-text'>&#128340;</span>
+                                                            00:00:29, 07 Agu 2024
+                                                        </a>
+                                                    </span>
+                                                </div>
+                                            </li>
                                         </ul>
                                         <a href="https://berita.kedirikab.go.id/kategori/detail/statistik-sektoral" class="more">Lihat semua berita</a>
                                     </div>
@@ -1154,25 +1353,6 @@
                                         <h2 class="list-title" style="color:#dd8229;border-bottom:2px solid #dd8229;">Berita
         Pariwisata, Seni dan Budaya</h2>
                                         <ul class="article-block">
-                                            <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            16:00:31, 23 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
                                             <li>
                                                 <div class='article-photo'>
                                                     <a href='https://berita.kedirikab.go.id/melalui-lomba-burung-sosialisasikan-pelestarian-jaga-dari-kepunahan' class='hover-effect'>
@@ -1249,6 +1429,25 @@
                                                     </span>
                                                 </div>
                                             </li>
+                                            <li>
+                                                <div class='article-photo'>
+                                                    <a href='https://berita.kedirikab.go.id/ribuan-skuteris-tumpah-ruah-hadiri-kelud-vespa-day-ajang-solidaritas-sekaligus-menikmati-wisata-kabupaten-kediri' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/vespa_day_6.jpeg' alt=''/>
+                                                    </a>
+                                                </div>
+                                                <div class='article-content'>
+                                                    <h4>
+                                                        <a href='https://berita.kedirikab.go.id/ribuan-skuteris-tumpah-ruah-hadiri-kelud-vespa-day-ajang-solidaritas-sekaligus-menikmati-wisata-kabupaten-kediri'>Ribuan Skuteris Tumpah Ruah hadiri Kelud Vespa Day, Ajang Solidaritas Sekaligus Menikmati Wisata Kabupaten Kediri</a>
+                                                        <a href='https://berita.kedirikab.go.id/ribuan-skuteris-tumpah-ruah-hadiri-kelud-vespa-day-ajang-solidaritas-sekaligus-menikmati-wisata-kabupaten-kediri' class='h-comment'>0</a>
+                                                    </h4>
+                                                    <span class='meta'>
+                                                        <a href='https://berita.kedirikab.go.id/ribuan-skuteris-tumpah-ruah-hadiri-kelud-vespa-day-ajang-solidaritas-sekaligus-menikmati-wisata-kabupaten-kediri'>
+                                                            <span class='icon-text'>&#128340;</span>
+                                                            16:00:42, 28 Jul 2024
+                                                        </a>
+                                                    </span>
+                                                </div>
+                                            </li>
                                         </ul>
                                         <a href="https://berita.kedirikab.go.id/kategori/detail/pariwisata-seni-dan-budaya" class="more">Lihat semua berita</a>
                                     </div>
@@ -1256,26 +1455,7 @@
                             </div>
                         </div>
                         <div class="main-sidebar right">
-                         <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20; font-size: 17px; font-weight: bold;">PENGUMUMAN</h2>
                             <div class="widget" style="margin-bottom:0;">
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://bit.ly/kediricerdas2024' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/BANNER_OK_KEDIRI_CERDAS.jpg' alt='Kediri CERDAS 2024'/>
-                                    </a>
-                                    <a href='https://bit.ly/kediricerdas2024' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Kediri CERDAS 2024<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/pengumuman-hasil-seleksi-administrasi-calon-dewan-peng' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/WhatsApp_Image_2024-08-28_at_10_14_25.jpeg' alt='Pengumuman Hasil Seleksi Administrasi Calon Dewan Pengawas BUMD Kabupaten Kediri 2024	'/>
-                                    </a>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/pengumuman-hasil-seleksi-administrasi-calon-dewan-peng' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Pengumuman Hasil Seleksi Administrasi Calon Dewan Pengawas BUMD Kabupaten Kediri 2024	<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
                                 <section style='margin-bottom:10px;'>
                                     <a href='https://www.lapor.go.id/' target='_blank'>
                                         <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/lowongan_kerja_lapor.png' alt='SP4AN LAPOR'/>
@@ -1283,6 +1463,24 @@
                                     <a href='https://www.lapor.go.id/' class='ad-link'>
                                         <span class='icon-text'>&#9652;</span>
                                         SP4AN LAPOR<span class='icon-text'>&#9652;</span>
+                                    </a>
+                                </section>
+                                <section style='margin-bottom:10px;'>
+                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-dewan-pengawas-bumd-kab-k' target='_blank'>
+                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/Untitled-1DDW.jpg' alt='unduh pengumuman dewas bumd '/>
+                                    </a>
+                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-dewan-pengawas-bumd-kab-k' class='ad-link'>
+                                        <span class='icon-text'>&#9652;</span>
+                                        unduh pengumuman dewas bumd <span class='icon-text'>&#9652;</span>
+                                    </a>
+                                </section>
+                                <section style='margin-bottom:10px;'>
+                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-anggota-dewan-pengawas-bu' target='_blank'>
+                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/design2-MAS-DHITO-AWARD-SSS.jpg' alt='Unduh Pengumuman BUMD'/>
+                                    </a>
+                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-anggota-dewan-pengawas-bu' class='ad-link'>
+                                        <span class='icon-text'>&#9652;</span>
+                                        Unduh Pengumuman BUMD<span class='icon-text'>&#9652;</span>
                                     </a>
                                 </section>
                                 <section style='margin-bottom:10px;'>
@@ -1305,32 +1503,23 @@
                                 </section>
                             </div>
                             <hr>
-
-                            <!-- sosmed widget -->
                             <div class="widget">
-    <h3 style="margin-bottom: 0.8rem; font-family: quicksand, 'Source Sans Pro', sans-serif; font-size: 14px; display: flex; align-items: center; align-content: center;">
-        <span style="margin-right: .75rem;" class="fa fa-at"></span>Temukan kami di Media Sosial
-    </h3>
-    <div class="widget-social">
-        <div class="social-btns">
-            <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/pemerintahkabupatenkediri">
-                <i class="fa fa-facebook"></i>
-            </a>
-            <a target="_BLANK" class="btn-sc twitter" href="https://twitter.com/PemkabKediri">
-                <i class="fa fa-twitter"></i>
-            </a>
-            <a target="_BLANK" class="btn-sc ig" href="https://www.instagram.com/pemkab.kediri/">
-                <i class="fa fa-instagram"></i>
-            </a>
-            <a target="_BLANK" class="btn-sc yt" href="https://www.instagram.com/pemkab.kediri/">
-                <i class="fa fa-youtube"></i>
-            </a>
-        </div>
-        <p style="margin-top: .5rem;">Ikuti Sosial Media Kami Untuk Mendapatkan Update Terbaru.</p>
-    </div>
-</div>
-                             <!-- end sosmed widget -->
-
+                                <h3>Temukan kami di Media Sosial</h3>
+                                <div class="widget-social">
+                                    <div class="social-btns">
+                                        <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/pemerintahkabupatenkediri">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a target="_BLANK" class="btn-sc twitter" href=" https://twitter.com/PemkabKediri">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                        <a target="_BLANK" class="btn-sc ig" href=" https://www.instagram.com/pemkab.kediri/">
+                                            <i class="fa fa-instagram"></i>
+                                        </a>
+                                    </div>
+                                    <p style="margin-top:.5rem;">Ikuti kami di Facebook ,Twitter dan Instagram serta dapatkan informasi terbaru dari kami di sana.</p>
+                                </div>
+                            </div>
                             <div class="widget">
                                 <h3>Berita Terbaru</h3>
                                 <div class="widget-articles">
@@ -1338,106 +1527,106 @@
                                         <li>
                                         <li>
                                             <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/jls_1.jpeg' alt='warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'/>
+                                                <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif ' class='hover-effect'>
+                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/pam_1.jpeg' alt='ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '/>
                                                 </a>
                                             </div>
                                             <div class='article-content'>
                                                 <h4>
-                                                    <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jalan Santai Desa Gempolan Kabupaten Kediri Dalam Rangka Memperingati HUT RI ke-79</a>
+                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>Ikuti Jalannya Simulasi Sispamkota, Mas Dhito Berharap Pilkada 2024 Berjalan Kondusif </a>
                                                 </h4>
                                                 <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>
+                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>
                                                         <span class='icon-text'>&#128340;</span>
-                                                        25 Agu 2024, 16:00:41 WIB
+                                                        16 Agu 2024, 16:00:13 WIB
                                                     </a>
                                                 </span>
                                                 <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>30 pembaca</a>
+                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>1 pembaca</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg' alt='kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'/>
+                                                <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024' class='hover-effect'>
+                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/kukuh_4.jpeg' alt='mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'/>
                                                 </a>
                                             </div>
                                             <div class='article-content'>
                                                 <h4>
-                                                    <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
+                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Kukuhkan 75 Anggota Paskibraka Kabupaten Kediri 2024</a>
                                                 </h4>
                                                 <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
+                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>
                                                         <span class='icon-text'>&#128340;</span>
-                                                        23 Agu 2024, 16:00:31 WIB
+                                                        15 Agu 2024, 15:00:35 WIB
                                                     </a>
                                                 </span>
                                                 <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>41 pembaca</a>
+                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>32 pembaca</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg' alt='sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'/>
+                                                <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani' class='hover-effect'>
+                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/kris_1.jpeg' alt='nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'/>
                                                 </a>
                                             </div>
                                             <div class='article-content'>
                                                 <h4>
-                                                    <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
+                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>Nusantara Baru Indonesia Maju, Mbak Dewi Hadiri Doa Bersama Umat Kristiani</a>
                                                 </h4>
                                                 <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
+                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>
                                                         <span class='icon-text'>&#128340;</span>
-                                                        21 Agu 2024, 16:00:24 WIB
+                                                        14 Agu 2024, 22:00:18 WIB
                                                     </a>
                                                 </span>
                                                 <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>41 pembaca</a>
+                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>29 pembaca</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg' alt='mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'/>
+                                                <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri' class='hover-effect'>
+                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/small_no-image.jpg' alt='rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'/>
                                                 </a>
                                             </div>
                                             <div class='article-content'>
                                                 <h4>
-                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
+                                                    <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>Rapat Koordinasi Pimpinan Kwarcab Kabupaten Kediri dan Kwaran SBH Kabupaten Kediri</a>
                                                 </h4>
                                                 <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
+                                                    <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>
                                                         <span class='icon-text'>&#128340;</span>
-                                                        21 Agu 2024, 15:00:34 WIB
+                                                        14 Agu 2024, 19:00:31 WIB
                                                     </a>
                                                 </span>
                                                 <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>38 pembaca</a>
+                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>16 pembaca</a>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/uks_4.jpeg' alt='berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'/>
+                                                <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024' class='hover-effect'>
+                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/pram_3.jpeg' alt='kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'/>
                                                 </a>
                                             </div>
                                             <div class='article-content'>
                                                 <h4>
-                                                    <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
+                                                    <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>Kwartir Ranting Ngadiluwih Gelar Pentas Seni Jambore Ranting 2024</a>
                                                 </h4>
                                                 <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
+                                                    <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>
                                                         <span class='icon-text'>&#128340;</span>
-                                                        19 Agu 2024, 15:00:29 WIB
+                                                        13 Agu 2024, 22:00:47 WIB
                                                     </a>
                                                 </span>
                                                 <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>20 pembaca</a>
+                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>18 pembaca</a>
                                                 </div>
                                             </div>
                                         </li>
@@ -1445,28 +1634,28 @@
 <div class="widget">
     <h3>Tag Berita</h3>
     <div class="tag-cloud">
-        <a href='https://berita.kedirikab.go.id/tag/detail/lingkungan' class='badge'>Lingkungan</a>
         <a href='https://berita.kedirikab.go.id/tag/detail/hukum' class='badge'>Hukum</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pendidikan' class='badge'>Pendidikan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/seni-dan-budaya' class='badge'>Seni dan Budaya</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/kesehatan' class='badge'>Kesehatan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pemerintahan' class='badge'>Pemerintahan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pariwisata' class='badge'>Pariwisata</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/upacara' class='badge'>Upacara</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pedesaan' class='badge'>Pedesaan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/olahraga' class='badge'>Olahraga</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/perikanan' class='badge'>Perikanan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/kuliner' class='badge'>Kuliner</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/sosial' class='badge'>Sosial</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/teknologi' class='badge'>Teknologi</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/bencana' class='badge'>Bencana</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/religi' class='badge'>Religi</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/umkm' class='badge'>UMKM</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pertanian' class='badge'>Pertanian</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/corona' class='badge'>Corona</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/keamanan' class='badge'>Keamanan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/politik' class='badge'>Politik</a>
         <a href='https://berita.kedirikab.go.id/tag/detail/pasar' class='badge'>Pasar</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/kesehatan' class='badge'>Kesehatan</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/perikanan' class='badge'>Perikanan</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/upacara' class='badge'>Upacara</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/bencana' class='badge'>Bencana</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/pertanian' class='badge'>Pertanian</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/politik' class='badge'>Politik</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/pemerintahan' class='badge'>Pemerintahan</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/pedesaan' class='badge'>Pedesaan</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/teknologi' class='badge'>Teknologi</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/lingkungan' class='badge'>Lingkungan</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/keamanan' class='badge'>Keamanan</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/pendidikan' class='badge'>Pendidikan</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/corona' class='badge'>Corona</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/olahraga' class='badge'>Olahraga</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/umkm' class='badge'>UMKM</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/kuliner' class='badge'>Kuliner</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/pariwisata' class='badge'>Pariwisata</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/seni-dan-budaya' class='badge'>Seni dan Budaya</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/sosial' class='badge'>Sosial</a>
+        <a href='https://berita.kedirikab.go.id/tag/detail/religi' class='badge'>Religi</a>
     </div>
 </div>
 <div class="widget">
@@ -1512,126 +1701,3 @@
 </div>
 </div><div class="clear-float"></div>
 </div></div></div>
-
-
-</div>
-<!-- Load all required scripts -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/jquery-latest.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/theme-scripts.js"></script>
-<!-- JssorSlider -->
-<script type="text/javascript" src="https://berita.kedirikab.go.id/asset/libs/JssorSlider/js/jssor.slider-28.1.0.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/asset/libs/JssorSlider/js/jssor.js"></script>
-<script type='text/javascript'>
-    $(function() {
-        $(window).scroll(function() {
-            if ($(this).scrollTop() > 400) {
-                $('#Back-to-top').fadeIn();
-            } else {
-                $('#Back-to-top').fadeOut();
-            }
-        });
-        $('#Back-to-top').click(function() {
-            $('body,html').animate({
-                scrollTop: 0
-            }, 300).animate({
-                scrollTop: 40
-            }, 200).animate({
-                scrollTop: 0
-            }, 130).animate({
-                scrollTop: 15
-            }, 100).animate({
-                scrollTop: 0
-            }, 70);
-        });
-    });
-
-    function jam() {
-        var waktu = new Date();
-        var jam = waktu.getHours();
-        var menit = waktu.getMinutes();
-        var detik = waktu.getSeconds();
-
-        if (jam < 10) {
-            jam = "0" + jam;
-        }
-        if (menit < 10) {
-            menit = "0" + menit;
-        }
-        if (detik < 10) {
-            detik = "0" + detik;
-        }
-        var jam_div = document.getElementById('jam');
-        jam_div.innerHTML = jam + ":" + menit + ":" + detik;
-        setTimeout("jam()", 1000);
-    }
-    jam();
-</script>
-<script type="text/javascript"></script>
-<script type="text/javascript">
-    $(document).ready(function($) {
-        /* auto append icons on each widget's header */
-        $('.widget > h3').each(function() {
-            $(this).attr("style", "margin-bottom:.25rem;font-family:quicksand,'Source Sans Pro',sans-serif;font-size:14px;display:flex;align-items:center;align-content:center;");
-
-            let txt = $(this).text();
-            let iconEl = '';
-            if (txt === 'Video Terbaru') {
-                iconEl = '<span style="margin-right:.75rem" class="fa fa-video-camera"></span>';
-                $(this).css('margin-bottom', '.80rem');
-            }
-            if (txt === 'Temukan kami di Media Sosial') {
-                iconEl = '<span style="margin-right:.75rem" class="fa fa-at"></span>';
-                $(this).css('margin-bottom', '.80rem');
-            }
-            if (txt === 'Berita Terbaru') {
-                iconEl = '<span style="margin-right:.75rem" class="fa fa-newspaper-o"></span>';
-            }
-            if (txt === 'Berita Populer') {
-                iconEl = '<span style="margin-right:.75rem" class="fa fa-star"></span>';
-            }
-            if (txt === 'Tag Berita') {
-                iconEl = '<span style="margin-right:.75rem" class="fa fa-tag"></span>';
-                $(this).css('margin-bottom', '.80rem');
-            }
-            if (txt === 'Komentar Terakhir') {
-                /* iconEl = '<span class="fa fa-comment"></span>'; */
-                $(this).parent().remove();
-            }
-            $(this).prepend(iconEl);
-        })
-
-        $('.block .block-title > a').each(function() {
-            let moreLabel = $(this).text().toLowerCase();
-            if (moreLabel == 'lihat semua') {
-                $(this).html('<div><span style="margin-top:4px;" class="fa fa-arrow-right"></span> Lihat semua</div>');
-            }
-            if (moreLabel == 'back to homepage') {
-                $(this).html('<div><span style="margin-top:4px;" class="fa fa-home"></span> Kembali ke Beranda</div>');
-            }
-            if (moreLabel == 'semua artikel dari kategori ini') {
-                $(this).html('<div><span style="margin-top:4px;" class="fa fa-arrow-right"></span> Lihat semua</div>');
-            }
-            if (moreLabel == 'beberapa berita pilihan') {
-                $(this).html('');
-                $(this).attr('href', 'javascript:void(0)');
-            }
-        })
-
-    });
-</script>
-<script>
-    $(function() {/*$('footer .wrapper p > a').after('<p>Your IP Address: 114.10.46.231</p>');*/
-    });
-</script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8bb987268900ce56","version":"2024.8.0","r":1,"token":"6c31d07a58b4405c9ce435348b33a2c6","serverTiming":{"name":{"cfL4":true}}}' crossorigin="anonymous"></script>
-</body>
-<!--
-Developed by:
-BAGOS ANGGARA, A.Md. & ARDY ERWANDA, S.Kom.
-DISKOMINFO KABUPATEN KEDIRI
-© 2019—2024
-All rights reserved
--->
-</html>
