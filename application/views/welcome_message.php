@@ -1,5 +1,4 @@
 
-        
         <!-- topbar content -->
             <div class="content">
                 <div class="wrapper">
@@ -98,6 +97,7 @@
                                     <div class="block">
                                         <div class="featured-block">
                                             <div id="jssor_2" class='jssor_1'>
+
                                                 <!-- Loading Screen -->
                                                 <div data-u="loading" class='loading'>
                                                     <div class='slide1'></div>
@@ -105,30 +105,32 @@
                                                 </div>
                                                 <div data-u="slides" class='slides'>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/jls_1.jpeg'/>
+                                                        <img data-u='image' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg"/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jala,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker,..</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg'/>
+                                                        <img data-u='image' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-4234b4b0-01d4-4695-b3b8-0f003be323b4.jpeg"/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar ,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-dampingi-menteri-ketenagakerjaan-ri-dalam-rangka-sosialisasi-permenaker-no-4-tahun-2023'>Wabup Malang dampingi Menteri Ketenagake,..</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg'/>
+                                                        <img data-u='image' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1724665871500.jpeg"/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasi,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-berangkatkan-peserta-karnaval-dan-kirab-budaya-sukowilangun'>Wakil Bupati Malang Hadiri Berangkatan ,..</a>
                                                         </div>
                                                     </div>
                                                     <div>
-                                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg'/>
+                                                        <img data-u='image' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240829-WA0013.jpg"/>
                                                         <div data-u='thumb'>
-                                                            <a style='color:#fff' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna,..</a>
+                                                            <a style='color:#fff' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-hadiri-hari-ulang-tahun-desa-wisata-pujon-kidul-wabup-malang-turut-sosialisasikan-gempur-rokok-ilegal'>Hadiri Puncak Resepsi HUT Desa Wisata Pujon,..</a>
                                                         </div>
                                                     </div>
                                                 </div>
+                                                <!-- Loading screen end -->
+
                                                 <!-- Thumbnail Navigator -->
                                                 <div data-u="thumbnavigator" class="jssort09-600-45">
                                                     <div class="slide3"></div>
@@ -290,9 +292,9 @@
                                         <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/BANNER-PERBUP-SPBE2.jpg' title='Perbup Sistem Pemerintahan Berbasis Elektronik'/>
                                     </a>
                                     <div class="block">
-                                        <div class="block-title">
+                                    <div class="block-title" style="background:#900404;">   
                                             <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right">Semua Artikel dari kategori ini</a>
-                                            <h2>Berita kategori Keluarga, Tokoh dan Agama</h2>
+                                            <h2>Arsip Berita</h2>
                                         </div>
                                         <div class="block-content">
                                             <div class='wide-article'>
@@ -521,11 +523,15 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!-- advertisment -->
                                     <a href='https://simpatik.kedirikab.go.id/' target='_blank'>
                                         <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/simpatik_dpmptsp.jpg' title='Simpatik'/>
                                     </a>
+                                    <!-- end advertisment -->
+
                                     <div class="block">
-                                        <div class="block-title" style="background:#2182b4;">
+                                    <div class="block-title" style="background:#900404;">
                                             <a href="https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan" class="right">Semua Artikel dari kategori ini</a>
                                             <h2>Berita kategori Pemerintahan, Politik, dan Keamanan</h2>
                                         </div>
@@ -760,7 +766,7 @@
                                         <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/home.jpg' title='Iklan Bawah Detail Berita'/>
                                     </a>
                                     <div class="block">
-                                        <div class="block-title" style="background:#dd8229;">
+                                        <div class="block-title" style="background:#900404;">
                                             <a href="#" class="right">Beberapa Berita Pilihan</a>
                                             <h2>Berita Pilihan Redaksi</h2>
                                         </div>
@@ -934,8 +940,7 @@
                                         <a href="https://berita.kedirikab.go.id/kategori/detail/corona" class="more">Lihat semua berita</a>
                                     </div>
                                     <div class="block">
-                                        <h2 class="list-title" style="color:#2277c6;border-bottom:2px solid #2277c6;">Berita
-        Statistik Sektoral</h2>
+                                        <h2 class="list-title" style="color: #900404;border-bottom:2px solid #900404;">Berita Statistik Sektoral</h2>
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
@@ -1036,8 +1041,7 @@
                                         <a href="https://berita.kedirikab.go.id/kategori/detail/statistik-sektoral" class="more">Lihat semua berita</a>
                                     </div>
                                     <div class="block">
-                                        <h2 class="list-title" style="color:green;border-bottom:2px solid green;">Berita
-        Pendidikan</h2>
+                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pendidikan</h2>
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
@@ -1305,6 +1309,7 @@
                                 </section>
                             </div>
                             <hr>
+                            
 
                             <!-- sosmed widget -->
                             <div class="widget">
@@ -1512,7 +1517,6 @@
 </div>
 </div><div class="clear-float"></div>
 </div></div></div>
-
 
 </div>
 <!-- Load all required scripts -->

@@ -139,7 +139,7 @@
                     <div class='header-addons'>
 
                         <span class='city'>
-                            Saptu, 31 Agu 2024, <span id='jam'></span>
+                            Sabtu, 31 Agu 2024, <span id='jam'></span>
                         </span>
                         <div class='header-search'>
                             <form action="https://berita.kedirikab.go.id/berita/index" method="post" accept-charset="utf-8">
