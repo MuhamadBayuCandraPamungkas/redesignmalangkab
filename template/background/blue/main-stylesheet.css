@@ -113,6 +113,15 @@ h4 a, h5 a, h6 a {
 	margin-top: 10px;
 	margin-bottom: 10px;
 } */
+ 
+.row {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+  }
 
 .ideaboxWeather{
 	background-color: #900404 !important;
@@ -207,6 +216,61 @@ a:focus {
 .right {
 	float: right;
 }
+
+.scroll-wrap {
+	width: 100%;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+/* General article styling */
+.spost {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+    margin: 10px 0;
+}
+
+.entry-image {
+    flex: 0 0 100px; /* Control image container size */
+    margin-right: 20px;
+}
+
+.entry-image img {
+    width: 100px;  /* Fixed width for all images */
+    height: 50px; /* Fixed height for landscape orientation */
+    border-radius: 8px;
+    object-fit: cover; /* Ensures all images are cropped to fit */
+    object-position: center; /* Centers the image inside the frame */
+}
+
+.entry-c {
+    flex: 1;
+}
+
+.entry-title {
+    font-size: 18px;
+}
+
+.entry-title a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.entry-title a:hover {
+    color: #007bff; /* Change to your desired hover color */
+}
+
+/* Optional additional styling */
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
 
 
 /* #2 Main header */

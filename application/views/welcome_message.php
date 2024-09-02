@@ -3,93 +3,17 @@
             <div class="content">
                 <div class="wrapper">
                     <div class="main-content">
-                        <div id="jssor_1" style="position:relative;margin:0 auto;top:0;left:0;width:1366px;height:300px;overflow:hidden;visibility:hidden;">
+                        <div id="jssor_1" style="position:relative;margin:0 auto;top:0;left:0;width:1366px;height:5px;overflow:hidden;visibility:hidden;">
                             <div data-u="slides" style="cursor:default;position:relative;top:0;left:0;width:1366px;height:300px;overflow:hidden;">
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/pengumuman-hasil-seleksi-administrasi-calon-dewan-pengawas-bumd-kabupaten-kediri-2024' target='_BLANK' title='Pengumuman Hasil Seleksi Administrasi Calon Dewan Pengawas BUMD Kabupaten Kediri 2024	'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---BANK-DAERAH-@@sw1.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/penerimaan-calon-pegawai-negeri-sipil-di-lingkungan-pemerintah-kabupaten-kediri-tahun-anggaran-2024' target='_BLANK' title='Penerimaan Calon Pegawai Negeri Sipil di Lingkungan Pemerintah Kabupaten Kediri Tahun Anggaran 2024'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---JADWAL-PPPK-hasil-akhDir.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-dewan-pengawas-bumd-kab-kediri-2024-' target='_BLANK' title='Badan Usaha Milik Daerah (BUMD) Kabupaten Kediri Tahun 2024 PD. Canda Bhirawa, PD. BPR Bank Daerah, '>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/dewasss1.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/seleksi-administrasi-terbuka-anggota-dewan-pengawas-bumd-kabupaten-kediri-tahun-2024' target='_BLANK' title='Seleksi Administrasi Terbuka Anggota Dewan Pengawas BUMD Kabupaten Kediri tahun 2024'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---BANK-DAERAH-@@.jpg'/>
-                                    </a>
-                                </div>
-                                <div>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/profil-sekolah-di-kabupaten-kediri-menurut-jenjang-pendidikan-tahun-2023' target='_BLANK' title='PROFIL SEKOLAH DI KABUPATEN KEDIRI MENURUT JENJANG PENDIDIKAN TAHUN 2023'>
-                                        <img data-u='image' src='https://berita.kedirikab.go.id/asset/foto_iklanatas/PENGUMUMAN---Statistik-Pendidikan-sddd.jpg'/>
-                                    </a>
-                                </div>
+                                
                             </div>
                     <!-- end topbar content -->
                     
                             <!-- Bullet Navigator -->
-                            <div data-u="navigator" class="jssorb031" style="position:absolute;bottom:16px;right:16px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
-                                <div data-u="prototype" class="i" style="width:13px;height:13px;">
-                                    <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                                        <circle class="b" cx="8000" cy="8000" r="5800"></circle>
-                                    </svg>
-                                </div>
-                            </div>
-                            <!-- Arrow Navigator -->
-                            <div data-u="arrowleft" class="jssora051" style="width:55px;height:55px;top:0;left:25px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
-                                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                                    <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
-                                </svg>
-                            </div>
-                            <div data-u="arrowright" class="jssora051" style="width:55px;height:55px;top:0;right:25px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
-                                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                                    <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
-                                </svg>
-                            </div>
-                        </div>
+                            
                     </div>
-                    <hr>
-                    <div class="breaking-news">
-                        <span class="the-title">Berita Terkini  </span>
-                        <ul>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jalan Santai Desa Gempolan Kabupaten Kediri Dalam Rangka Memperingati HUT RI ke-79</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>Nusantara Baru, Mas Dhito Tancap Gas Tingkatkan Program Prioritas</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan'>Apel Kehormatan dan Renungan Suci Kenang Jasa Pahlawan</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79'>Mbak Dewi Pimpin Langsung Upacara Peringatan Hari Kemerdekaan Indonesia ke-79</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Mengukuhkan Anggota Paskibraka Kabupaten Kediri 2024</a>
-                            </li>
-                            <li>
-                                <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>Pesan Mas Bupati, Harus Berkomitmen Meningkatkan Pelayanan Kesehatan Bagi Marayakat</a>
-                            </li>
-                        </ul>
-                    </div>
+                    
+                    
                     <div class="main-content">
                         <div class="main-page left">
                             <div class="double-block">
@@ -161,19 +85,19 @@
                                             <ul class="article-block-big">
                                                 <li>
                                                     <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/jls_1.jpeg' alt=''/>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                                <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jalan Santai Desa Gempolan Kabupaten Kediri Dalam Rangka Memperingati HUT RI ke-79</a>
-                                                            <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            </a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
                                                                 <span class='icon-text'>&#128340;</span>
                                                                 16:00:41, 25 Agu 2024
                                                             </a>
@@ -181,106 +105,106 @@
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                                <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
-                                                            <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            </a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                16:00:31, 23 Agu 2024
+                                                                16:00:41, 25 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                                <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
-                                                            <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            </a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                16:00:24, 21 Agu 2024
+                                                                16:00:41, 25 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                                <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
-                                                            <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            </a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                15:00:34, 21 Agu 2024
+                                                                16:00:41, 25 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/uks_4.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                                <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
-                                                            <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            </a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                15:00:29, 19 Agu 2024
+                                                                16:00:41, 25 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>
-                                                                <img style='height:110px;width:200px' src='https://berita.kedirikab.go.id/asset/foto_berita/detik_1.jpeg' alt=''/>
+                                                <div class='article-photo'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                                <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>Nusantara Baru, Mas Dhito Tancap Gas Tingkatkan Program Prioritas</a>
-                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas.html' class='h-comment'>0</a>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            </a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>
+                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
                                                                 <span class='icon-text'>&#128340;</span>
-                                                                17:00:24, 17 Agu 2024
+                                                                16:00:41, 25 Agu 2024
                                                             </a>
                                                         </span>
                                                     </div>
@@ -299,22 +223,24 @@
                                         <div class="block-content">
                                             <div class='wide-article'>
                                                 <div class='article-photo'>
-                                                    <a class='hover-effect' href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>
-                                                        <img style='width:160px;height:117px;' src='https://berita.kedirikab.go.id/asset/foto_berita/kris_1.jpeg' alt=''/>
+                                                    <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                        <img style='width:160px;height:117px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h2>
-                                                        <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>Nusantara Baru Indonesia Maju, Mbak Dewi Hadiri Doa Bersama Umat Kristiani</a>
-                                                        <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                     </h2>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/nusantara-baru-indonesia-maju-mbak-dewi-hadiri-doa-bersama-umat-kristiani'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            22:00:18, 14 Agu 2024 - Oleh : Dinas Kominfo Kab. Kediri
+                                                            22:00:18, 14 Agu 2024 - Oleh : Dinas Kominfo Kab. Malang
                                                         </a>
                                                     </span>
-                                                    <p>Dalam rangka memperingati Hari Kemerdekaan Republik Indonesia yang ke-79 Tahun 2024, umat kristiani gelar doa bersama sebagai wujud cinta tanah air dan menjaga persatuan dan kesatuan NKRI di Gereja Baptis Indonesia (GBI) Maranatha Kecamatan . . .</p>
+                                                    <p>Dalam rangka memeriahkan HUT RI ke-79, Bupati Malang Drs. H. M. Sanusi, MM., di dampingi Ketua TP PKK Kabupaten Malang Hj. Anis Zaida Sanusi, 
+                                                        mengundi salah satu hadiah utama berupa 1 unit sepeda motor listrik serta menghadiri sekaligus memeriahkan gelar Gebyar Pentas Seni Jalan Sehat Desa Gampingan Kecamatan Pagak, 
+                                                        di Lapangan Dempok Desa Gampingan Kecamatan Pagak, Minggu (1/9) pagi.</p>
                                                 </div>
                                             </div>
                                             <div class="paragraph-row">
@@ -323,17 +249,17 @@
                                                     <ul class="article-block">
                                                         <li>
                                                             <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/pengurus-gerakan-pemuda-ansor-tahun-20242028-resmi-dilantik.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/lantik_ansor_2.jpeg' alt='lantik_ansor_2.jpeg'/>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/pengurus-gerakan-pemuda-ansor-tahun-20242028-resmi-dilantik'>Pengurus Gerakan Pemuda Ansor Tahun 2024-2028 Resmi Dilantik</a>
-                                                                    <a href='https://berita.kedirikab.go.id/pengurus-gerakan-pemuda-ansor-tahun-20242028-resmi-dilantik' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/pengurus-gerakan-pemuda-ansor-tahun-20242028-resmi-dilantik'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
                                                                         15:00:40, 29 Jul 2024
                                                                     </a>
@@ -341,77 +267,77 @@
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-beri-bantuan-anggota-banser-tertua-di-pelantikan-gp-ansor.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/ansor_3.jpeg' alt='ansor_3.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-beri-bantuan-anggota-banser-tertua-di-pelantikan-gp-ansor'>Mas Dhito Beri Bantuan Anggota Banser Tertua di Pelantikan GP Ansor</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-beri-bantuan-anggota-banser-tertua-di-pelantikan-gp-ansor' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-beri-bantuan-anggota-banser-tertua-di-pelantikan-gp-ansor'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        00:00:31, 29 Jul 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/jamaah-haji-kabupaten-kediri-tiba-di-kampung-halaman.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/pulang_4.jpeg' alt='pulang_4.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/jamaah-haji-kabupaten-kediri-tiba-di-kampung-halaman'>Jamaah Haji Kabupaten Kediri Tiba di Kampung Halaman</a>
-                                                                    <a href='https://berita.kedirikab.go.id/jamaah-haji-kabupaten-kediri-tiba-di-kampung-halaman' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/jamaah-haji-kabupaten-kediri-tiba-di-kampung-halaman'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        23:00:52, 13 Jul 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/celakalah-bagi-orang-yang-menyianyiakan-waktu-untuk-hal-yang-kurang-bermanfaat.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/mentalan_5.jpeg' alt='mentalan_5.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/celakalah-bagi-orang-yang-menyianyiakan-waktu-untuk-hal-yang-kurang-bermanfaat'>Celakalah Bagi Orang Yang Menyia-nyiakan Waktu Untuk Hal Yang Kurang Bermanfaat</a>
-                                                                    <a href='https://berita.kedirikab.go.id/celakalah-bagi-orang-yang-menyianyiakan-waktu-untuk-hal-yang-kurang-bermanfaat' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/celakalah-bagi-orang-yang-menyianyiakan-waktu-untuk-hal-yang-kurang-bermanfaat'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        17:00:17, 01 Jul 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/teladani-keikhlasan-nabi-ibrahim-dan-ismail-jalankan-perintah-allah-swt.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/wedus_3.jpeg' alt='wedus_3.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/teladani-keikhlasan-nabi-ibrahim-dan-ismail-jalankan-perintah-allah-swt'>Teladani Keikhlasan Nabi Ibrahim dan Ismail Jalankan Perintah Allah SWT</a>
-                                                                    <a href='https://berita.kedirikab.go.id/teladani-keikhlasan-nabi-ibrahim-dan-ismail-jalankan-perintah-allah-swt' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/teladani-keikhlasan-nabi-ibrahim-dan-ismail-jalankan-perintah-allah-swt'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        17:00:46, 17 Jun 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
@@ -423,96 +349,96 @@
                                                 <div class="column6">
                                                     <ul class="article-block">
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/berangkatkan-jamaah-haji-mas-dhito-berpesan-selalu-jaga-kondisi'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/haji_1.jpeg' alt='haji_1.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/berangkatkan-jamaah-haji-mas-dhito-berpesan-selalu-jaga-kondisi'>Berangkatkan Jamaah Haji, Mas Dhito berpesan Selalu Jaga Kondisi</a>
-                                                                    <a href='https://berita.kedirikab.go.id/berangkatkan-jamaah-haji-mas-dhito-berpesan-selalu-jaga-kondisi' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/berangkatkan-jamaah-haji-mas-dhito-berpesan-selalu-jaga-kondisi'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        10:00:54, 31 Mei 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-berpesan-para-calon-jamaah-haji-kabupaten-kediri-untuk-jaga-kesehatan'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/haji_1.jpg' alt='haji_1.jpg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-berpesan-para-calon-jamaah-haji-kabupaten-kediri-untuk-jaga-kesehatan'>Mas Dhito Berpesan Para Calon Jamaah Haji Kabupaten Kediri Untuk Jaga Kesehatan</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-berpesan-para-calon-jamaah-haji-kabupaten-kediri-untuk-jaga-kesehatan' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-berpesan-para-calon-jamaah-haji-kabupaten-kediri-untuk-jaga-kesehatan'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        15:00:10, 21 Mei 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-sholawatan-bareng-zahir-mania-habib-bidin-semoga-kabupaten-kediri-semakin-baik'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/bidin_3.jpeg' alt='bidin_3.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-sholawatan-bareng-zahir-mania-habib-bidin-semoga-kabupaten-kediri-semakin-baik'>Mas Dhito Sholawatan Bareng Zahir Mania, Habib Bidin: Semoga Kabupaten Kediri Semakin Baik</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-sholawatan-bareng-zahir-mania-habib-bidin-semoga-kabupaten-kediri-semakin-baik' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-sholawatan-bareng-zahir-mania-habib-bidin-semoga-kabupaten-kediri-semakin-baik'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        00:00:16, 07 Mei 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/ibadah-paskah-bersama-perkuat-kerukunan'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/paskah_4.jpeg' alt='paskah_4.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/ibadah-paskah-bersama-perkuat-kerukunan'>Ibadah Paskah Bersama, Perkuat Kerukunan</a>
-                                                                    <a href='https://berita.kedirikab.go.id/ibadah-paskah-bersama-perkuat-kerukunan' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/ibadah-paskah-bersama-perkuat-kerukunan'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        19:00:54, 19 Apr 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
                                                         </li>
                                                         <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/bersama-pak-pram-dan-keluarga-mas-dhito-berkunjung-ke-ndalem-pojok'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/pram_4.jpeg' alt='pram_4.jpeg'/>
+                                                        <div class='article-photo'>
+                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
+                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
                                                                 </a>
                                                             </div>
                                                             <div class='article-content'>
                                                                 <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/bersama-pak-pram-dan-keluarga-mas-dhito-berkunjung-ke-ndalem-pojok'>Bersama Pak Pram dan Keluarga, Mas Dhito Berkunjung ke Ndalem Pojok</a>
-                                                                    <a href='https://berita.kedirikab.go.id/bersama-pak-pram-dan-keluarga-mas-dhito-berkunjung-ke-ndalem-pojok' class='h-comment'>0</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
                                                                 </h4>
                                                                 <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/bersama-pak-pram-dan-keluarga-mas-dhito-berkunjung-ke-ndalem-pojok'>
+                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
                                                                         <span class='icon-text'>&#128340;</span>
-                                                                        18:00:00, 08 Apr 2024
+                                                                        15:00:40, 29 Jul 2024
                                                                     </a>
                                                                 </span>
                                                             </div>
@@ -533,242 +459,15 @@
                                     <div class="block">
                                     <div class="block-title" style="background:#900404;">
                                             <a href="https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan" class="right">Semua Artikel dari kategori ini</a>
-                                            <h2>Berita kategori Pemerintahan, Politik, dan Keamanan</h2>
+                                            <h2>GALERY</h2>
                                         </div>
-                                        <div class="block-content">
-                                            <div class='wide-article'>
-                                                <div class='article-photo'>
-                                                    <a class='hover-effect' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
-                                                        <img style='width:160px;height:117px;' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h2>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas' class='h-comment'>0</a>
-                                                    </h2>
-                                                    <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            16:00:24, 21 Agu 2024 - Oleh : Dinas Kominfo Kab. Kediri
-                                                        </a>
-                                                    </span>
-                                                    <p>Pemerintah Kabupaten Kediri melalui Inspektorat menggelar Sosialisasi Anti Korupsi di lingkungan Pemkab Kediri, Kegiatan ini mempunyai tujuan mewujudkan Pemerintahan yang bersih, transparan dan berintegritas bertempat di Ruang Joyoboyo Kabupaten . . .</p>
-                                                </div>
-                                            </div>
-                                            <div class="paragraph-row">
-                                                <!-- BEGIN .column6 -->
-                                                <div class="column6">
-                                                    <ul class="article-block">
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg' alt='HAN_1.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:34, 21 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/detik_1.jpeg' alt='detik_1.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>Nusantara Baru, Mas Dhito Tancap Gas Tingkatkan Program Prioritas</a>
-                                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/nusantara-baru-mas-dhito-tancap-gas-tingkatkan-program-prioritas'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        17:00:24, 17 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/tmp_2.jpeg' alt='tmp_2.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan'>Apel Kehormatan dan Renungan Suci Kenang Jasa Pahlawan</a>
-                                                                    <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/apel-kehormatan-dan-renungan-suci-kenang-jasa-pahlawan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:49, 17 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79.html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/dewi_dewi_4.jpeg' alt='dewi_dewi_4.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79'>Mbak Dewi Pimpin Langsung Upacara Peringatan Hari Kemerdekaan Indonesia ke-79</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mbak-dewi-pimpin-langsung-upacara-peringatan-hari-kemerdekaan-indonesia-ke79'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        13:00:02, 17 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif .html'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/pam_11.jpeg' alt='pam_11.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>Ikuti Jalannya Simulasi Sispamkota, Mas Dhito Berharap Pilkada 2024 Berjalan Kondusif </a>
-                                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif ' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/ikuti-jalannya-simulasi-sispamkota-mas-dhito-berharap-pilkada-2024-berjalan-kondusif '>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        16:00:13, 16 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                    </ul>
-                                                    <!-- END .column6 -->
-                                                </div>
-                                                <!-- BEGIN .column6 -->
-                                                <div class="column6">
-                                                    <ul class="article-block">
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/paski_kukuh_4.jpeg' alt='paski_kukuh_4.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Mengukuhkan Anggota Paskibraka Kabupaten Kediri 2024</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-mengukuhkan-anggota-paskibraka-kabupaten-kediri-2024'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:52, 16 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/kukuh_4.jpeg' alt='kukuh_4.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>Mas Dhito Kukuhkan 75 Anggota Paskibraka Kabupaten Kediri 2024</a>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/mas-dhito-kukuhkan-75-anggota-paskibraka-kabupaten-kediri-2024'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:35, 15 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/suka_1.jpeg' alt='suka_1.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>Pesan Mas Bupati, Harus Berkomitmen Meningkatkan Pelayanan Kesehatan Bagi Marayakat</a>
-                                                                    <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/pesan-mas-bupati-harus-berkomitmen-meningkatkan-pelayanan-kesehatan-bagi-marayakat'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 14 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/hadiri-undangan-presiden-mas-dhito-tanpa-sengaja-bertemu-warganya-di-ikn'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/ikn_2.jpeg' alt='ikn_2.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/hadiri-undangan-presiden-mas-dhito-tanpa-sengaja-bertemu-warganya-di-ikn'>Hadiri Undangan Presiden, Mas Dhito Tanpa Sengaja Bertemu Warganya di IKN</a>
-                                                                    <a href='https://berita.kedirikab.go.id/hadiri-undangan-presiden-mas-dhito-tanpa-sengaja-bertemu-warganya-di-ikn' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/hadiri-undangan-presiden-mas-dhito-tanpa-sengaja-bertemu-warganya-di-ikn'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        19:00:03, 13 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                            <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat'>
-                                                                    <img style='width:59px;height:42px' src='https://berita.kedirikab.go.id/asset/foto_berita/ppid_1.jpeg' alt='ppid_1.jpeg'/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat'>Transparansi, Akuntabilitas dan Efektivitas Pemerintah Dalam Menyediakan Informasi Kepada Masyarakat</a>
-                                                                    <a href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://berita.kedirikab.go.id/transparansi-akuntabilitas-dan-efektivitas-pemerintah-dalam-menyediakan-informasi-kepada-masyarakat'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        17:00:54, 12 Agu 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                    </ul>
-                                                    <!-- END .column6 -->
-                                                </div>
-                                            </div>
-                                        </div>
+                                        table sayur
                                     </div>
-                                    <a href='https://berita.kedirikab.go.id/' target='_blank'>
-                                        <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/home.jpg' title='Iklan Bawah Detail Berita'/>
-                                    </a>
+                                    
                                     <div class="block">
                                         <div class="block-title" style="background:#900404;">
                                             <a href="#" class="right">Beberapa Berita Pilihan</a>
-                                            <h2>Berita Pilihan Redaksi</h2>
+                                            <h2>POTENSI DAERAH</h2>
                                         </div>
                                         <div class="block-content">
                                             <ul class="article-block-big">
@@ -904,7 +603,7 @@
                                 </div>
                                     <div class="content-block left">
                                         <div class="block">
-                                            <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20;font-size : 17px">KEGIATAN PERANGKAT DAERAH</h2>
+                                            <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;font-size : 17px">KEGIATAN PERANGKAT DAERAH</h2>
                                             <ul class="article-list">
                                             <li>
                                                 <a href='https://berita.kedirikab.go.id/sat-set-award-2022-15-desa-terima-reward-dari-mas-dhito'>Sat Set Award 2022, 15 Desa Terima Reward dari Mas Dhito</a>
@@ -1141,22 +840,9 @@
                                         </ul>
                                         <a href="https://berita.kedirikab.go.id/kategori/detail/statistik-sektoral" class="more">Lihat semua berita</a>
                                     </div>
+                                    
                                     <div class="block">
-                                        <div class="banner">
-                                            <section style='margin-bottom:10px;'>
-                                                <a href='https://kotaku.pu.go.id/' target='_blank'>
-                                                    <img style='width:250px;' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/KOTAKU.png' alt='KOTAKU'/>
-                                                </a>
-                                                <a href='https://kotaku.pu.go.id/' class='ad-link'>
-                                                    <span class='icon-text'>&#9652;</span>
-                                                    KOTAKU<span class='icon-text'>&#9652;</span>
-                                                </a>
-                                            </section>
-                                        </div>
-                                    </div>
-                                    <div class="block">
-                                        <h2 class="list-title" style="color:#dd8229;border-bottom:2px solid #dd8229;">Berita
-        Pariwisata, Seni dan Budaya</h2>
+                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pariwisata, Seni dan Budaya</h2>
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
@@ -1256,57 +942,1023 @@
                                         </ul>
                                         <a href="https://berita.kedirikab.go.id/kategori/detail/pariwisata-seni-dan-budaya" class="more">Lihat semua berita</a>
                                     </div>
+                                    <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Potensi Daerah</h2>
+                     <div class=" col_half ">
+                    <div class=" scroll-wrap " style=" height: 400px;">
+                        <div class=" scroll ">
+                            <!-- Post Article -->
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-wisata-agro-kebun-teh-lawang-kecamatan-lawang_20150914-112427.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/3 ">Agrowisata Kebun Teh Lawang</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-wisata-petik-jeruk-kecamatan-dau_20151006-101200.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/2 ">Agrowisata Petik Jeruk</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-agrowisata_20150902-125346.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/1 ">Agrowisata Petik Apel</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pt-greenfield-indonesia_20150907-111255.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/4 ">PT. Greenfield Indonesia</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-galian-industri_20151113-131705.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/6 ">GALIAN INDUSTRI</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pusat-oleh-oleh-kripik-cap-lumba-lumba_20150907-111627.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/7 ">PUSAT OLEH-OLEH KRIPIK CAP LUMBA-LUMBA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-wisata-textile-la-gross-kecamatan-lawang_20150909-134347.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/8 ">WISATA TEXTILE LA GROSS</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-kerajinan-mendong_20150907-110612.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/9 ">KERAJINAN MENDONG</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-kerajinan-kulit-lufas_20151006-093735.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/10 ">KERAJINAN KULIT LUFAS</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-wisata-olahraga_20150904-131856.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/11 ">WISATA OLAHRAGA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-wisata-kuliner_20150904-140218.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/12 ">WISATA KULINER</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pariwisata-pantai_20150902-122255.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/13 ">PARIWISATA PANTAI</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-cagar-budaya_20150902-124136.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/14 ">CAGAR BUDAYA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-wisata-tirta_20150904-110224.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/15 ">WISATA TIRTA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-balekambang_20150914-103916.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/16 ">PANTAI BALEKAMBANG</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-rest-area-poncokusumo_20150916-101447.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/17 ">REST AREA GUBUKLAKAH</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-agro-keboen-naga-kecamatan-bululawang_20150904-133743.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/18 ">AGRO KEBUN NAGA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-agro-keboen-naga-kecamatan-bululawang_20150904-133743.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/19 ">AGRO KEBUN NAGA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-ponpes-bihaaru-bahri_20150907-095711.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/20 ">PONPES BIHAARU BAHRI, MASJID TIBAN</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-bendungan-selorejo-kecamatan-ngantang_20151006-095102.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/21 ">BENDUNGAN SELOREJO</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-agro-tawon-rimba-raya-kecamatan-lawang_20150904-135242.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/22 ">AGRO TAWON RIMBA RAYA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pemandian-ken-dedes-kecamatan-singosari_20150914-122650.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/23 ">PEMANDIAN KEN DEDES</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-bajul-mati-kecamatan-gedangan_20151006-103835.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/24 ">PANTAI BAJUL MATI</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-sendang-biru-dan-pulau-sempu-kecamatan-sumber-manjing-wetan_20150914-103140.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/25 ">PANTAI SENDANG BIRU DAN PULAU SEMPU</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-coban-pelangi-kecamatan-poncokusumo_20150916-100100.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/26 ">COBAN PELANGI</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-taman-nasional-bromo-tengger-semeru_20150914-102000.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/27 ">TAMAN NASIONAL BROMO TENGGER SEMERU</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-taman-nasional-bromo-tengger-semeru_20150914-102000.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/28 ">TAMAN NASIONAL BROMO TENGGER SEMERU</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-desa-wisata-kecamatan-poncokusumo_20150914-134448.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/29 ">DESA WISATA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-taman-wisata-air-wendit-kecamatan-pakis_20150914-134730.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/30 ">TAMAN WISATA AIR WENDIT</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-stupa-sumberawan-singosari_20150903-114922.png " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/31 ">STUPA SUMBERAWAN</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-agro-salak-swaru-kecamatan-pagelaran_20151008-130936.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/32 ">AGRO SALAK SWARU</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-ngliyep-kecamatan-donomulyo_20151109-145608.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/33 ">PANTAI NGLIYEP</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-kasembon-rafting-kecamatan-kasembon_20150914-110344.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/35 ">KASEMBON RAFTING</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pasar-dan-pemandian-dewi-sri_20150914-104719.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/36 ">PASAR DAN PEMANDIAN DEWI SRI</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-grojokan-sewu_20150914-100256.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/37 ">AGRO APEL PUJON</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-coban-rondo-kecamatan-pujon_20150916-101045.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/38 ">COBAN RONDO</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-songgoriti-kecamatan-pujon_20151030-110322.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/40 ">SONGGORITI</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-taman-rekreasi-sengkaling_20150914-113155.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/41 ">TAMAN REKREASI SENGKALING</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-p-wec-kecamatan-dau_20151006-095819.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/42 ">P-WEC</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-licin-kecamatan-ampelgading_20150916-095205.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/43 ">PANTAI LICIN</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-kondang-merak-kecamatan-donomulyo_20151006-104434.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/44 ">PANTAI KONDANG MERAK</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-desa-wisata-ngadas-poncokusumo_20150916-105401.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/45 ">DESA WISATA NGADAS</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-coban-jahe_20171213-143108.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/46 ">COBAN JAHE</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-hutan-bambu-andeman-sanankerto_20171213-143909.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/47 ">HUTAN BAMBU ANDEMAN SANANKERTO</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-sumber-pitu_20171218-102724.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/48 ">SUMBER PITU</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-candi-jawar_20171218-103502.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/49 ">CANDI JAWAR</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-bowele_20171218-103838.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/50 ">PANTAI BOWELE</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pantai-batu-bengkung_20171218-103454.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/51 ">PANTAI BATU BENGKUNG</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-coban-glotak_20171218-105258.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/53 ">COBAN GLOTAK</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-stadion-kanjuruhan_20171218-104154.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/52 ">STADION KANJURUHAN</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-produk-unggulan-pertambangan_20150907-084521.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/54 ">PRODUK UNGGULAN - PERTAMBANGAN</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-produk-unggulan-kabupaten-malang_20150907-092041.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/55 ">PRODUK UNGGULAN KABUPATEN MALANG</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-museum-rsj-lawang-dr-radjiman-wediodiningrat-kecamatan-lawang_20150907-105738.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/56 ">MUSEUM RSJ LAWANG DR RADJIMAN WEDIODININGRAT</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-candi-jago-kecamatan-tumpang_20150907-103716.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/57 ">CANDI JAGO</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-candi-singosari-dan-arca-dwarapala-kecamatan-singosari_20150907-105148.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/58 ">CANDI SINGOSARI DAN ARCA DWARAPALA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-candi-kidal-kecamatan-tumpang_20150907-104822.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/59 ">CANDI KIDAL</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-candi-badut-kecamatan-dau_20150907-104200.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/60 ">CANDI BADUT</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-museum-zoologi-frather-vianney-kecamatan-dau_20151012-102055.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/61 ">MUSEUM ZOOLOGI FRATHER VIANNEY</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-peniwen-affair_20150907-110151.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/62 ">PENIWEN AFFAIR</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-potensi-seni-budaya_20151113-130707.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/63 ">POTENSI SENI & BUDAYA</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-butik-andis-batik-sutra-druju-kecamatan-sumber-manjing-wetan_20150907-092807.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/64 ">BUTIK ANDIS BATIK SUTRA DRUJU</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-padhepokan-seni-asmoro-bangun-kecamatan-pakisaji_20151030-111136.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/65 ">PADHEPOKAN SENI ASMORO BANGUN</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pesarean-gunung-kawi_20150907-095445.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/66 ">PESAREAN GUNUNG KAWI</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-kraton-wonosari_20150907-094512.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/67 ">KRATON</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-astana-karaeng-galesong_20150907-093246.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/68 ">ASTANA KARAENG GALESONG</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pertapaan-carmel_20150907-094756.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/70 ">PERTAPAAN CARMEL</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-istana-bordir-pakis_20150907-092926.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/71 ">ISTANA BORDIR, PAKIS</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pusat-opd-makan 1.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/72 ">Makanan UMKM</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pusat-opd-minum 1.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/73 ">Minuman UMKM</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pusat-opd-Cover-Craft.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/74 ">Craft & Kriya UMKM</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                            <!-- <img src=" images/potensi/agrowisata.jpg " alt="" > -->
+                                            <img src=" https://portal.malangkab.go.id/uploads/potensi-daerah/malangkab-pusat-opd-Cover-fashion.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" Berita/Potensi/75 ">Fashion & Batik UMKM</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                                                        <!-- Post Article -->
+
+                        </div>
+                    </div>
+                </div>
                                 </div>
                             </div>
                         </div>
                         <div class="main-sidebar right">
-                         <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20; font-size: 17px; font-weight: bold;">PENGUMUMAN</h2>
+                         <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404; font-size: 17px; font-weight: bold;">PENGUMUMAN</h2>
                             <div class="widget" style="margin-bottom:0;">
                                 <section style='margin-bottom:10px;'>
-                                    <a href='https://bit.ly/kediricerdas2024' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/BANNER_OK_KEDIRI_CERDAS.jpg' alt='Kediri CERDAS 2024'/>
+                                    <a href='https://drive.google.com/file/d/1rYWi2bFiUMYZTT2IxA8jyvhJEM9jFqWa/view' target='_blank'>
+                                        <img style='width:100%' src='https://malangkab.go.id/backend/uploads/Pemilihan_Mitra_Kerja_Sama_Pemanfaatan_Taman_Wisata_Air_Wendit_Kabupaten_Malang.jpg' alt=''/>
                                     </a>
-                                    <a href='https://bit.ly/kediricerdas2024' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Kediri CERDAS 2024<span class='icon-text'>&#9652;</span>
-                                    </a>
+                                    
                                 </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/pengumuman-hasil-seleksi-administrasi-calon-dewan-peng' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/WhatsApp_Image_2024-08-28_at_10_14_25.jpeg' alt='Pengumuman Hasil Seleksi Administrasi Calon Dewan Pengawas BUMD Kabupaten Kediri 2024	'/>
-                                    </a>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/pengumuman-hasil-seleksi-administrasi-calon-dewan-peng' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Pengumuman Hasil Seleksi Administrasi Calon Dewan Pengawas BUMD Kabupaten Kediri 2024	<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://www.lapor.go.id/' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/lowongan_kerja_lapor.png' alt='SP4AN LAPOR'/>
-                                    </a>
-                                    <a href='https://www.lapor.go.id/' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        SP4AN LAPOR<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://ppid.kedirikab.go.id/informasi-berkala' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/LKJIP.jpg' alt='Unduh Laporan Kinerja Pemerintah Kabupaten Kediri'/>
-                                    </a>
-                                    <a href='https://ppid.kedirikab.go.id/informasi-berkala' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Unduh Laporan Kinerja Pemerintah Kabupaten Kediri<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
-                                <section style='margin-bottom:10px;'>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/logo-mas-bup-merah-dan-vector-png' target='_blank'>
-                                        <img style='width:100%' src='https://berita.kedirikab.go.id/asset/foto_pasangiklan/Untitled_design1.jpg' alt='Download Logo Mas Bup'/>
-                                    </a>
-                                    <a href='https://berita.kedirikab.go.id/halaman/detail/logo-mas-bup-merah-dan-vector-png' class='ad-link'>
-                                        <span class='icon-text'>&#9652;</span>
-                                        Download Logo Mas Bup<span class='icon-text'>&#9652;</span>
-                                    </a>
-                                </section>
+
                             </div>
                             <hr>
                             
@@ -1448,7 +2100,7 @@
                                         </li>
 </li></ul></div></div>
 <div class="widget">
-    <h3>Tag Berita</h3>
+    <h3>Radio Kanjuruhan</h3>
     <div class="tag-cloud">
         <a href='https://berita.kedirikab.go.id/tag/detail/lingkungan' class='badge'>Lingkungan</a>
         <a href='https://berita.kedirikab.go.id/tag/detail/hukum' class='badge'>Hukum</a>
@@ -1475,7 +2127,7 @@
     </div>
 </div>
 <div class="widget">
-    <h3>Komentar Terakhir</h3>
+    <h3>Radio</h3>
     <div class="widget-comments">
         <ul>
             <li>
