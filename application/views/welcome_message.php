@@ -1255,10 +1255,13 @@
                                             </li>
                                         </ul>
                                         <a href="https://berita.kedirikab.go.id/kategori/detail/pariwisata-seni-dan-budaya" class="more">Lihat semua berita</a>
+                                        
                                     </div>
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="main-sidebar right">
                          <h2 class="list-title" style="color:#c42b20;border-bottom:2px solid #c42b20; font-size: 17px; font-weight: bold;">PENGUMUMAN</h2>
                             <div class="widget" style="margin-bottom:0;">
