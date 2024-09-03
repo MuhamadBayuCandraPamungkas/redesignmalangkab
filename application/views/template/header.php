@@ -20,7 +20,7 @@
     <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/fonts.css"/>
     <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/responsive.css"/>
     <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/style.css">
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/animated_social_icons.css">
+    <link type="text/css" rel="stylesheet" href="template/background/blue/animated_social_icons.css"/>
     <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/slide/slide.css">
     <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/asset/libs/JssorSlider/css/jssor-new.css">
     <link rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/lightbox/lightbox.css">
@@ -159,13 +159,13 @@
                                 </a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/kategori/detail/corona'>PORTAL</a>
+                                <a href='https://portal.malangkab.go.id/mlg/'>PORTAL</a>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id//berita/indeks_berita'> HOME </a>
+                                <a href='#'> HOME </a>
                             </li>
 							<li>
-                                <a href='https://berita.kedirikab.go.id//berita/indeks_berita'> 
+                                <a href='#'> 
 									<span>PROFIL</span> 
 								</a>
 								<ul>
@@ -173,7 +173,7 @@
                                         <a href="https://malangkab.go.id/Laporan/Lakip">SAKIP</a>
                                     </li>
                                     <li>
-                                        <a href='https://berita.kedirikab.go.id/kategori/detail/kesehatan-sosial-dan-lingkungan-hidup'>Misi Kabupaten Malang</a>
+                                        <a href='https://malangkab.go.id/Berita/index/misi-kabupaten-malang'>Misi Kabupaten Malang</a>
                                     </li>
                                     <li>
                                         <a href="https://malangkab.go.id/Berita/index/misi-kabupaten-malang">Program Pembangunan</a>
@@ -196,7 +196,7 @@
 							</ul>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/playlist'>
+                                <a href='#'>
 								<span>PEMERINTAH</span>
                                 </a>
                                 <ul>
@@ -220,7 +220,7 @@
                             </li>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/albums'>
+                                <a href='#'>
 									<span>PERANGKAT DAERAH</span>
 							</a>
 									<ul>
@@ -255,7 +255,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/download'>
+                                <a href='#'>
 									<span>POTENSI DAERAH</span>
 								</a>
 								<ul>
@@ -284,7 +284,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/agenda'>
+                                <a href='#'>
 									<span>PELAYANAN PUBLIK</span>
 								</a>
 								<ul>
@@ -336,7 +336,7 @@
 									</ul>
                             </li>
                             <li>
-                                <a href='https://berita.kedirikab.go.id/pengumuman'>
+                                <a href='#'>
 									<span>ANGGARAN DAERAH</span>
 								</a>
 								<ul>
