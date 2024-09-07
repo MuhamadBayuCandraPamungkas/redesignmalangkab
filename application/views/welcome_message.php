@@ -212,14 +212,18 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <a href="https://berita.kedirikab.go.id/perbup-sistem-pemerintahan-berbasis-elektronik-kab-kediri" target='_blank'>
-                                        <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/BANNER-PERBUP-SPBE2.jpg' title='Perbup Sistem Pemerintahan Berbasis Elektronik'/>
-                                    </a>
-                                    <div class="block">
-                                    <div class="block-title" style="background:#900404;">   
-                                            <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right">Semua Artikel dari kategori ini</a>
-                                            <h2>Arsip Berita</h2>
-                                        </div>
+                                   
+    <!-- YouTube Video Embed -->
+<iframe width="590" height="290" src="https://www.youtube.com/embed/vmT2hsAOTec?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto 20px auto;"></iframe>
+
+<!-- Arsip Berita -->
+<div class="block">
+    <div class="block-title" style="background:#900404; padding: 10px; color: white; border-radius: 5px;">
+        <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right" style="color: white; text-decoration: none;">Semua Artikel dari kategori ini</a>
+        <h2 style="margin: 0;">Arsip Berita</h2>
+    </div>
+
+
                                         <div class="block-content">
                                             <div class='wide-article'>
                                                 <div class='article-photo'>
@@ -454,14 +458,125 @@
                                     <a href='https://simpatik.kedirikab.go.id/' target='_blank'>
                                         <img style='margin-top:-10px;margin-bottom:5px' width='100%' src='https://berita.kedirikab.go.id/asset/foto_iklantengah/simpatik_dpmptsp.jpg' title='Simpatik'/>
                                     </a>
+                                    
                                     <!-- end advertisment -->
 
+                                    <!-- CARD GALERY -->
                                     <div class="block">
-                                    <div class="block-title" style="background:#900404;">
-                                            <a href="https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan" class="right">Semua Artikel dari kategori ini</a>
-                                            <h2>GALERY</h2>
-                                        </div>
-                                        table sayur
+    <div class="block-title" style="background:#900404;">
+        <a href="https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan" class="right">Semua Artikel dari kategori ini</a>
+        <h2>GALERY</h2>
+    </div>
+    <p>Pemerintah Kabupaten Malang WISATA</p>
+    <div class="container mt-5">
+        <div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px;">
+            <div class="card-header p-3 pl-4" style="background-color:#008000; color: white; width: auto; height: 70px;">
+                <h4 class="ls1 mb-0 uppercase t700 text-white" style="font-size: 100%;">Info Harga Sayur Mayur <br><small>Update : 2024-07-22 06:35:45</small></h4>
+            </div>
+        <!-- Add margin-bottom to separate card from search -->
+        <div style="margin-bottom: 10px;"></div>
+        <!-- Search input -->
+        <div class="mt-3">
+            <label for="search">SEARCH:</label>
+            <input type="text" id="search" class="form-control" placeholder="Search..." style="margin-bottom: 20px;">
+        </div>
+    <table class="table table-bordered table-striped" style="background-color: white; color: black;">
+    <thead style="background-color: white; color: black;">
+         <tr>
+            <th style="font-size: 11px; text-align: left;">#</th>
+            <th style="font-size: 11px; text-align: left;">Nama Sayur</th>
+            <th style="font-size: 11px; text-align: left;">Harga Sebelumnya (Rp)</th>
+            <th style="font-size: 11px; text-align: left;">Harga Sekarang (Rp)</th>
+            <th style="font-size: 11px; text-align: left;">Satuan</th>
+        </tr>
+    </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Brokoli</td>
+                <td class="text-right">10.000</td>
+                <td class="text-right">6.000</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Andewi</td>
+                <td class="text-right">1.000</td>
+                <td class="text-right">4.000</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Bawang Prei Segon</td>
+                <td class="text-right">7.500</td>
+                <td class="text-right">7.500</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Bawang Prei Layur</td>
+                <td class="text-right">7.500</td>
+                <td class="text-right">7.000</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Bunga Kol</td>
+                <td class="text-right">4.000</td>
+                <td class="text-right">4.500</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Buncis</td>
+                <td class="text-right">6.000</td>
+                <td class="text-right">4.500</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Buncis Merah</td>
+                <td class="text-right">8.000</td>
+                <td class="text-right">8.000</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Kapri TW</td>
+                <td class="text-right">7.000</td>
+                <td class="text-right">7.000</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Kapri Jawa</td>
+                <td class="text-right">7.000</td>
+                <td class="text-right">6.000</td>
+                <td>/Kg</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Kentang Pujon</td>
+                <td class="text-right">10.000</td>
+                <td class="text-right">10.000</td>
+                <td>/Kg</td>
+            </tr>
+        </tbody>
+    </table>
+<div class="dataTables_info">Showing 1 to 10 of 49 entries</div>
+<div class="dataTables_paginate">
+<ul class="pagination">
+        <li class="paginate_button previous disabled"><a href="#" style="color: #6c757d">Previous</a></li>
+        <li class="paginate_button active"><a href="#" style="background-color: #20c997; color: white;">1</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">2</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">3</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">4</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">5</a></li>
+        <li class="paginate_button next"><a href="#" style="color: #6c757d">Next</a></li>
+    </ul>
+</div>
+</div>
+</div>
                                     </div>
                                     
                                     <div class="block">
@@ -2103,69 +2218,127 @@
                                         </li>
 </li></ul></div></div>
 <div class="widget">
-    <h3>Radio Kanjuruhan</h3>
-    <div class="tag-cloud">
-        <a href='https://berita.kedirikab.go.id/tag/detail/lingkungan' class='badge'>Lingkungan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/hukum' class='badge'>Hukum</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pendidikan' class='badge'>Pendidikan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/seni-dan-budaya' class='badge'>Seni dan Budaya</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/kesehatan' class='badge'>Kesehatan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pemerintahan' class='badge'>Pemerintahan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pariwisata' class='badge'>Pariwisata</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/upacara' class='badge'>Upacara</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pedesaan' class='badge'>Pedesaan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/olahraga' class='badge'>Olahraga</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/perikanan' class='badge'>Perikanan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/kuliner' class='badge'>Kuliner</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/sosial' class='badge'>Sosial</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/teknologi' class='badge'>Teknologi</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/bencana' class='badge'>Bencana</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/religi' class='badge'>Religi</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/umkm' class='badge'>UMKM</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pertanian' class='badge'>Pertanian</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/corona' class='badge'>Corona</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/keamanan' class='badge'>Keamanan</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/politik' class='badge'>Politik</a>
-        <a href='https://berita.kedirikab.go.id/tag/detail/pasar' class='badge'>Pasar</a>
-    </div>
+    <h3>E-Book</h3>
+    
 </div>
 <div class="widget">
-    <h3>Radio</h3>
-    <div class="widget-comments">
-        <ul>
-            <li>
-                <div class='comment-photo'>
-                    <span class='hover-effect'>
-                        <img style='width:50px;height:50px;' src='https://www.gravatar.com/avatar/8e423501d3e0b917deaeb75cea643a1e.jpg?s=100'/>
-                    </span>
-                </div>
-                <div class='comment-content'>
-                    <h3>Jojo</h3>
-                    <p>Sangat bagus program dari negara terkait sertifikat tanah. Meskipun berbayar Rp 600.000.jika 1 desa ...</p>
-                    <span class='meta'>
-                        <a href='https://berita.kedirikab.go.id/13882-sertifikat-untuk-masyarakat-kabupaten-kediri'>
-                            <span class='icon-text'>&#59212;</span>
-                            View Article
-                        </a>
-                    </span>
-                </div>
-            </li>
-            <li>
-                <div class='comment-photo'>
-                    <span class='hover-effect'>
-                        <img style='width:50px;height:50px;' src='https://www.gravatar.com/avatar/b34856b0a032d2244e5ee6f4154570cd.jpg?s=100'/>
-                    </span>
-                </div>
-                <div class='comment-content'>
-                    <h3>Nash</h3>
-                    <p>Alhamdulillah ...maju terus Kab. ...</p>
-                    <span class='meta'>
-                        <a href='https://berita.kedirikab.go.id/jeglongan-sewu-jadi-kenangan'>
-                            <span class='icon-text'>&#59212;</span>
-                            View Article
-                        </a>
-                    </span>
-                </div>
+    <h3>Radio Kanjuruhan</h3>
+    <div class="widget widget_links clearfix">
+									<div class="scroll">
+												<table class="table table-striped">
+												  <tbody><tr>
+													<th colspan="2">Program Siaran Radio Kanjuruhan <br>Senin - Sabtu ( 29 Juli - 3 Agustus 2024)</th>
+												  </tr>
+												  <tr>
+													<th>Jam</th>
+													<th>Acara</th>
+												  </tr>
+												  <tr>
+													<td>06.00-08.00</td>
+													<td>Inspirasi Kanjuruhan </td>
+												  </tr>
+												  <tr>
+													<td>08.00-10.00</td>
+													<td>Newstainment (berita Kabupaten Malang dan lain-lain)</td>
+												  </tr>
+												  <tr>
+													<td>10.00-12.00</td>
+													<td>Kalimas (kenangan lagu Indonesia masa silam)</td>
+												  </tr>
+												  <tr>
+													<td>12.00-14.00</td>
+													<td>Sambung Sari (lagu-lagu campursari) </td>
+												  </tr>
+												  <tr>
+													<td>14.00-15.00 </td>
+													<td>Berita Indonesia Live</td>
+												  </tr>
+												  <tr>
+													<td>15.00-16.00</td>
+													<td>Inspirasi Sore </td>
+												  </tr>
+												  <tr>
+													<td>16.00-17.00</td>
+													<td>Lagu-lagu Religi </td>
+												  </tr>
+												  <tr>
+													<td>17.00-18.00</td>
+													<td>Mimbar Agama Islam </td>
+												  </tr>
+												  <tr>
+													<td>18.00-20.00</td>
+													<td>Paskan (Pastikan Kanjuruhan) </td>
+												  </tr>
+												  <tr>
+													<th colspan="2">Senin, 26 Agustus 2024</th>
+												  </tr>
+												  <tr>
+													<td>16.00-17.00</td>
+													<td>Mimbar Islami Bersama MUI Kec. Kepanjen</td>
+												  </tr>
+												  <tr>
+													<th colspan="2">Selasa, 27 Agustus 2024</th>
+												  </tr>
+												  <tr>
+													<td>16.00-17.00</td>
+													<td>Mimbar Kristiani bersama GBI KAIROS Kepanjen - Kab. Malang</td>
+												  </tr>
+												   <tr>
+													<th colspan="2">Rabu, 28 Agustus 2024</th>
+												  </tr>
+												  <tr>
+													<td>11.00-12.00</td>
+													<td>Talkshow KCC &amp; KCB bersama Kadishub, dan Polres Malang</td>
+												  </tr>
+												</tbody></table>
+											</div>
+                                    <!--<iframe width="100%" height="100" scrolling="no" frameborder="no" src="http://live.radiokanjuruhanfm.com:8056"></iframe>-->
+                                    <!--<audio id="stream" controls="" preload="none" src="http://lpplradiokanjuruhan.malangkab.go.id/stream.ogg" type="audio/mpeg" style="width:370px;"></audio>
+                                    <audio id="stream" controls="" preload="none" src="https://radiokanjuruhan.com" type="audio/mpeg" style="width:370px;"></audio>-->
+									<iframe src="https://radiokanjuruhan.com" style="width:auto; height:650px">
+									
+                                </div>
+                            </div>
+							
+                            <!-- Sidebar Widget 1
+					============================================= -->
+                            <div class="widget widget_links clearfix">
+                                <h4 class="mb-2 ls1 uppercase t700">Prakiraan Cuaca</h4>
+                                <div class="line line-xs line-tech"></div>
+                                <div class="aw-widget-current-inner">
+                                    <div class="aw-widget-content bg-c">
+                                        <a id="link_current" href="https://www.accuweather.com/id/id/malang/208996/weather-forecast/208996?utm_source=www-malangkab-go-id&amp;utm_medium=oap_weather_widget&amp;utm_term=link_current&amp;utm_content=accuweather&amp;utm_campaign=current" target="_blank" class="aw-current-weather">
+                                            <div class="aw-current-weather-inner">
+                                                <h3>Malang, ID</h3>
+                                                <span class="aw-icon aw-icon-6-l" data-icon="6"></span>
+                                                <p class="aw-temp-time-desc"><span class="aw-temperature-today"><b>27<sup>°</sup></b></span><time>09.10 WIT</time>
+                                                    <span class="aw-weather-description">Umumnya berawan</span>
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget widget_links clearfix">
+                            <h4 class="mb-2 ls1 uppercase t700">Statistik Pengunjung</h4>
+                            <div class="line line-xs line-tech"></div>
+                            <iframe id="1gQnxmg4l4" width="350" height="153" style="margin:0px;border-width:0px;overflow:hidden;" scrolling="no" src="https://www.embeddedanalytics.com/reports/displayreport?reportcode=1gQnxmg4l4&amp;chckcode=gapTUoO4QvNm2AOATgG1Xk"></iframe>
+                            <!-- <ul>
+							<li><a href="#" class="d-flex justify-content-between align-items-center">Pengunjung Hari ini<span class="badge bg-sports">17</span></a></li>
+							<li><a href="#" class="d-flex justify-content-between align-items-center">Pengunjung Bulan ini<span class="badge bg-fashion">211</span></a></li>
+							<li><a href="#" class="d-flex justify-content-between align-items-center">Pengunjung Tahun ini<span class="badge bg-info">899</span></a></li>							
+						</ul> -->
+                        </div>
+                        <div class="resize-sensor" style="position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden;">
+                            <div class="resize-sensor-expand" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;">
+                                <div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 400px; height: 2226px;"></div>
+                            </div>
+                            <div class="resize-sensor-shrink" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;">
+                                <div style="position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%"></div>
+                            </div>
+                        </div>
+                    </div>
             </li>
         </ul>
     </div>
