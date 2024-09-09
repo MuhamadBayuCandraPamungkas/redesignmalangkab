@@ -468,10 +468,12 @@
         <h2>GALERY</h2>
     </div>
     <p>Pemerintah Kabupaten Malang WISATA</p>
+    
+    <!-- INFO HARGA SAYUR MAYUR -->
     <div class="container mt-5">
         <div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px;">
             <div class="card-header p-3 pl-4" style="background-color:#008000; color: white; width: auto; height: 70px;">
-                <h4 class="ls1 mb-0 uppercase t700 text-white" style="font-size: 100%;">Info Harga Sayur Mayur <br><small>Update : 2024-07-22 06:35:45</small></h4>
+                <h4 class="ls1 mb-0 uppercase t700 text-white" style="font-size: 100%;">INFO HARGA SAYUR MAYUR <br><small>Update : 2024-07-22 06:35:45</small></h4>
             </div>
         <!-- Add margin-bottom to separate card from search -->
         <div style="margin-bottom: 10px;"></div>
@@ -576,8 +578,132 @@
     </ul>
 </div>
 </div>
+<!-- END INFO HARGA SAYUR MAYUR -->
+
+<!-- INFO HARGA KEBUTUHAN POKOK -->
+<div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px;">
+            <div class="card-header p-3 pl-4" style="background-color:#FF5D6C; color: white; width: auto; height: 70px;">
+                <h4 class="ls1 mb-0 uppercase t700 text-white" style="font-size: 100%;">INFO HARGA KEBUTUHAN POKOK <br><small>Update : 2024-07-22 06:35:45</small></h4>
+            </div>
+        <!-- Add margin-bottom to separate card from search -->
+        <div style="margin-bottom: 10px;"></div>
+        <!-- Search input -->
+        <div class="mt-3">
+            <label for="search">SEARCH:</label>
+            <input type="text" id="search" class="form-control" placeholder="Search..." style="margin-bottom: 20px;">
+        </div>
+    <table class="table table-bordered table-striped" style="background-color: white; color: black;">
+    <thead style="background-color: white; color: black;">
+    <tr>
+                                                            <th style="width: 10px">#</th>
+                                                            <th>Nama Pangan</th>
+                                                            <th align="right">Harga Lama(Rp)</th>
+                                                            <th>#</th>
+                                                            <th>Koreksi (Rp)</th>
+                                                            <th align="right">Harga Baru (Rp)</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                                                                            <tr>
+                                                            <td>1</td>
+                                                            <td>Beras IR. 64</td>
+                                                            <td align="right"> 13.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">13.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>2</td>
+                                                            <td>Minyak Goreng Curah</td>
+                                                            <td align="right"> 17.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">17.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>3</td>
+                                                            <td>Daging Sapi</td>
+                                                            <td align="right"> 118.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">118.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>4</td>
+                                                            <td>Daging Ayam Potong</td>
+                                                            <td align="right"> 29.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">29.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>5</td>
+                                                            <td>Telur Ayam Broiler</td>
+                                                            <td align="right"> 24.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">24.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>6</td>
+                                                            <td>Garam Yodium Batah</td>
+                                                            <td align="right"> 3.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">3.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>7</td>
+                                                            <td>Cabe Merah Besar</td>
+                                                            <td align="right"> 26.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">26.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>8</td>
+                                                            <td>Kacang Tanah</td>
+                                                            <td align="right"> 27.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">27.000</td>
+                                                            
+                                                        </tr>
+                                                                                                          <tr>
+                                                            <td>9</td>
+                                                            <td>Gula Pasir</td>
+                                                            <td align="right"> 16.000</td>
+                                                            <td> <span class="description-percentage text-green"> <i class="icon-caret-down style='color: green'"></i></span>  </td>
+                                                            <td align="right"> 0</td>
+                                                            <td align="right">16.000</td>
+                                                            
+                                                        </tr>
+        </tbody>
+    </table>
+<div class="dataTables_info">Showing 1 to 10 of 49 entries</div>
+<div class="dataTables_paginate">
+<ul class="pagination">
+        <li class="paginate_button previous disabled"><a href="#" style="color: #6c757d">Previous</a></li>
+        <li class="paginate_button active"><a href="#" style="background-color: #20c997; color: white;">1</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">2</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">3</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">4</a></li>
+        <li class="paginate_button"><a href="#" style="color: #ff6600;">5</a></li>
+        <li class="paginate_button next"><a href="#" style="color: #6c757d">Next</a></li>
+    </ul>
 </div>
-                                    </div>
+</div>
+</div>
+<!-- END INFO HARGA POKOK -->
+
+</div>
                                     
                                     <div class="block">
                                         <div class="block-title" style="background:#900404;">
@@ -2082,7 +2208,7 @@
                             
 
                             <!-- sosmed widget -->
-                            <div class="widget">
+            <div class="widget">
     <h3 style="margin-bottom: 0.8rem; font-family: quicksand, 'Source Sans Pro', sans-serif; font-size: 14px; display: flex; align-items: center; align-content: center;">
         <span style="margin-right: .75rem;" class="fa fa-at"></span>Temukan kami di Media Sosial
     </h3>
@@ -2219,7 +2345,13 @@
 </li></ul></div></div>
 <div class="widget">
     <h3>E-Book</h3>
+    <img id="ebook-image" src="https://profil.malangkab.go.id/uploads/dokumen/cover_kmsd_2023.jpeg" alt="" style="width:300px; height:390px;">
     
+    <!-- Tombol navigasi -->
+    <div class="navigation">
+        <button class="nav-btn" onclick="previousImage()">&#10094;</button>
+        <button class="nav-btn" onclick="nextImage()">&#10095;</button>
+    </div>
 </div>
 <div class="widget">
     <h3>Radio Kanjuruhan</h3>

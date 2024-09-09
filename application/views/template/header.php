@@ -28,7 +28,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 
 
     <!-- Custom CSS -->
@@ -57,6 +58,33 @@
 .search-input:focus + .search-icon {
     color: #6A6363; /* Ganti dengan warna yang diinginkan */
 }
+.navigation {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .nav-btn {
+        width: 40px;
+        height: 40px;
+        background-color: white;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .nav-btn:hover {
+        background-color: lightgray;
+    }
+
+    /* Menghilangkan outline saat tombol di klik */
+    .nav-btn:focus {
+        outline: none;
+    }
 
         
     </style>
@@ -88,6 +116,27 @@
             }
             )(window, document, 'script', 'dataLayer', 'GTM-WNSR784');
         </script>
+
+<script>
+    var images = [
+        "https://profil.malangkab.go.id/uploads/dokumen/cover_kmsd_2023.jpeg",
+        "https://example.com/path-to-second-image.jpeg",  // Ganti dengan URL gambar kedua
+        "https://example.com/path-to-third-image.jpeg"    // Ganti dengan URL gambar ketiga
+    ];
+    
+    var currentIndex = 0;
+
+    function nextImage() {
+        currentIndex = (currentIndex + 1) % images.length;
+        document.getElementById("ebook-image").src = images[currentIndex];
+    }
+
+    function previousImage() {
+        currentIndex = (currentIndex - 1 + images.length) % images.length;
+        document.getElementById("ebook-image").src = images[currentIndex];
+    }
+    </script>
+
         <!-- End Google Tag Manager -->
     </head>
     <body>
@@ -139,7 +188,7 @@
                     <div class='header-addons'>
 
                         <span class='city'>
-                            Senin, 02 Sep 2024, <span id='jam'></span>
+                            Senin, 09 Sep 2024, <span id='jam'></span>
                         </span>
                         <div class='header-search'>
                             <form action="https://berita.kedirikab.go.id/berita/index" method="post" accept-charset="utf-8">
