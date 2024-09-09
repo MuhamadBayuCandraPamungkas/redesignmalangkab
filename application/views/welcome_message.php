@@ -842,59 +842,59 @@
                                         </div>
                                     </div>
                                 </div>
-                                    <div class="content-block left">
+                                <div class="content-block left">
                                         <div class="block">
                                             <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;font-size : 17px">KEGIATAN PERANGKAT DAERAH</h2>
                                             <ul class="article-list">
                                             <li>
-                                                <a href='https://berita.kedirikab.go.id/sat-set-award-2022-15-desa-terima-reward-dari-mas-dhito'>Sat Set Award 2022, 15 Desa Terima Reward dari Mas Dhito</a>
-                                                <a href='https://berita.kedirikab.go.id/sat-set-award-2022-15-desa-terima-reward-dari-mas-dhito' class='h-comment'>0</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur'>Wabup Malang hadiri Pagelaran Wayang Kulit dengan Lakon Pandawa Syukur</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur' class='h-comment'>0</a>
                                                 <br>
                                                 <span class='meta-date'>08:03:37, 18 Agu 2022</span>
                                             </li>
                                             <li>
-                                                <a href='https://berita.kedirikab.go.id/mas-dhito-bolehkan-masyarakat-kabupaten-kediri-lepas-masker-di-luar-ruangan'>Mas Dhito Bolehkan Masyarakat Kabupaten Kediri Lepas Masker di Luar Ruangan</a>
-                                                <a href='https://berita.kedirikab.go.id/mas-dhito-bolehkan-masyarakat-kabupaten-kediri-lepas-masker-di-luar-ruangan' class='h-comment'>0</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur'>Wabup Malang hadiri Pagelaran Wayang Kulit dengan Lakon Pandawa Syukur</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur' class='h-comment'>0</a>
                                                 <br>
-                                                <span class='meta-date'>20:32:14, 17 Mei 2022</span>
+                                                <span class='meta-date'>08:03:37, 18 Agu 2022</span>
                                             </li>
                                             <li>
-                                                <a href='https://berita.kedirikab.go.id/surat-edaran-bupati-ppkm-level-3-kabupaten-kediri'>SURAT EDARAN BUPATI PPKM Level 3 Kabupaten Kediri</a>
-                                                <a href='https://berita.kedirikab.go.id/surat-edaran-bupati-ppkm-level-3-kabupaten-kediri' class='h-comment'>0</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur'>Wabup Malang hadiri Pagelaran Wayang Kulit dengan Lakon Pandawa Syukur</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur' class='h-comment'>0</a>
                                                 <br>
-                                                <span class='meta-date'>23:00:51, 01 Mar 2022</span>
+                                                <span class='meta-date'>08:03:37, 18 Agu 2022</span>
                                             </li>
                                             <li>
-                                                <a href='https://berita.kedirikab.go.id/surat-edaran-bupati-ppkm-level-3-kabupaten-kediri'>SURAT EDARAN BUPATI PPKM Level 3 Kabupaten Kediri</a>
-                                                <a href='https://berita.kedirikab.go.id/surat-edaran-bupati-ppkm-level-3-kabupaten-kediri' class='h-comment'>0</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur'>Wabup Malang hadiri Pagelaran Wayang Kulit dengan Lakon Pandawa Syukur</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur' class='h-comment'>0</a>
                                                 <br>
-                                                <span class='meta-date'>00:00:56, 23 Feb 2022</span>
+                                                <span class='meta-date'>08:03:37, 18 Agu 2022</span>
                                             </li>
                                             <li>
-                                                <a href='https://berita.kedirikab.go.id/surat-edaran-bupati-ppkm-level-2-kabupaten-kediri'>SURAT EDARAN BUPATI PPKM Level 2 Kabupaten Kediri</a>
-                                                <a href='https://berita.kedirikab.go.id/surat-edaran-bupati-ppkm-level-2-kabupaten-kediri' class='h-comment'>0</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur'>Wabup Malang hadiri Pagelaran Wayang Kulit dengan Lakon Pandawa Syukur</a>
+                                                <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur' class='h-comment'>0</a>
                                                 <br>
-                                                <span class='meta-date'>23:50:40, 15 Feb 2022</span>
+                                                <span class='meta-date'>08:03:37, 18 Agu 2022</span>
                                             </li>
                                         </ul>
-                                        <a href="https://berita.kedirikab.go.id/kategori/detail/corona" class="more">Lihat semua berita</a>
+                                        <a href="#" class="more">Lihat semua berita</a>
                                     </div>
                                     <div class="block">
                                         <h2 class="list-title" style="color: #900404;border-bottom:2px solid #900404;">Berita Statistik Sektoral</h2>
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/profil-sekolah-di-kabupaten-kediri-menurut-jenjang-pendidikan-tahun-2023' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/PENGUMUMAN---Statistik-Pendidikan-sddd.jpg' alt=''/>
+                                                    <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://sumberdayaair.malangkab.go.id/uploads/artikel/sumberdayaair-opd@3507-509241a.heic' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/profil-sekolah-di-kabupaten-kediri-menurut-jenjang-pendidikan-tahun-2023'>PROFIL SEKOLAH DI KABUPATEN KEDIRI MENURUT JENJANG PENDIDIKAN TAHUN 2023</a>
-                                                        <a href='https://berita.kedirikab.go.id/profil-sekolah-di-kabupaten-kediri-menurut-jenjang-pendidikan-tahun-2023' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>Mancing Bareng untuk Menyambut Hari Jadi ke-1264 Kabupaten Malang</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/profil-sekolah-di-kabupaten-kediri-menurut-jenjang-pendidikan-tahun-2023'>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
                                                             12:00:48, 22 Des 2023
                                                         </a>
@@ -902,100 +902,100 @@
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/soroti-soal-kemiskinan-mas-dhito-minta-jajarannya-harus-peka-terhadap-kesulitan-masyarakat' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/Musrenbang_(3).jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://sumberdayaair.malangkab.go.id/uploads/artikel/sumberdayaair-opd@3507-509241a.heic' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/soroti-soal-kemiskinan-mas-dhito-minta-jajarannya-harus-peka-terhadap-kesulitan-masyarakat'>Soroti Soal Kemiskinan, Mas Dhito Minta Jajarannya Harus Peka Terhadap Kesulitan Masyarakat</a>
-                                                        <a href='https://berita.kedirikab.go.id/soroti-soal-kemiskinan-mas-dhito-minta-jajarannya-harus-peka-terhadap-kesulitan-masyarakat' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>Mancing Bareng untuk Menyambut Hari Jadi ke-1264 Kabupaten Malang</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/soroti-soal-kemiskinan-mas-dhito-minta-jajarannya-harus-peka-terhadap-kesulitan-masyarakat'>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            20:27:28, 09 Mar 2023
+                                                            12:00:48, 22 Des 2023
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tata-ruang' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/dsstataruang.PNG' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://sumberdayaair.malangkab.go.id/uploads/artikel/sumberdayaair-opd@3507-509241a.heic' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tata-ruang'>Video Statistik Sektoral Tata Ruang</a>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tata-ruang' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>Mancing Bareng untuk Menyambut Hari Jadi ke-1264 Kabupaten Malang</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tata-ruang'>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            12:09:24, 10 Jul 2020
+                                                            12:00:48, 22 Des 2023
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tenaga-kerja' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/dsstenagakerja.PNG' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://sumberdayaair.malangkab.go.id/uploads/artikel/sumberdayaair-opd@3507-509241a.heic' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tenaga-kerja'>Video Statistik Sektoral Tenaga Kerja</a>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tenaga-kerja' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>Mancing Bareng untuk Menyambut Hari Jadi ke-1264 Kabupaten Malang</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-tenaga-kerja'>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            12:08:49, 10 Jul 2020
+                                                            12:00:48, 22 Des 2023
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-perumahan' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/dssperumahan.PNG' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://sumberdayaair.malangkab.go.id/uploads/artikel/sumberdayaair-opd@3507-509241a.heic' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-perumahan'>Video Statistik Sektoral Perumahan</a>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-perumahan' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>Mancing Bareng untuk Menyambut Hari Jadi ke-1264 Kabupaten Malang</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/video-statistik-sektoral-perumahan'>
+                                                        <a href='https://malangkab.go.id/Berita/index/mancing-bareng-untuk-menyambut-hari-jadi-ke-1264-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            12:07:26, 10 Jul 2020
+                                                            12:00:48, 22 Des 2023
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                         </ul>
-                                        <a href="https://berita.kedirikab.go.id/kategori/detail/statistik-sektoral" class="more">Lihat semua berita</a>
+                                        <a href="#" class="more">Lihat semua berita</a>
                                     </div>
                                     <div class="block">
                                         <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pendidikan</h2>
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/uks_4.jpeg' alt=''/>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
                                                             <span class='icon-text'>&#128340;</span>
                                                             15:00:29, 19 Agu 2024
                                                         </a>
@@ -1003,101 +1003,202 @@
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/small_no-image.jpg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>Rapat Koordinasi Pimpinan Kwarcab Kabupaten Kediri dan Kwaran SBH Kabupaten Kediri</a>
-                                                        <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/rapat-koordinasi-pimpinan-kwarcab-kabupaten-kediri-dan-kwaran-sbh-kabupaten-kediri'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            19:00:31, 14 Agu 2024
+                                                            15:00:29, 19 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/pram_3.jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>Kwartir Ranting Ngadiluwih Gelar Pentas Seni Jambore Ranting 2024</a>
-                                                        <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/kwartir-ranting-ngadiluwih-gelar-pentas-seni-jambore-ranting-2024'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            22:00:47, 13 Agu 2024
+                                                            15:00:29, 19 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/lantik_1.jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa'>Upacara Pelantikan Pramuka Garuda dan Penganugerahan Lencana Pancawarasa</a>
-                                                        <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/upacara-pelantikan-pramuka-garuda-dan-penganugerahan-lencana-pancawarasa'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            22:00:28, 13 Agu 2024
+                                                            15:00:29, 19 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/berikan-motivasi-semangat-belajar-pemkab-kediri-berikan-bantuan-untuk-anakanak-perbatasan-papua' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/tas_4.jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-motivasi-semangat-belajar-pemkab-kediri-berikan-bantuan-untuk-anakanak-perbatasan-papua'>Berikan Motivasi Semangat Belajar, Pemkab Kediri Berikan Bantuan Untuk Anak-anak Perbatasan Papua</a>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-motivasi-semangat-belajar-pemkab-kediri-berikan-bantuan-untuk-anakanak-perbatasan-papua' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/berikan-motivasi-semangat-belajar-pemkab-kediri-berikan-bantuan-untuk-anakanak-perbatasan-papua'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            15:00:49, 08 Agu 2024
+                                                            15:00:29, 19 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                         </ul>
-                                        <a href="https://berita.kedirikab.go.id/kategori/detail/statistik-sektoral" class="more">Lihat semua berita</a>
+                                        <a href="#" class="more">Lihat semua berita</a>
                                     </div>
                                     
                                     <div class="block">
-                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pariwisata, Seni dan Budaya</h2>
+                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pendidikan</h2>
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg' alt=''/>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
+                                                            <span class='icon-text'>&#128340;</span>
+                                                            15:00:29, 19 Agu 2024
+                                                        </a>
+                                                    </span>
+                                                </div>
+                                            </li>
+                                            <li>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
+                                                    </a>
+                                                </div>
+                                                <div class='article-content'>
+                                                    <h4>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
+                                                    </h4>
+                                                    <span class='meta'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
+                                                            <span class='icon-text'>&#128340;</span>
+                                                            15:00:29, 19 Agu 2024
+                                                        </a>
+                                                    </span>
+                                                </div>
+                                            </li>
+                                            <li>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
+                                                    </a>
+                                                </div>
+                                                <div class='article-content'>
+                                                    <h4>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
+                                                    </h4>
+                                                    <span class='meta'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
+                                                            <span class='icon-text'>&#128340;</span>
+                                                            15:00:29, 19 Agu 2024
+                                                        </a>
+                                                    </span>
+                                                </div>
+                                            </li>
+                                            <li>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
+                                                    </a>
+                                                </div>
+                                                <div class='article-content'>
+                                                    <h4>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
+                                                    </h4>
+                                                    <span class='meta'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
+                                                            <span class='icon-text'>&#128340;</span>
+                                                            15:00:29, 19 Agu 2024
+                                                        </a>
+                                                    </span>
+                                                </div>
+                                            </li>
+                                            <li>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
+                                                    </a>
+                                                </div>
+                                                <div class='article-content'>
+                                                    <h4>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
+                                                    </h4>
+                                                    <span class='meta'>
+                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
+                                                            <span class='icon-text'>&#128340;</span>
+                                                            15:00:29, 19 Agu 2024
+                                                        </a>
+                                                    </span>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                        <a href="#" class="more">Lihat semua berita</a>
+                                    </div>
+                            <div class="block">
+                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pariwisata, Seni dan Budaya</h2>
+                                        <ul class="article-block">
+                                            <li>
+                                                <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://disparbud.malangkab.go.id/uploads/artikel/disparbud-opd@3507-KBF%201.PNG' alt=''/>
+                                                    </a>
+                                                </div>
+                                                <div class='article-content'>
+                                                    <h4>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>MERIAH!!!!! FESTIVAL BANTENGAN DI GELAR DI KABUPATEN MALANG</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='h-comment'>0</a>
+                                                    </h4>
+                                                    <span class='meta'>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
                                                             16:00:31, 23 Agu 2024
                                                         </a>
@@ -1105,83 +1206,83 @@
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/melalui-lomba-burung-sosialisasikan-pelestarian-jaga-dari-kepunahan' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/manuk_1.jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://disparbud.malangkab.go.id/uploads/artikel/disparbud-opd@3507-KBF%201.PNG' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/melalui-lomba-burung-sosialisasikan-pelestarian-jaga-dari-kepunahan'>Melalui Lomba Burung, Sosialisasikan Pelestarian Jaga Dari Kepunahan</a>
-                                                        <a href='https://berita.kedirikab.go.id/melalui-lomba-burung-sosialisasikan-pelestarian-jaga-dari-kepunahan' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>MERIAH!!!!! FESTIVAL BANTENGAN DI GELAR DI KABUPATEN MALANG</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/melalui-lomba-burung-sosialisasikan-pelestarian-jaga-dari-kepunahan'>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            17:00:56, 11 Agu 2024
+                                                            16:00:31, 23 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/bersih-desa-toyoresmi-gunungan-tumpeng-tahu-kuning-diserbu-warga' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/tahu_1.jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://disparbud.malangkab.go.id/uploads/artikel/disparbud-opd@3507-KBF%201.PNG' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/bersih-desa-toyoresmi-gunungan-tumpeng-tahu-kuning-diserbu-warga'>Bersih Desa Toyoresmi, Gunungan Tumpeng Tahu Kuning Diserbu Warga</a>
-                                                        <a href='https://berita.kedirikab.go.id/bersih-desa-toyoresmi-gunungan-tumpeng-tahu-kuning-diserbu-warga' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>MERIAH!!!!! FESTIVAL BANTENGAN DI GELAR DI KABUPATEN MALANG</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/bersih-desa-toyoresmi-gunungan-tumpeng-tahu-kuning-diserbu-warga'>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            16:00:05, 02 Agu 2024
+                                                            16:00:31, 23 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/warga-desa-brumbung-gelar-kirab-budaya-dalam-rangka-hari-jadi-ke896' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/kirab_1.jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://disparbud.malangkab.go.id/uploads/artikel/disparbud-opd@3507-KBF%201.PNG' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/warga-desa-brumbung-gelar-kirab-budaya-dalam-rangka-hari-jadi-ke896'>Warga Desa Brumbung Gelar Kirab Budaya Dalam Rangka Hari Jadi Ke-896</a>
-                                                        <a href='https://berita.kedirikab.go.id/warga-desa-brumbung-gelar-kirab-budaya-dalam-rangka-hari-jadi-ke896' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>MERIAH!!!!! FESTIVAL BANTENGAN DI GELAR DI KABUPATEN MALANG</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/warga-desa-brumbung-gelar-kirab-budaya-dalam-rangka-hari-jadi-ke896'>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            17:00:19, 30 Jul 2024
+                                                            16:00:31, 23 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                             <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://berita.kedirikab.go.id/juri-kemenparekraf-kagum-dengan-potensi-desa-wisata-sempu' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/visitasi_3.jpeg' alt=''/>
+                                            <div class='article-photo'>
+                                                    <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='hover-effect'>
+                                                        <img style='width:59px;height:42px;' src='https://disparbud.malangkab.go.id/uploads/artikel/disparbud-opd@3507-KBF%201.PNG' alt=''/>
                                                     </a>
                                                 </div>
                                                 <div class='article-content'>
                                                     <h4>
-                                                        <a href='https://berita.kedirikab.go.id/juri-kemenparekraf-kagum-dengan-potensi-desa-wisata-sempu'>Juri Kemenparekraf Kagum Dengan Potensi Desa Wisata Sempu</a>
-                                                        <a href='https://berita.kedirikab.go.id/juri-kemenparekraf-kagum-dengan-potensi-desa-wisata-sempu' class='h-comment'>0</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>MERIAH!!!!! FESTIVAL BANTENGAN DI GELAR DI KABUPATEN MALANG</a>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang' class='h-comment'>0</a>
                                                     </h4>
                                                     <span class='meta'>
-                                                        <a href='https://berita.kedirikab.go.id/juri-kemenparekraf-kagum-dengan-potensi-desa-wisata-sempu'>
+                                                        <a href='https://malangkab.go.id/Berita/index/disparbud-opd%203507-meriah-festival-bantengan-di-gelar-di-kabupaten-malang'>
                                                             <span class='icon-text'>&#128340;</span>
-                                                            17:00:11, 28 Jul 2024
+                                                            16:00:31, 23 Agu 2024
                                                         </a>
                                                     </span>
                                                 </div>
                                             </li>
                                         </ul>
-                                        <a href="https://berita.kedirikab.go.id/kategori/detail/pariwisata-seni-dan-budaya" class="more">Lihat semua berita</a>
+                                        <a href="#" class="more">Lihat semua berita</a>
                                         
                                     </div>
                                     <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Potensi Daerah</h2>
