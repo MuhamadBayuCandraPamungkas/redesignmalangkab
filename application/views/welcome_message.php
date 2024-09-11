@@ -2311,7 +2311,7 @@
                             <!-- sosmed widget -->
             <div class="widget">
     <h3 style="margin-bottom: 0.8rem; font-family: quicksand, 'Source Sans Pro', sans-serif; font-size: 14px; display: flex; align-items: center; align-content: center;">
-        <span style="margin-right: .75rem;" class="fa fa-at"></span>Temukan kami di Media Sosial
+        <span style="margin-right: .75rem;" class="fa fa-at"></span>CONNECT WITH US
     </h3>
     <div class="widget-social">
         <div class="social-btns">
@@ -2333,126 +2333,43 @@
 </div>
                              <!-- end sosmed widget -->
 
+                             <!-- Twiter Content -->
                             <div class="widget">
-                                <h3>Berita Terbaru</h3>
+                                <h3>Twiter</h3>
                                 <div class="widget-articles">
-                                    <ul>
-                                        <li>
-                                        <li>
-                                            <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/jls_1.jpeg' alt='warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'/>
-                                                </a>
+                                <div class="card-body">
+                    <!-- <div class="scroll-wrap" style="height: auto;">
+                        <div class="scroll"> -->
+                            <article class="spost clearfix">
+                                <div class="entry-c">
+                                    <div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: auto; width: 50; margin-top: 3px; margin-bottom: 3px;"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" title="X Post" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1253161941716963328&amp;lang=id&amp;origin=https%3A%2F%2Fmalangkab.go.id%2F%23&amp;sessionId=3a086ca19b6b71191ffb1f4ecd14a78c31b9bd44&amp;theme=light&amp;widgetsVersion=2615f7e52b7e0%3A1702314776716&amp;width=550px" style="position: static; visibility: visible; width: auto; height: 408px; display: block; flex-grow: 1;" data-tweet-id="1253161941716963328"></iframe></div> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+									</div>
+                            </article>
+                                    </div>
+                                    </div>
+                                        <div class="scroll-wrap" style="height: 400px;">
+                                            <div class="scroll">
+                                                <article class="spost clearfix">
+                                                    <div class="entry-c">
+                                                        <div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"><iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" title="X Post" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-1&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1787750083020390556&amp;lang=id&amp;origin=https%3A%2F%2Fmalangkab.go.id%2F%23&amp;sessionId=3a086ca19b6b71191ffb1f4ecd14a78c31b9bd44&amp;theme=light&amp;widgetsVersion=2615f7e52b7e0%3A1702314776716&amp;width=550px" style="position: static; visibility: visible; width: 332px; height: 541px; display: block; flex-grow: 1;" data-tweet-id="1787750083020390556"></iframe></div> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+														</div>
+                                                </article>
                                             </div>
-                                            <div class='article-content'>
-                                                <h4>
-                                                    <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>Warga Antusias Berpartisipasi Ikuti Jalan Santai Desa Gempolan Kabupaten Kediri Dalam Rangka Memperingati HUT RI ke-79</a>
-                                                </h4>
-                                                <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>
-                                                        <span class='icon-text'>&#128340;</span>
-                                                        25 Agu 2024, 16:00:41 WIB
-                                                    </a>
-                                                </span>
-                                                <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/warga-antusias-berpartisipasi-ikuti-jalan-santai-desa-gempolan-kabupaten-kediri-dalam-rangka-memperingati-hut-ri-ke79'>30 pembaca</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/parbud_4.jpeg' alt='kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'/>
-                                                </a>
-                                            </div>
-                                            <div class='article-content'>
-                                                <h4>
-                                                    <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>Kolaborasi Pemkab Kediri dan PAEI Gelar Seminar Nasional</a>
-                                                </h4>
-                                                <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>
-                                                        <span class='icon-text'>&#128340;</span>
-                                                        23 Agu 2024, 16:00:31 WIB
-                                                    </a>
-                                                </span>
-                                                <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/kolaborasi-pemkab-kediri-dan-paei-gelar-seminar-nasional'>41 pembaca</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/wir_1.jpeg' alt='sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'/>
-                                                </a>
-                                            </div>
-                                            <div class='article-content'>
-                                                <h4>
-                                                    <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>Sosialisasi Anti Korupsi Tahun 2024 Guna Meningkatkan Integritas</a>
-                                                </h4>
-                                                <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>
-                                                        <span class='icon-text'>&#128340;</span>
-                                                        21 Agu 2024, 16:00:24 WIB
-                                                    </a>
-                                                </span>
-                                                <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/sosialisasi-anti-korupsi-tahun-2024-guna-meningkatkan-integritas'>41 pembaca</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/HAN_1.jpeg' alt='mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'/>
-                                                </a>
-                                            </div>
-                                            <div class='article-content'>
-                                                <h4>
-                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>Mbak Cicha: Di Peringatan Hari Anak Nasional Ini, Hidup Anak-anak Harus Sejahtera</a>
-                                                </h4>
-                                                <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>
-                                                        <span class='icon-text'>&#128340;</span>
-                                                        21 Agu 2024, 15:00:34 WIB
-                                                    </a>
-                                                </span>
-                                                <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/mbak-cicha-di-peringatan-hari-anak-nasional-ini-hidup-anakanak-harus-sejahtera'>38 pembaca</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class='article-photo'>
-                                                <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas' class='hover-effect'>
-                                                    <img style='width:59px;height:42px;' src='https://berita.kedirikab.go.id/asset/foto_berita/uks_4.jpeg' alt='berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'/>
-                                                </a>
-                                            </div>
-                                            <div class='article-content'>
-                                                <h4>
-                                                    <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>Berikan Pelatihan Kepada Kader UKS, Upaya Meningkatkan SDM Berkualitas</a>
-                                                </h4>
-                                                <span class='meta'>
-                                                    <a href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>
-                                                        <span class='icon-text'>&#128340;</span>
-                                                        19 Agu 2024, 15:00:29 WIB
-                                                    </a>
-                                                </span>
-                                                <div class='reader-wrapper'>
-                                                    <a class='reader-info' href='https://berita.kedirikab.go.id/berikan-pelatihan-kepada-kader-uks-upaya-meningkatkan-sdm-berkualitas'>20 pembaca</a>
-                                                </div>
-                                            </div>
-                                        </li>
-</li></ul></div></div>
+                                </div>
+                               <!-- End Twiter Content -->
+            <hr>
+            <!-- E-BOOK -->
 <div class="widget">
     <h3>E-Book</h3>
     <img id="ebook-image" src="https://profil.malangkab.go.id/uploads/dokumen/cover_kmsd_2023.jpeg" alt="" style="width:300px; height:390px;">
     
-    <!-- Tombol navigasi -->
+    <!-- Tombol Next/prev -->
     <div class="navigation">
         <button class="nav-btn" onclick="previousImage()">&#10094;</button>
         <button class="nav-btn" onclick="nextImage()">&#10095;</button>
     </div>
+    <!-- End E-book -->
+
 </div>
 <div class="widget">
     <h3>Radio Kanjuruhan</h3>
