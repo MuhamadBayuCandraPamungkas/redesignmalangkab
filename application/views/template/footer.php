@@ -30,15 +30,61 @@
 
     <div style="border-top: 3px solid #650303; margin-top: 20px; padding-top: 10px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
     
-    <p style="margin: 0; text-align: left;">
-    <span style="font-weight: bold; font-size: larger;">WEBSITE RESMI PEMERINTAH KABUPATEN MALANG</span><br/>
+        <p style="margin: 0; text-align: left;">
+            <span style="font-weight: bold; font-size: larger;">WEBSITE RESMI PEMERINTAH KABUPATEN MALANG</span><br/>
             <span style="font-size: 9px;">Copyright &copy; 2019 All Rights Reserved by Dinas Komunikasi dan Informatika</span><br/>
             <span style="margin: 0; font-size: 9px;">Kabupaten Malang</span>
-            </p>
-            
+        </p>
+        
         <ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 15px;">
             <li><a href="https://goo.gl/maps/xyz" style="color: white; text-decoration: none; font-weight: none;">Jl. Agus Salim, Kiduldalem, Kec. Klojen,<br/> 
             Kota Malang, Jawa Timur 65143</a></li>
         </ul>
     </div>
 </footer>
+
+<!-- Media Queries for Mobile Responsiveness -->
+<style>
+    @media (max-width: 768px) {
+        footer {
+            padding: 10px;
+        }
+        footer div {
+            flex: 100%;
+        }
+        footer img {
+            width: 80px;
+        }
+        footer h2 {
+            font-size: 16px;
+        }
+        footer p {
+            font-size: 8px;
+        }
+        footer ul {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        footer iframe {
+            height: 150px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        footer {
+            padding: 8px;
+        }
+        footer div {
+            padding: 5px;
+        }
+        footer img {
+            width: 60px;
+        }
+        footer h2 {
+            font-size: 14px;
+        }
+        footer p {
+            font-size: 7px;
+        }
+    }
+</style>

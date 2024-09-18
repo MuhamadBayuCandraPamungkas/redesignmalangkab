@@ -59,27 +59,25 @@
     color: #6A6363; /* Ganti dengan warna yang diinginkan */
 }
 .navigation {
-        display: flex;
-        justify-content: center;
-        margin-top: 10px;
-    }
+    display: flex;
+    justify-content: flex-end; /* Memindahkan tombol ke kanan */
+    align-items: center;
+    position: relative;
+    top: 400px; /* Sesuaikan ini untuk menempatkan tombol di posisi yang tepat */
+    position: absolute;
+    right: 10px;
+  }
+  .nav-btn {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 10px;
+  }
 
-    .nav-btn {
-        width: 40px;
-        height: 40px;
-        background-color: white;
-        border: 1px solid lightgray;
-        border-radius: 5px;
-        cursor: pointer;
-        font-size: 18px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .nav-btn:hover {
-        background-color: lightgray;
-    }
+  .nav-btn:hover {
+    background-color: #f0f0f0;
+  }
 
     /* Menghilangkan outline saat tombol di klik */
     .nav-btn:focus {
@@ -117,11 +115,15 @@
             )(window, document, 'script', 'dataLayer', 'GTM-WNSR784');
         </script>
 
+<!-- Gambar E-book -->
 <script>
     var images = [
         "https://profil.malangkab.go.id/uploads/dokumen/cover_kmsd_2023.jpeg",
-        "https://example.com/path-to-second-image.jpeg",  // Ganti dengan URL gambar kedua
-        "https://example.com/path-to-third-image.jpeg"    // Ganti dengan URL gambar ketiga
+        "https://malangkab.go.id/uploads/dokumen/e-Magazine edisi VI 2024.jpeg",  
+        "https://malangkab.go.id/uploads/dokumen/KMSD 2024.jpeg", 
+        "https://profil.malangkab.go.id/uploads/dokumen/Binder4.jpeg",
+        "https://profil.malangkab.go.id/uploads/dokumen/e-Kanjuruhan Edisi Oktober-Desember.jpeg",  
+        "https://profil.malangkab.go.id/uploads/dokumen/Proyeksi Jumlah Penduduk.jpeg",     
     ];
     
     var currentIndex = 0;
@@ -188,15 +190,16 @@
                     <div class='header-addons'>
 
                         <span class='city'>
-                            Senin, 09 Sep 2024, <span id='jam'></span>
+                            selasa, 17 Sep 2024, <span id='jam'></span>
                         </span>
-                        <div class='header-search'>
-                            <form action="https://berita.kedirikab.go.id/berita/index" method="post" accept-charset="utf-8">
-                                <input type='text' placeholder='Cari berita atau informasi' name='kata' class='search-input' autocomplete='off' required/>
-                                <input type='submit' value='Search' name='cari' class='search-button'/>
-                                <i class="fa fa-search search-icon"></i>
-                            </form>
-                        </div>
+                        <div class="header-search">
+    <form action="https://berita.kedirikab.go.id/berita/index" method="post" accept-charset="utf-8">
+        <input type="text" placeholder="Cari berita atau informasi" name="kata" class="search-input" autocomplete="off" required/>
+        <button type="submit" name="cari" class="search-button">
+            <i class="fa fa-search search-icon"></i>
+        </button>
+    </form>
+</div>
                     </div>
                 </div>
                 <div class='main-menu sticky'>
