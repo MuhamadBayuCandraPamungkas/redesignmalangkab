@@ -38,6 +38,46 @@
         .the-menu a.active {
             color: #d9d19c !important;
         }
+
+        
+/* The Modal (background) */
+.modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 9999; /* Sit on top */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgba(0, 0, 0, 0.5); /* Black with opacity */
+    }
+
+    /* Modal Content */
+    .modal-content {
+        background-color: #fefefe;
+        margin: 15% auto; /* 15% from the top and centered */
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%; /* Could be more or less, depending on screen size */
+        max-width: 600px;
+    }
+
+    /* The Close Button */
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
 /* Untuk ikon pencarian dalam input field */
 .search-icon {
     position: absolute;
@@ -165,9 +205,21 @@
         <a href='https://ppid.malangkab.go.id/' style="text-decoration: none;">PPID</a>
     </li>
     <li>
-        <a href='https://malangkab.go.id/Laporan/KebijakanPrivasi' style="text-decoration: none;">Kebijakan Privasi</a>
+        <a href='https://spbe.malangkab.go.id/' style="text-decoration: none;">SPBE</a>
     </li>
+    <li>
+    <a href="#" id="openModal" style="text-decoration: none;">Kebijakan Privasi</a>
+</li>
+
+
 </ul>
+<div id="privacyModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <iframe src="https://malangkab.go.id/Laporan/KebijakanPrivasi" style="width: 100%; height: 400px;" frameborder="0"></iframe>
+    </div>
+</div>
+
 
                         <p style="font-size: 30px; font-weight: bold;">PEMERINTAH KABUPATEN MALANG</p>
                             
@@ -410,3 +462,30 @@
                     </div>
                 </div>
             </div>
+            <script>
+        // Get the modal
+        var modal = document.getElementById("privacyModal");
+
+        // Get the button that opens the modal
+        var btn = document.getElementById("openModal");
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[0];
+
+        // When the user clicks the button, open the modal
+        btn.onclick = function() {
+            modal.style.display = "block";
+        }
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>

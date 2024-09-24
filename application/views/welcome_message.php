@@ -1025,208 +1025,132 @@
                                         </ul>
                                         <a href="#" class="more">Lihat semua berita</a>
                                     </div>
+
+                                    <!-- SUB DOMAIN -->
                                     <div class="block">
-                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pendidikan</h2>
+                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Sub Domain</h2>
                                         <ul class="article-block">
-                                            <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                        <a href="#" class="more">Lihat semua berita</a>
+   
+                                 <div class="scroll-wrap" style="height: 400px;">
+                                            <div class="scroll">
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" https://portal.malangkab.go.id/uploads/link/malangkab-bagian-pengelola-data-elektronik_20170426-101230.jpg " alt="">
+                                        </a>
                                     </div>
-                                    
-                                    <div class="block">
-                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pendidikan</h2>
-                                        <ul class="article-block">
-                                            <li>
-                                                <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://portal.malangkab.go.id/mlg/default/ilppd ">Informasi Laporan Penyelenggaraan Pemerintahan Daerah</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/malangkab-lkpj-bupati-malang_20150923-135626.png " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://portal.malangkab.go.id/mlg/default/lkpj">Laporan keterangan pertanggungjawaban</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/malangkab-lpse_20150923-1354101.png " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" https://lpse.malangkab.go.id/ ">Layanan Pengadaan Secara Elektronik</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/malangkab-produk-hukum_20150923-135247.png " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://jdih.malangkab.go.id/ ">Produk Hukum</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/malangkab-siharkepo_20160316-115421.png " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://siharkepo.malangkab.go.id/ ">Sistem Informasi  Harga & Ketersediaan Bahan Pokok</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/malangkab-sip-ppid_20150923-135553.png " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://ppid.malangkab.go.id/ ">Pejabat Pengelola Informasi dan Dokumentasi</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/malangkab-surat-warga_20170704-114725.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://suratwarga.malangkab.go.id/ ">Surat Warga</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/malangkab-transparansi-pengelolaan-anggaran-daerah_20150923-134824.png " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://portal.malangkab.go.id/mlg/default/anggaran ">Transparansi Pengelolaan Anggaran Daerah</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
+                            
+                                <article class=" spost clearfix ">
+                                    <div class=" entry-image ">
+                                        <a href=" detail-potensi?daerah=1 ">
+                                                            <img src=" http://profil.malangkab.go.id/backend/uploads/KAMASUTA.jpg " alt="">
+                                        </a>
+                                    </div>
+                                    <div class=" entry-c ">
+                                        <div class=" entry-title ">
+                                            <h4 class=" t500 "><a href=" http://kamasuta.malangkab.go.id/ ">Kabupaten Malang Satu Data Berbasis Teknologi Informasi</a></h4>
+                                        </div>
+                                    </div>
+                                </article>
                                         </ul>
-                                        <a href="#" class="more">Lihat semua berita</a>
+                
                                     </div>
                             <div class="block">
                                         <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Berita Pariwisata, Seni dan Budaya</h2>
