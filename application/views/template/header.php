@@ -29,6 +29,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
 
@@ -124,8 +125,105 @@
         outline: none;
     }
 
-        
+    
     </style>
+
+    <!-- Statistik Kunjungan -->
+ <style>
+        /* Prefix .stats- untuk mencegah pengaruh ke elemen lain */
+        .stats-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150px;
+            gap: 15px;
+            margin: 0;
+            padding: 0;
+            background-color: #F0EFEF;
+        }
+
+        .stats-box {
+            width: 137px;
+            height: 120px;
+            padding: 20px;
+            color: white;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stats-box h1 {
+            margin: 0;
+            font-size: 36px;
+            transition: color 0.3s ease;
+        }
+
+        .stats-box p {
+            margin: 10px 0;
+            font-size: 15px;
+        }
+
+        .stats-box .stats-detail {
+            font-size: 12px;
+            margin-top: 10px;
+            color: rgba(255, 255, 255, 0.7);
+            transition: color 0.3s ease;
+        }
+
+        .stats-box:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .stats-box:hover h1 {
+            color: #f0f0f0;
+        }
+
+        .stats-box:hover .stats-detail {
+            color: #ffffff;
+        }
+
+        .stats-box::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            mix-blend-mode: overlay;
+            transition: opacity 0.3s ease;
+        }
+
+        .stats-box:hover::before {
+            opacity: 0;
+        }
+
+        /* Box color themes with stats- prefix */
+        .stats-green {
+            background-color: #4CAF50;
+            background-image: linear-gradient(135deg, #4caf50 0%, #66bb6a 100%);
+        }
+
+        .stats-orange {
+            background-color: #FF9800;
+            background-image: linear-gradient(135deg, #ff9800 0%, #ffb74d 100%);
+        }
+
+        .stats-gray {
+            background-color: #9E9E9E;
+            background-image: linear-gradient(135deg, #9e9e9e 0%, #bdbdbd 100%);
+        }
+
+        .stats-blue {
+            background-color: #2196F3;
+            background-image: linear-gradient(135deg, #2196f3 0%, #64b5f6 100%);
+        }
+    </style>
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-GZS9WEMZ5B"></script>
         <script>
@@ -489,3 +587,5 @@
             }
         }
     </script>
+
+    

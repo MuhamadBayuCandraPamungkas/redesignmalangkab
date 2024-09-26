@@ -127,19 +127,19 @@
                                                 </li>
                                                 <li>
                                                 <div class='article-photo'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
-                                                                <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
+                                                        <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-distrbusi-bantuan-terdampak-angin-kencang-desa-jatisari-kec-pakisaji' class='hover-effect'>
+                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-distrbusi-bantuan-terdampak-angin-kencang-desa-jatisari-kec-pakisaji'>
+                                                                <img style='height:110px;width:200px' src="https://bpbd.malangkab.go.id/uploads/artikel/bpbd-opd@3507-1_1_11qwzon.jpg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-distrbusi-bantuan-terdampak-angin-kencang-desa-jatisari-kec-pakisaji'>Distrbusi Bantuan Terdampak Angin Kencang Desa Jatisari,..
                                                             </a>
                                                         </h4>
                                                         <span class='meta'>
-                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                            <a href='https://malangkab.go.id/Berita/index/bpbd-opd%203507-distrbusi-bantuan-terdampak-angin-kencang-desa-jatisari-kec-pakisaji'>
                                                                 <span class='icon-text'>&#128340;</span>
                                                                 16:00:41, 25 Agu 2024
                                                             </a>
@@ -216,12 +216,47 @@
     <!-- YouTube Video Embed -->
 <iframe width="590" height="290" src="https://www.youtube.com/embed/vmT2hsAOTec?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto 20px auto;"></iframe>
 
+ <!-- STATISTIK KUNJUNGAN -->
+ <div class="block">
+    <div class="block-title" style="background:#900404;">
+        <h2>DATA STATISTIK KUNJUNGAN</h2>
+    </div>
+    <div class="stats-container">
+        <div class="stats-container">
+        <div class="stats-box stats-green">
+            <h1>5287</h1>
+            <p>Minggu Ini</p>
+            <div class="detail">Detail ➔</div>
+        </div>
+
+        <div class="stats-box stats-orange">
+            <h1>12941</h1>
+            <p>Bulan Ini</p>
+            <div class="detail">Detail ➔</div>
+        </div>
+
+        <div class="stats-box stats-gray">
+            <h1>13666</h1>
+            <p>Tahun Ini</p>
+            <div class="detail">Detail ➔</div>
+        </div>
+
+        <div class="stats-box stats-blue">
+            <h1>52784</h1>
+            <p>Jumlah</p>
+            <div class="detail">Detail ➔</div>
+        </div>
+    </div>
+    </div>
+</div>
+<!-- END STATISTIK KUNJUNGAN -->
+
 <!-- Arsip Berita -->
 <div class="block">
-    <div class="block-title" style="background:#900404; padding: 10px; color: white; border-radius: 5px;">
-        <a href="https://berita.kedirikab.go.id/kategori/detail/keluarga-tokoh-dan-agama" class="right" style="color: white; text-decoration: none;">Semua Artikel dari kategori ini</a>
-        <h2 style="margin: 0;">Arsip Berita</h2>
-    </div>
+                                        <div class="block-title">
+                                            <a href="https://berita.kedirikab.go.id/berita/indeks_berita" class="right">Lihat Semua</a>
+                                            <h2>Berita Utama</h2>
+                                        </div>
 
 
                                         <div class="block-content">
@@ -454,12 +489,12 @@
                                         </div>
                                     </div>
 
-                                    <!-- advertisment Surat Warga -->
-                                    <a href="https://play.google.com/store" target="_blank">
+                                  
+
+ <!-- advertisment Surat Warga -->
+ <a href="https://play.google.com/store" target="_blank">
                                         <img style="margin-top:-10px;margin-bottom:5px;" width="100%" src="asset/image/surat warga.png" title="Surat Warga">
                                             </a>
-
-                                    
                                     <!-- end advertisment  Surat Warga-->
 
                                     <!-- CARD GALERY -->
@@ -468,7 +503,7 @@
         <a href="https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan" class="right">Semua Artikel dari kategori ini</a>
         <h2>GALERY</h2>
     </div>
-    <p>Pemerintah Kabupaten Malang WISATA</p>
+    <p>Pemerintah Kabupaten Malang</p>
     
     <!-- INFO HARGA SAYUR MAYUR -->
     <div class="container mt-5">
@@ -705,143 +740,7 @@
 <!-- END INFO HARGA POKOK -->
 
 </div>
-                                    
-                                    <div class="block">
-                                        <div class="block-title" style="background:#900404;">
-                                            <a href="#" class="right">Beberapa Berita Pilihan</a>
-                                            <h2>POTENSI DAERAH</h2>
-                                        </div>
-                                        <div class="block-content">
-                                            <ul class="article-block-big">
-                                                <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur'>
-                                                                <img style='height:110px;width:210px' src='https://berita.kedirikab.go.id/asset/foto_berita/WhatsApp_Image_2023-12-18_at_16_09_48.jpeg' alt=''/>
-                                                            </a>
-                                                        </a>
-                                                    </div>
-                                                    <div class='article-content'>
-                                                        <h4>
-                                                            <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur'>Persiapan Kelancaran Pemilu, Pemprov Jatim Menggelar Rapat Koordinasi Bersama Forum Koordinasi Pimpinan Daerah (Forkopimda) Seluruh Provinsi Jawa Timur</a>
-                                                            <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur' class='h-comment'>0</a>
-                                                        </h4>
-                                                        <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/persiapan-kelancaran-pemilu-pemprov-jatim-menggelar-rapat-koordinasi-bersama-forum-koordinasi-pimpinan-daerah-forkopimda-seluruh-provinsi-jawa-timur'>
-                                                                <span class='icon-text'>&#128340;</span>
-                                                                11:00:35, 18 Des 2023
-                                                            </a>
-                                                        </span>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/optimalkan-pelayanan-keterbukaan-informasi-publik-dinas-kominfo-gelar-monev-ppid-2023' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/optimalkan-pelayanan-keterbukaan-informasi-publik-dinas-kominfo-gelar-monev-ppid-2023'>
-                                                                <img style='height:110px;width:210px' src='https://berita.kedirikab.go.id/asset/foto_berita/WhatsApp_Image_2023-12-20_at_11_40_27.jpeg' alt=''/>
-                                                            </a>
-                                                        </a>
-                                                    </div>
-                                                    <div class='article-content'>
-                                                        <h4>
-                                                            <a href='https://berita.kedirikab.go.id/optimalkan-pelayanan-keterbukaan-informasi-publik-dinas-kominfo-gelar-monev-ppid-2023'>Optimalkan Pelayanan Keterbukaan Informasi Publik, Dinas Kominfo Gelar Monev PPID 2023</a>
-                                                            <a href='https://berita.kedirikab.go.id/optimalkan-pelayanan-keterbukaan-informasi-publik-dinas-kominfo-gelar-monev-ppid-2023' class='h-comment'>0</a>
-                                                        </h4>
-                                                        <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/optimalkan-pelayanan-keterbukaan-informasi-publik-dinas-kominfo-gelar-monev-ppid-2023'>
-                                                                <span class='icon-text'>&#128340;</span>
-                                                                15:00:52, 05 Des 2023
-                                                            </a>
-                                                        </span>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/mahasiswa-utm-ajak-kelompok-tani-di-desa-purwokerto-praktek-pembasmian-hama-tikus-bersama' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/mahasiswa-utm-ajak-kelompok-tani-di-desa-purwokerto-praktek-pembasmian-hama-tikus-bersama'>
-                                                                <img style='height:110px;width:210px' src='https://berita.kedirikab.go.id/asset/foto_berita/IMG_20220619_112720-min.jpg' alt=''/>
-                                                            </a>
-                                                        </a>
-                                                    </div>
-                                                    <div class='article-content'>
-                                                        <h4>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-utm-ajak-kelompok-tani-di-desa-purwokerto-praktek-pembasmian-hama-tikus-bersama'>Mahasiswa UTM Ajak Kelompok Tani di Desa Purwokerto Praktek Pembasmian Hama Tikus Bersama</a>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-utm-ajak-kelompok-tani-di-desa-purwokerto-praktek-pembasmian-hama-tikus-bersama' class='h-comment'>0</a>
-                                                        </h4>
-                                                        <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-utm-ajak-kelompok-tani-di-desa-purwokerto-praktek-pembasmian-hama-tikus-bersama'>
-                                                                <span class='icon-text'>&#128340;</span>
-                                                                20:40:47, 17 Jun 2022
-                                                            </a>
-                                                        </span>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/mahasiswa-kknt-10-utm-gelar-kegiatan-pelatihan-di-sdn-1-purwokerto' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/mahasiswa-kknt-10-utm-gelar-kegiatan-pelatihan-di-sdn-1-purwokerto'>
-                                                                <img style='height:110px;width:210px' src='https://berita.kedirikab.go.id/asset/foto_berita/Foto_Kegiatan.jpg' alt=''/>
-                                                            </a>
-                                                        </a>
-                                                    </div>
-                                                    <div class='article-content'>
-                                                        <h4>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-kknt-10-utm-gelar-kegiatan-pelatihan-di-sdn-1-purwokerto'>Mahasiswa KKNT 10 UTM Gelar Kegiatan Pelatihan di SDN 1 Purwokerto</a>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-kknt-10-utm-gelar-kegiatan-pelatihan-di-sdn-1-purwokerto' class='h-comment'>0</a>
-                                                        </h4>
-                                                        <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-kknt-10-utm-gelar-kegiatan-pelatihan-di-sdn-1-purwokerto'>
-                                                                <span class='icon-text'>&#128340;</span>
-                                                                15:40:50, 16 Jun 2022
-                                                            </a>
-                                                        </span>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/pengabdian-masyarakat-mahasiswa-utm-lakukan-sosialisasi-bagi-remaja-desa-purwokerto' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/pengabdian-masyarakat-mahasiswa-utm-lakukan-sosialisasi-bagi-remaja-desa-purwokerto'>
-                                                                <img style='height:110px;width:210px' src='https://berita.kedirikab.go.id/asset/foto_berita/Dokumentasi_Kegiatan-min.jpg' alt=''/>
-                                                            </a>
-                                                        </a>
-                                                    </div>
-                                                    <div class='article-content'>
-                                                        <h4>
-                                                            <a href='https://berita.kedirikab.go.id/pengabdian-masyarakat-mahasiswa-utm-lakukan-sosialisasi-bagi-remaja-desa-purwokerto'>Pengabdian Masyarakat Mahasiswa UTM lakukan Sosialisasi Bagi Remaja Desa Purwokerto</a>
-                                                            <a href='https://berita.kedirikab.go.id/pengabdian-masyarakat-mahasiswa-utm-lakukan-sosialisasi-bagi-remaja-desa-purwokerto' class='h-comment'>0</a>
-                                                        </h4>
-                                                        <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/pengabdian-masyarakat-mahasiswa-utm-lakukan-sosialisasi-bagi-remaja-desa-purwokerto'>
-                                                                <span class='icon-text'>&#128340;</span>
-                                                                15:00:11, 05 Jun 2022
-                                                            </a>
-                                                        </span>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class='article-photo'>
-                                                        <a href='https://berita.kedirikab.go.id/mahasiswa-utm-selenggarakan-penyuluhan-dan-pelatihan-usaha-home-industri' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://berita.kedirikab.go.id/mahasiswa-utm-selenggarakan-penyuluhan-dan-pelatihan-usaha-home-industri'>
-                                                                <img style='height:110px;width:210px' src='https://berita.kedirikab.go.id/asset/foto_berita/IMG_20220527_105802-min.jpg' alt=''/>
-                                                            </a>
-                                                        </a>
-                                                    </div>
-                                                    <div class='article-content'>
-                                                        <h4>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-utm-selenggarakan-penyuluhan-dan-pelatihan-usaha-home-industri'>Mahasiswa UTM Selenggarakan Penyuluhan Dan Pelatihan Usaha Home Industri</a>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-utm-selenggarakan-penyuluhan-dan-pelatihan-usaha-home-industri' class='h-comment'>0</a>
-                                                        </h4>
-                                                        <span class='meta'>
-                                                            <a href='https://berita.kedirikab.go.id/mahasiswa-utm-selenggarakan-penyuluhan-dan-pelatihan-usaha-home-industri'>
-                                                                <span class='icon-text'>&#128340;</span>
-                                                                15:30:05, 27 Mei 2022
-                                                            </a>
-                                                        </span>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+
                                 </div>
                                 <div class="content-block left">
                                         <div class="block">
@@ -1025,7 +924,7 @@
                                         </ul>
                                         <a href="#" class="more">Lihat semua berita</a>
                                     </div>
-
+                                    
                                     <!-- SUB DOMAIN -->
                                     <div class="block">
                                         <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;">Sub Domain</h2>
@@ -2386,16 +2285,16 @@
     </h3>
     <div class="widget-social">
         <div class="social-btns">
-            <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/pemerintahkabupatenkediri">
+            <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/malangkab/">
                 <i class="fa fa-facebook"></i>
             </a>
-            <a target="_BLANK" class="btn-sc twitter" href="https://twitter.com/PemkabKediri">
+            <a target="_BLANK" class="btn-sc twitter" href="https://twitter.com/pemkab_malang">
                 <i class="fa fa-twitter"></i>
             </a>
-            <a target="_BLANK" class="btn-sc ig" href="https://www.instagram.com/pemkab.kediri/">
+            <a target="_BLANK" class="btn-sc ig" href="https://www.instagram.com/malangkab/">
                 <i class="fa fa-instagram"></i>
             </a>
-            <a target="_BLANK" class="btn-sc yt" href="https://www.instagram.com/pemkab.kediri/">
+            <a target="_BLANK" class="btn-sc yt" href="https://www.youtube.com/user/HumasKabMalang">
                 <i class="fa fa-youtube"></i>
             </a>
         </div>
@@ -2525,45 +2424,7 @@
                                                         </a>
                                                     </span>
                                                 </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
-                                            <li>
-                                            <div class='article-photo'>
-                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='hover-effect'>
-                                                        <img style='width:59px;height:42px;' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-IMG-20240906-WA0044.jpg' alt=''/>
-                                                    </a>
-                                                </div>
-                                                <div class='article-content'>
-                                                    <h4>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>Sapa Ratusan Mahasiswa Baru Unira Malang, Bupati Malang Ucapkan Selamat dan Sukses Ikuti PKKMB</a>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira' class='h-comment'>0</a>
-                                                    </h4>
-                                                    <span class='meta'>
-                                                        <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-bupati-malang-ucapkan-selamat-dan-sukses-ikuti-pkkmb-mahasiswa-baru-unira'>
-                                                            <span class='icon-text'>&#128340;</span>
-                                                            15:00:29, 19 Agu 2024
-                                                        </a>
-                                                    </span>
-                                                </div>
-                                            </li>
+                                           
                                            
                                         </ul>
                                         <a href="#" class="more">Lihat semua berita</a>
@@ -2837,12 +2698,15 @@
 </div>
 <!-- Load all required scripts -->
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/jquery-latest.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/template/phpmu-tigo/jscript/theme-scripts.js"></script>
+<!-- jQuery -->
+<script type="text/javascript" src="<?= base_url('template/jscript/jquery-3.2.1.min.js'); ?>"></script>
+<script type="text/javascript" src="<?= base_url('template/jscript/jquery-latest.min.js'); ?>"></script>
+<script type="text/javascript" src="<?= base_url('template/jscript/theme-scripts.js'); ?>"></script>
+
 <!-- JssorSlider -->
-<script type="text/javascript" src="https://berita.kedirikab.go.id/asset/libs/JssorSlider/js/jssor.slider-28.1.0.min.js"></script>
-<script type="text/javascript" src="https://berita.kedirikab.go.id/asset/libs/JssorSlider/js/jssor.js"></script>
+<script type="text/javascript" src="<?= base_url('template/jscript/sss.js'); ?>"></script>
+<script type="text/javascript" src="<?= base_url('template/jscript/jssor.js'); ?>"></script>
+
 <script type='text/javascript'>
     $(function() {
         $(window).scroll(function() {
@@ -2949,9 +2813,8 @@
 </body>
 <!--
 Developed by:
-BAGOS ANGGARA, A.Md. & ARDY ERWANDA, S.Kom.
-DISKOMINFO KABUPATEN KEDIRI
-© 2019—2024
+DISKOMINFO KABUPATEN MALANG
+©2024
 All rights reserved
 -->
 </html>

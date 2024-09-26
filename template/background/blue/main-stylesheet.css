@@ -168,6 +168,7 @@ a:focus {
 	position: relative;
 }
 
+
 .meta-date {
 	display: inline-block;
 	padding-left: 8px;
@@ -2218,6 +2219,8 @@ p .required {
 	font-size: 17px;
 	font-weight: normal;
 }
+
+
 
 .hover-effect {
 	display: inline-block;
