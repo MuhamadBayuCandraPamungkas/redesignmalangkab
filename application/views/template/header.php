@@ -40,6 +40,125 @@
             color: #d9d19c !important;
         }
 
+        .interactive-letter {
+        font-family: Arial, sans-serif;
+    }
+
+    .interactive-letter .header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 100; /* Pastikan header berada di atas elemen lain */
+}
+    
+    .interactive-letter .send-button {
+        background-color: red;
+        color: white;
+        padding: 5px 10px;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+
+    /* Batasi tinggi kontainer pesan untuk memungkinkan scroll */
+    .interactive-letter .message-container {
+        max-height: 300px; /* Tentukan tinggi maksimum, bisa disesuaikan */
+        overflow-y: auto; /* Aktifkan scroll vertikal */
+        border: 1px solid #ccc;
+        padding: 10px;
+        background-color: #f1f1f1;
+        border-radius: 5px;
+    }
+
+    .interactive-letter .message {
+        border: 1px solid #e0e0e0;
+        padding: 15px;
+        margin: 10px 0;
+        background-color: #f9f9f9;
+        border-radius: 5px;
+    }
+
+    .interactive-letter .user-info {
+        display: flex;
+        align-items: center;
+    }
+
+    .interactive-letter .icon {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+    }
+
+    .interactive-letter .user-details {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .interactive-letter .department {
+        font-size: 12px;
+        color: red;
+    }
+
+    .interactive-letter .date {
+        font-size: 10px;
+        color: gray;
+    }
+
+    .interactive-letter .message-body {
+        margin-top: 10px;
+    }
+
+    .interactive-letter .reply-button {
+    background-color: transparent;
+    color: black;
+    border: 1px solid gray; /* Tambahkan border hitam dengan ketebalan 2px */
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px; /* Beri sedikit lengkungan pada sudut, atau sesuaikan sesuai keinginan */
+    cursor: pointer;
+    text-align: left;
+    width: 100%;
+    display: block;
+    }
+
+    .interactive-letter .reply-button:hover {
+        background-color: #45a049;
+        color: white;
+    }
+
+    .dropdown-content {
+            display: none; /* Awalnya disembunyikan */
+            background-color: #f9f9f9;
+            border: 1px solid #ccc;
+            margin-top: 5px;
+            padding: 10px;
+            border-radius: 5px; /* Lengkungan sudut */
+            width: 100%;
+        }
+
+        .tanggapan-header {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .chat-message {
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 3px solid #4caf50; /* Garis kiri hijau */
+        }
+
+        .username {
+            color: #4caf50; /* Warna hijau untuk username */
+            font-weight: bold;
+        }
+
+        .timestamp {
+            color: #888; /* Warna abu-abu untuk timestamp */
+            font-size: 0.9em;
+        }
         
 /* The Modal (background) */
 .modal {

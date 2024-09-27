@@ -324,126 +324,14 @@
                                                                 </span>
                                                             </div>
                                                         </li>
-                                                        <li>
-                                                        <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 29 Jul 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                        <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 29 Jul 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                        <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 29 Jul 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
+                                                        
+                                                       
                                                     </ul>
                                                     <!-- END .column6 -->
                                                 </div>
                                                 <!-- BEGIN .column6 -->
                                                 <div class="column6">
                                                     <ul class="article-block">
-                                                        <li>
-                                                        <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 29 Jul 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                        <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 29 Jul 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
-                                                        <li>
-                                                        <div class='article-photo'>
-                                                                <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                    <img style='width:59px;height:42px' src='http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-1000100671.jpg' alt=''/>
-                                                                </a>
-                                                            </div>
-                                                            <div class='article-content'>
-                                                                <h4>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>Undi Hadiah Utama, Bupati Malang Meriahkan Jalan Sehat Dalam Rangka HUT RI Ke-79 Desa Gampingan</a>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan' class='h-comment'>0</a>
-                                                                </h4>
-                                                                <span class='meta'>
-                                                                    <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
-                                                                        <span class='icon-text'>&#128340;</span>
-                                                                        15:00:40, 29 Jul 2024
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </li>
                                                         <li>
                                                         <div class='article-photo'>
                                                                 <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-undi-hadiah-utama-bupati-malang-meriahkan-jalan-sehat-dalam-rangka-hut-ri-ke-79-desa-gampingan'>
@@ -738,6 +626,90 @@
 </div>
 </div>
 <!-- END INFO HARGA POKOK -->
+<div class="interactive-letter">
+    <div class="header">
+        <h2>LAYANAN INTERAKTIF SURAT WARGA</h2>
+    </div>
+
+    <!-- Container untuk pesan yang bisa di-scroll -->
+    <div class="message-container">
+        <div class="message">
+            <div class="user-info">
+                <div class="user-details">
+                    <strong>denmasmister</strong> 
+                    <span class="department">Dinas Kependudukan dan Pencatatan Sipil</span> 
+                    <span class="date">2024-09-05 08:39:23</span>
+                </div>
+            </div>
+            <p class="message-body">
+            Siang pak, maaf website sekelas Pemerintah Kabupaten kenapa tidak ada help kontak sama sekali? Malangkab.go.id Email tidak ada, wa tidak, no hp tidak. Lantas kemana kami harus menghubungi... Di twitter pun juga lama nda aktiv... Minimal dikasih nomor help support pak. Terimakasih Hal kedua terkait pembuatan KK online, saya sudah mengentri pengajuan KK baru sebanyak 4 kali. Pengajuan yang terakhir statusnya selesai. Di petunjuk FAQ dijelaskan bahwa KK asli bisa diambil dikantor kecamatan dengan membawa berkas asli. Hari ini kami datang kekantor kecamatan dengan menunjukkan isian form di aplikasi Sipeduli, beserta membawa semua berkas. Namun kenapa tidak di cek sama sekali? Dari admin yg jaga katanya ga perlu, File KK dikirim ke Email. Saya sudah menunggu lama tidak ada email berisi File KK. Hal sebelumnya juga pernah saya alami pengajuan tahun 2020, bahkan sejak tahun 2020 sampai sekarang 2024 tidak ada satupun email KK soft filenya. Hal-hal problematik seperti ini bisa ditanyakan di mana? Mohon dicek pak...
+            </p>
+            <button class="reply-button" onclick="toggleDropdown()">Tanggapan</button>
+
+<div class="dropdown-content" id="dropdownContent">
+    <div class="chat-message">
+        <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:41</span>
+        <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
+    </div>
+    <div class="chat-message">
+        <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:46</span>
+        <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
+    </div>
+</div>
+        </div>
+
+        <div class="message">
+            <div class="user-info">
+                <div class="user-details">
+                    <strong>Galih2805</strong> 
+                    <span class="department">Badan Pendapatan Daerah</span> 
+                    <span class="date">2024-07-27 21:50:28</span>
+                </div>
+            </div>
+            <p class="message-body">
+            Selamat malam Bapak Bupati mohon ijin menyampaikan uneg2 terkait pembayaran PBB tahun pajak 2023 lalu oleh pihak Kantor desa rembun kecamatan dampit tapi setelah kami cek pada laman pembayaran digital ternyata belum terbayarkan dan terkena pinalti. Apakah dana pembayaran PBB dari masyarakat khususnya warga desa rembun yg dibayar/ditagih kantor desa belum dibayarkan ke Bapenda ? Mohon diusut tuntas jangan sampai terjadi seperti dulu kasus agraria...terima kasih sebelumnya
+            </p>
+            <button class="reply-button" onclick="toggleDropdown()">Tanggapan</button>
+
+<div class="dropdown-content" id="dropdownContent">
+    <div class="chat-message">
+        <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:41</span>
+        <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
+    </div>
+    <div class="chat-message">
+        <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:46</span>
+        <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
+    </div>
+</div>
+        </div>
+
+        <!-- Tambahkan lebih banyak pesan jika perlu -->
+        <div class="message">
+            <div class="user-info">
+                <div class="user-details">
+                    <strong>Yeunsm88</strong> 
+                    <span class="department">Kecamatan Lawang</span> 
+                    <span class="date"> 2024-07-02 01:57:13</span>
+                </div>
+            </div>
+            <p class="message-body">
+            Kepada bpk bupati kab.malang Drs. H. M. Sanusi, M.M..saya ingin melaporkan penyalahgunaan lahan pertanian kecamatan lawang dimalam hari oleh beberapa orang yang merusak citra kabupaten malang yang mana sebagai kota pendidikan dengan aktivitas prostitusi,sebgaiaman aktivitas tersebut melanggar hukum dan merusak norma agama..tanpa mengurangi rasa hormat saya terhadap bapak bupati,saya meminta tolong agar aktivitas asusila yang sekian tahun berlangsung dari jam 18.30-24.00 segera ditindak lanjuti pada dinas terkait...mengingat lahan tersebut adalah milik pemerintah yang seharusnya jauh dari tindak hukum pidana.BESAR HARAPAN SAYA AGAR LAWANG BERSIH DARI AKTIVITAS PROSTITUSI YANG MANA SANGAT MERUSAK MORAL KECAMATAN LAWANG DAN MERUSAK CITRA PEMKAB OLEH KARNA AKTIVITAS ASUSILA DIJAM&LAHAN TERSEBUT...SAYA BERTERIMAKASIH SEBESARNYA&JUGA BERHARAP BAPAK BUPATI SEGERA MENINDAK LANJUT LOKASI TERSEBUT..TRIMAKASIH
+            </p>
+            <button class="reply-button" onclick="toggleDropdown()">Tanggapan</button>
+
+<div class="dropdown-content" id="dropdownContent">
+    <div class="chat-message">
+        <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:41</span>
+        <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
+    </div>
+    <div class="chat-message">
+        <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:46</span>
+        <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
 
 </div>
 
@@ -2753,6 +2725,16 @@
     jam();
 </script>
 <script type="text/javascript"></script>
+<script>
+        function toggleDropdown() {
+            var content = document.getElementById("dropdownContent");
+            if (content.style.display === "none" || content.style.display === "") {
+                content.style.display = "block"; // Menampilkan dropdown jika disembunyikan
+            } else {
+                content.style.display = "none"; // Menyembunyikan dropdown jika sudah tampil
+            }
+        }
+    </script>
 <script type="text/javascript">
     $(document).ready(function($) {
         /* auto append icons on each widget's header */
