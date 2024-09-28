@@ -21,12 +21,12 @@
         </div>
 
         <!-- Google Map -->
-        <div style="flex: 1; padding: 10px;">
-            <section id="google-map" class="gmap" style="height: 200px; padding: 8px; background-color: #ffff; border-radius: auto;">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505586.2137401174!2d112.34258649763929!3d-8.112448278464868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6209b5dfc70d9%3A0x3027a76e352bdb0!2sMalang%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1568328190680!5m2!1sid!2sid" frameborder="0" style="width: 100%; height: 100%; border:0;" allowfullscreen="" id="fitvid0"></iframe>
-            </section>
+            <div style="flex: 1; padding: 10px;">
+                <section id="google-map" class="gmap" style="height: 200px; padding: 8px; background-color: #ffff; border-radius: auto;">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505586.2137401174!2d112.34258649763929!3d-8.112448278464868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6209b5dfc70d9%3A0x3027a76e352bdb0!2sMalang%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1568328190680!5m2!1sid!2sid" frameborder="0" style="width: 100%; height: 100%; border:0;" allowfullscreen="" id="fitvid0"></iframe>
+                </section>
+            </div>
         </div>
-    </div>
 
     <div style="border-top: 3px solid #650303; margin-top: 20px; padding-top: 10px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
     

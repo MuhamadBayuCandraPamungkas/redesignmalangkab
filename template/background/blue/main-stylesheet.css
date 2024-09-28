@@ -907,6 +907,7 @@ a:focus {
 .article-block .article-content {
 	display: block;
 	margin-left: 70px;
+	text-decoration: none;
 }
 
 .article-block .article-content:after {

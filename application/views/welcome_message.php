@@ -395,7 +395,7 @@
     
     <!-- INFO HARGA SAYUR MAYUR -->
     <div class="container mt-5">
-        <div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px;">
+        <div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
             <div class="card-header p-3 pl-4" style="background-color:#008000; color: white; width: auto; height: 70px;">
                 <h4 class="ls1 mb-0 uppercase t700 text-white" style="font-size: 100%;">INFO HARGA SAYUR MAYUR <br><small>Update : 2024-07-22 06:35:45</small></h4>
             </div>
@@ -505,7 +505,7 @@
 <!-- END INFO HARGA SAYUR MAYUR -->
 
 <!-- INFO HARGA KEBUTUHAN POKOK -->
-<div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px;">
+<div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
             <div class="card-header p-3 pl-4" style="background-color:#FF5D6C; color: white; width: auto; height: 70px;">
                 <h4 class="ls1 mb-0 uppercase t700 text-white" style="font-size: 100%;">INFO HARGA KEBUTUHAN POKOK <br><small>Update : 2024-07-22 06:35:45</small></h4>
             </div>
@@ -626,6 +626,8 @@
 </div>
 </div>
 <!-- END INFO HARGA POKOK -->
+
+<!-- Layanan Interaktif -->
 <div class="interactive-letter">
     <div class="header">
         <h2>LAYANAN INTERAKTIF SURAT WARGA</h2>
@@ -637,8 +639,12 @@
             <div class="user-info">
                 <div class="user-details">
                     <strong>denmasmister</strong> 
-                    <span class="department">Dinas Kependudukan dan Pencatatan Sipil</span> 
-                    <span class="date">2024-09-05 08:39:23</span>
+                    <span class="department">
+                <i class="fas fa-home"></i>Dinas Kependudukan dan Pencatatan Sipil
+            </span>
+            <span class="date">
+                <i class="fas fa-calendar-alt"></i> 2024-09-05 08:39:23
+            </span>
                 </div>
             </div>
             <p class="message-body">
@@ -651,10 +657,6 @@
         <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:41</span>
         <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
     </div>
-    <div class="chat-message">
-        <span class="username">lawang-opd@3507</span> <span class="timestamp">- 2024-08-19 04:12:46</span>
-        <p>laporan akan kami tindaklanjuti dan akan kami koordinasikan dengan instansi terkait... Demikian yang bisa kami sampaikan. Terima kasih</p>
-    </div>
 </div>
         </div>
 
@@ -662,8 +664,12 @@
             <div class="user-info">
                 <div class="user-details">
                     <strong>Galih2805</strong> 
-                    <span class="department">Badan Pendapatan Daerah</span> 
-                    <span class="date">2024-07-27 21:50:28</span>
+                    <span class="department">
+                <i class="fas fa-home"></i> Badan Pendapatan Daerah
+            </span>
+            <span class="date">
+                <i class="fas fa-calendar-alt"></i>  2024-07-27 21:50:28
+            </span>
                 </div>
             </div>
             <p class="message-body">
@@ -682,14 +688,17 @@
     </div>
 </div>
         </div>
-
         <!-- Tambahkan lebih banyak pesan jika perlu -->
         <div class="message">
             <div class="user-info">
                 <div class="user-details">
                     <strong>Yeunsm88</strong> 
-                    <span class="department">Kecamatan Lawang</span> 
-                    <span class="date"> 2024-07-02 01:57:13</span>
+                    <span class="department">
+                <i class="fas fa-home"></i> Kecamatan Lawang
+            </span>
+            <span class="date">
+                <i class="fas fa-calendar-alt"></i> 2024-07-02 01:57:13
+            </span>
                 </div>
             </div>
             <p class="message-body">
@@ -710,9 +719,15 @@
         </div>
     </div>
 </div>
-
+<div class="message-input">
+    <form id="messageForm" action="submitMessage.php" method="POST" style="display: flex;">
+        <input type="text" id="messageContent" name="messageContent" placeholder="Masukan Pesan Disini" style="flex-grow: 1;">
+        <button type="submit" class="send-button">Kirim Pesan</button>
+    </form>
+</div>
 </div>
 
+<!-- Sidebar content -->
                                 </div>
                                 <div class="content-block left">
                                         <div class="block">
@@ -2539,7 +2554,7 @@
                                                         <!-- End Sistem Informasi -->
                                                         </div>
                         </div>
-<div class="widget">
+<div class="widget" >
     <h3>Radio Kanjuruhan</h3>
     <div class="widget widget_links clearfix">
 									<div class="scroll">
@@ -2678,7 +2693,12 @@
 <!-- JssorSlider -->
 <script type="text/javascript" src="<?= base_url('template/jscript/sss.js'); ?>"></script>
 <script type="text/javascript" src="<?= base_url('template/jscript/jssor.js'); ?>"></script>
-
+<script>
+    function toggleDropdown() {
+        var dropdown = document.getElementById("dropdownContent");
+        dropdown.style.display = dropdown.style.display === "none" ? "block" : "none";
+    }
+</script>
 <script type='text/javascript'>
     $(function() {
         $(window).scroll(function() {

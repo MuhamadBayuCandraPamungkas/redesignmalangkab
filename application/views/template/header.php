@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
 
@@ -97,15 +98,31 @@
         flex-direction: column;
     }
 
-    .interactive-letter .department {
-        font-size: 12px;
-        color: red;
-    }
+    .department {
+    font-size: 12px;
+    color: red;
+    display: flex;
+    align-items: center; /* Align icon and text vertically */
+}
 
-    .interactive-letter .date {
-        font-size: 10px;
-        color: gray;
-    }
+.date {
+    font-size: 10px;
+    color: gray;
+    display: flex;
+    align-items: center; /* Align icon and text vertically */
+}
+
+.info-container {
+    display: flex; /* Use flexbox to align items in a row */
+    align-items: center; /* Center align items vertically */
+    gap: 10px; /* Add space between the elements */
+}
+    
+.department i, .date i {
+    margin-right: 5px; /* Space between icon and text */
+}
+
+
 
     .interactive-letter .message-body {
         margin-top: 10px;
@@ -160,6 +177,39 @@
             font-size: 0.9em;
         }
         
+        .message-input {
+        display: flex; /* Flexbox to align input and button horizontally */
+        padding: 7px;
+        background-color: white;
+        border-top: 1px solid #ddd;
+        align-items: center;
+    }
+
+    #messageContent {
+    flex-grow: 1; /* Input takes up available width */
+    width: 440px; /* Memastikan input mengambil lebar penuh */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    font-size: 15px;
+    margin-right: 10px; /* Add space between input and button */
+}
+
+
+    .send-button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        border-radius: 1px;
+        white-space: nowrap; /* Ensure button text doesn’t wrap */
+    }
+
+    .send-button:hover {
+        background-color: #45a049; /* Slightly darker green on hover */
+    }
 /* The Modal (background) */
 .modal {
         display: none; /* Hidden by default */
