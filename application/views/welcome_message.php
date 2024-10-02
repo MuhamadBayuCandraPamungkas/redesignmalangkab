@@ -251,7 +251,7 @@
 </div>
 <!-- END STATISTIK KUNJUNGAN -->
 
-<!-- Arsip Berita -->
+<!-- Interaksi Warga -->
 <div class="block">
                                         <div class="block-title">
                                             <a href="https://berita.kedirikab.go.id/berita/indeks_berita" class="right">Lihat Semua</a>
@@ -2266,10 +2266,10 @@
                             
 
                             <!-- sosmed widget -->
-            <div class="widget">
-    <h3 style="margin-bottom: 0.8rem; font-family: quicksand, 'Source Sans Pro', sans-serif; font-size: 14px; display: flex; align-items: center; align-content: center;">
-        <span style="margin-right: .75rem;" class="widget"></span>CONNECT WITH US
-    </h3>
+                            <div class="block">
+    <div class="block-title" style="background:#900404;">
+        <h2>Connect With Us</h2>
+    </div>
     <div class="widget-social">
         <div class="social-btns">
             <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/malangkab/">
@@ -2291,8 +2291,10 @@
                              <!-- end sosmed widget -->
 
                              <!-- Twiter Content -->
-                            <div class="widget">
-                                <h3>Twiter</h3>
+                             <div class="block">
+    <div class="block-title" style="background:#900404;">
+        <h2>TWITER</h2>
+    </div>
                                 <div class="widget-articles">
                                 <div class="card-body">
                     <!-- <div class="scroll-wrap" style="height: auto;">
@@ -2332,8 +2334,10 @@
 
 </div>
                           
-                                <div class="widget">
-                 <h3 style="margin-bottom: 20px;">Berita</h3>
+<div class="block">
+    <div class="block-title" style="background:#900404;">
+        <h2>Berita Daerah</h2>
+    </div>
                           <div class="widget widget_links clearfix">
                                         <ul class="article-block">
                                             <li>
@@ -2418,10 +2422,10 @@
                                         
                                     </div>
                                       <!-- Sistem Informasi -->
-                                    <div class="widget">
-    <h3 style="margin-bottom: 0.8rem; font-family: quicksand, 'Source Sans Pro', sans-serif; font-size: 14px; display: flex; align-items: center; align-content: center;">
-        <span style="margin-right: .75rem;" class="widget"></span>Sistem Informasi
-    </h3>
+                                      <div class="block">
+    <div class="block-title" style="background:#900404;">
+        <h2>Sistem informasi</h2>
+    </div>
     <div class="scroll-wrap" style="height: 400px;">
                                             <div class="scroll">
                           
@@ -2554,8 +2558,10 @@
                                                         <!-- End Sistem Informasi -->
                                                         </div>
                         </div>
-<div class="widget" >
-    <h3>Radio Kanjuruhan</h3>
+                        <div class="block">
+    <div class="block-title" style="background:#900404;">
+        <h2>Radio Kanjuruhan</h2>
+    </div>
     <div class="widget widget_links clearfix">
 									<div class="scroll">
 												<table class="table table-striped">

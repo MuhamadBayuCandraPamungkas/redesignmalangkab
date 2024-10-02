@@ -829,6 +829,7 @@ a:focus {
 .article-list {
 	margin-left: 0px;
 	margin-bottom: 10px;
+	
 }
 
 .article-list li {
@@ -907,7 +908,6 @@ a:focus {
 .article-block .article-content {
 	display: block;
 	margin-left: 70px;
-	text-decoration: none;
 }
 
 .article-block .article-content:after {

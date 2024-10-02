@@ -509,10 +509,10 @@
                     <div class='header-addons'>
 
                         <span class='city'>
-                            selasa, 17 Sep 2024, <span id='jam'></span>
+                            Minggu, 29 Sep 2024, <span id='jam'></span>
                         </span>
                         <div class="header-search">
-    <form action="https://berita.kedirikab.go.id/berita/index" method="post" accept-charset="utf-8">
+    <form action="https://malangkab.go.id/#" method="post" accept-charset="utf-8">
         <input type="text" placeholder="Cari berita atau informasi" name="kata" class="search-input" autocomplete="off" required/>
         <button type="submit" name="cari" class="search-button">
             <i class="fa fa-search search-icon"></i>
