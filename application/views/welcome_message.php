@@ -13,7 +13,6 @@
                             
                     </div>
                     
-                    
                     <div class="main-content">
                         <div class="main-page left">
                             <div class="double-block">
@@ -78,7 +77,7 @@
                                     </div>
                                     <div class="block">
                                         <div class="block-title">
-                                            <a href="https://berita.kedirikab.go.id/berita/indeks_berita" class="right">Lihat Semua</a>
+                                            <a href="#" class="right">Lihat Semua</a>
                                             <h2>Berita Utama</h2>
                                         </div>
                                         <div class="block-content">
@@ -86,14 +85,14 @@
                                                 <li>
                                                     <div class='article-photo'>
                                                         <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
-                                                            <a class='hover-effect' href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>
+                                                            <a class='hover-effect' href='#'>
                                                                 <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
                                                     </div>
                                                     <div class='article-content'>
                                                         <h4>
-                                                            <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif'>Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
+                                                            <a href="<?= site_url('berita') ?>">Wakil Bupati Malang Dampingi Kunker Menaker RI ke Desmigratif
                                                             </a>
                                                         </h4>
                                                         <span class='meta'>
@@ -212,9 +211,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                   
-    <!-- YouTube Video Embed -->
-<iframe width="590" height="290" src="https://www.youtube.com/embed/vmT2hsAOTec?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto 20px auto;"></iframe>
+                                    <iframe width="590" height="290" src="https://www.youtube.com/embed/vmT2hsAOTec?autoplay=1&mute=1&playsinline=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto 20px auto;"></iframe>
 
  <!-- STATISTIK KUNJUNGAN -->
  <div class="block">
@@ -254,7 +251,7 @@
 <!-- Interaksi Warga -->
 <div class="block">
                                         <div class="block-title">
-                                            <a href="https://berita.kedirikab.go.id/berita/indeks_berita" class="right">Lihat Semua</a>
+                                            <a href="#" class="right">Lihat Semua</a>
                                             <h2>Berita Utama</h2>
                                         </div>
 
@@ -388,7 +385,7 @@
                                     <!-- CARD GALERY -->
                                     <div class="block">
     <div class="block-title" style="background:#900404;">
-        <a href="https://berita.kedirikab.go.id/kategori/detail/pemerintahan-politik-dan-keamanan" class="right">Semua Artikel dari kategori ini</a>
+        <a href="#" class="right">Semua Artikel dari kategori ini</a>
         <h2>GALERY</h2>
     </div>
     <p>Pemerintah Kabupaten Malang</p>

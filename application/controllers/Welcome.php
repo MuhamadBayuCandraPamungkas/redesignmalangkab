@@ -25,6 +25,13 @@ class Welcome extends CI_Controller {
 		$this->load->view('/template/footer');
 	}
 
+	public function Berita()
+	{
+		$this->load->view('/template/header');
+		$this->load->view('/mainBerita/berita');
+		$this->load->view('/template/footer');
+	}
+	
 	public function __construct() {
 		parent::__construct();
 		$this->load->helper('url');

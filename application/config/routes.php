@@ -54,3 +54,5 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 http://localhost/redesignmalangkab/index.php/coba
+
+$route['berita'] = 'welcome/berita';
