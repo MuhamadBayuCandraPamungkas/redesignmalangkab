@@ -102,7 +102,7 @@
         </noscript>
         <!-- End Google Tag Manager (noscript) -->
         <div id='Back-to-top'>
-            <img alt='Scroll to top' src='https://berita.kedirikab.go.id/asset/images/blue/top.png'/>
+            <img alt='Scroll to top' src='asset/image/top.png'/>
         </div>
         
         <div class="boxed">
