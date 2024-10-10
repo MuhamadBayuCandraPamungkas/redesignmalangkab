@@ -11,20 +11,19 @@
     <meta http-equiv="Content-Language" content="id-ID">
     <meta NAME="Distribution" CONTENT="Global">
     <meta NAME="Rating" CONTENT="General">
-    <link rel="canonical" href="//berita.kedirikab.go.id/"/>
     <link rel="shortcut icon" href="asset/logo/logokab.png"/>
     <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.xml"/>
     <link type="text/css" rel="stylesheet" href="template/background/blue/reset.css"/>
     <link type="text/css" rel="stylesheet" href="template/background/blue/main-stylesheet.css"/>
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/shortcode.css"/>
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/fonts.css"/>
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/blue/responsive.css"/>
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/background/style.css">
+    <link type="text/css" rel="stylesheet" href="template/background/blue/shortcode.css"/>
+    <link type="text/css" rel="stylesheet" href="template/background/blue/fonts.css"/>
+    <link type="text/css" rel="stylesheet" href="template/background/blue/responsive.css"/>
+    <link type="text/css" rel="stylesheet" href="template/background/style.css">
     <link type="text/css" rel="stylesheet" href="template/background/blue/animated_social_icons.css"/>
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/slide/slide.css">
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/asset/libs/JssorSlider/css/jssor-new.css">
-    <link rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/lightbox/lightbox.css">
-    <link rel="stylesheet" href="https://berita.kedirikab.go.id/template/phpmu-tigo/fonts/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="template/slide/slide.css">
+    <link type="text/css" rel="stylesheet" href="asset/libs/css/jssor-new.css">
+    <link rel="stylesheet" href="template/lightbox/lightbox.css">
+    <link rel="stylesheet" href="template/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -35,364 +34,12 @@
 
 
     <!-- Custom CSS -->
-    <link type="text/css" rel="stylesheet" href="https://berita.kedirikab.go.id/asset/css/custom.css"/>
+    <link type="text/css" rel="stylesheet" href="asset/css/custom.css"/>
     <style type="text/css">
-        .the-menu a.active {
-            color: #d9d19c !important;
-        }
-
-        .interactive-letter {
-        font-family: Arial, sans-serif;
-    }
-
-    .interactive-letter .header {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-    z-index: 100; /* Pastikan header berada di atas elemen lain */
-}
-    
-    .interactive-letter .send-button {
-        background-color: red;
-        color: white;
-        padding: 5px 10px;
-        text-decoration: none;
-        border-radius: 5px;
-    }
-
-    /* Batasi tinggi kontainer pesan untuk memungkinkan scroll */
-    .interactive-letter .message-container {
-        max-height: 300px; /* Tentukan tinggi maksimum, bisa disesuaikan */
-        overflow-y: auto; /* Aktifkan scroll vertikal */
-        border: 1px solid #ccc;
-        padding: 10px;
-        background-color: #f1f1f1;
-        border-radius: 5px;
-    }
-
-    .interactive-letter .message {
-        border: 1px solid #e0e0e0;
-        padding: 15px;
-        margin: 10px 0;
-        background-color: #f9f9f9;
-        border-radius: 5px;
-    }
-
-    .interactive-letter .user-info {
-        display: flex;
-        align-items: center;
-    }
-
-    .interactive-letter .icon {
-        width: 30px;
-        height: 30px;
-        margin-right: 10px;
-    }
-
-    .interactive-letter .user-details {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .department {
-    font-size: 12px;
-    color: red;
-    display: flex;
-    align-items: center; /* Align icon and text vertically */
-}
-
-.date {
-    font-size: 10px;
-    color: gray;
-    display: flex;
-    align-items: center; /* Align icon and text vertically */
-}
-
-.info-container {
-    display: flex; /* Use flexbox to align items in a row */
-    align-items: center; /* Center align items vertically */
-    gap: 10px; /* Add space between the elements */
-}
-    
-.department i, .date i {
-    margin-right: 5px; /* Space between icon and text */
-}
-
-
-
-    .interactive-letter .message-body {
-        margin-top: 10px;
-    }
-
-    .interactive-letter .reply-button {
-    background-color: transparent;
-    color: black;
-    border: 1px solid gray; /* Tambahkan border hitam dengan ketebalan 2px */
-    padding: 10px 20px;
-    margin-top: 10px;
-    border-radius: 5px; /* Beri sedikit lengkungan pada sudut, atau sesuaikan sesuai keinginan */
-    cursor: pointer;
-    text-align: left;
-    width: 100%;
-    display: block;
-    }
-
-    .interactive-letter .reply-button:hover {
-        background-color: #45a049;
-        color: white;
-    }
-
-    .dropdown-content {
-            display: none; /* Awalnya disembunyikan */
-            background-color: #f9f9f9;
-            border: 1px solid #ccc;
-            margin-top: 5px;
-            padding: 10px;
-            border-radius: 5px; /* Lengkungan sudut */
-            width: 100%;
-        }
-
-        .tanggapan-header {
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
-
-        .chat-message {
-            margin: 10px 0;
-            padding: 10px;
-            border-left: 3px solid #4caf50; /* Garis kiri hijau */
-        }
-
-        .username {
-            color: #4caf50; /* Warna hijau untuk username */
-            font-weight: bold;
-        }
-
-        .timestamp {
-            color: #888; /* Warna abu-abu untuk timestamp */
-            font-size: 0.9em;
-        }
-        
-        .message-input {
-        display: flex; /* Flexbox to align input and button horizontally */
-        padding: 7px;
-        background-color: white;
-        border-top: 1px solid #ddd;
-        align-items: center;
-    }
-
-    #messageContent {
-    flex-grow: 1; /* Input takes up available width */
-    width: 440px; /* Memastikan input mengambil lebar penuh */
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 1px;
-    font-size: 15px;
-    margin-right: 10px; /* Add space between input and button */
-}
-
-
-    .send-button {
-        background-color: #4CAF50;
-        color: white;
-        border: none;
-        padding: 10px 20px;
-        cursor: pointer;
-        font-size: 16px;
-        border-radius: 1px;
-        white-space: nowrap; /* Ensure button text doesn’t wrap */
-    }
-
-    .send-button:hover {
-        background-color: #45a049; /* Slightly darker green on hover */
-    }
-/* The Modal (background) */
-.modal {
-        display: none; /* Hidden by default */
-        position: fixed; /* Stay in place */
-        z-index: 9999; /* Sit on top */
-        left: 0;
-        top: 0;
-        width: 100%; /* Full width */
-        height: 100%; /* Full height */
-        overflow: auto; /* Enable scroll if needed */
-        background-color: rgba(0, 0, 0, 0.5); /* Black with opacity */
-    }
-
-    /* Modal Content */
-    .modal-content {
-        background-color: #fefefe;
-        margin: 15% auto; /* 15% from the top and centered */
-        padding: 20px;
-        border: 1px solid #888;
-        width: 80%; /* Could be more or less, depending on screen size */
-        max-width: 600px;
-    }
-
-    /* The Close Button */
-    .close {
-        color: #aaa;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
-    }
-
-    .close:hover,
-    .close:focus {
-        color: black;
-        text-decoration: none;
-        cursor: pointer;
-    }
-
-/* Untuk ikon pencarian dalam input field */
-.search-icon {
-    position: absolute;
-    right: 10px; /* Posisikan di sebelah kanan */
-    top: 50%; /* Sejajarkan secara vertikal */
-    transform: translateY(-50%);
-    color: #6A6363; /* Warna ikon, bisa disesuaikan */
-    font-size: 18px; /* Ukuran font ikon */
-}
-
-/* Tambahkan padding pada input field agar teks tidak menutupi ikon */
-.search-input {
-    padding-right: 30px; /* Sesuaikan dengan posisi ikon */
-    border-radius: 20px; /* Jika ingin ada sudut bulat */
-    border: 1px solid #ccc; /* Border untuk input */
-}
-
-.search-input:focus + .search-icon {
-    color: #6A6363; /* Ganti dengan warna yang diinginkan */
-}
-.navigation {
-    display: flex;
-    justify-content: flex-end; /* Memindahkan tombol ke kanan */
-    align-items: center;
-    position: relative;
-    top: 400px; /* Sesuaikan ini untuk menempatkan tombol di posisi yang tepat */
-    position: absolute;
-    right: 10px;
-  }
-  .nav-btn {
-    background-color: white;
-    border: 1px solid #ddd;
-    padding: 10px;
-    cursor: pointer;
-    font-size: 10px;
-  }
-
-  .nav-btn:hover {
-    background-color: #f0f0f0;
-  }
-
-    /* Menghilangkan outline saat tombol di klik */
-    .nav-btn:focus {
-        outline: none;
-    }
+       
 
     
-    </style>
-
-    <!-- Statistik Kunjungan -->
- <style>
-        /* Prefix .stats- untuk mencegah pengaruh ke elemen lain */
-        .stats-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 150px;
-            gap: 15px;
-            margin: 0;
-            padding: 0;
-            background-color: #F0EFEF;
-        }
-
-        .stats-box {
-            width: 137px;
-            height: 120px;
-            padding: 20px;
-            color: white;
-            text-align: center;
-            border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .stats-box h1 {
-            margin: 0;
-            font-size: 36px;
-            transition: color 0.3s ease;
-        }
-
-        .stats-box p {
-            margin: 10px 0;
-            font-size: 15px;
-        }
-
-        .stats-box .stats-detail {
-            font-size: 12px;
-            margin-top: 10px;
-            color: rgba(255, 255, 255, 0.7);
-            transition: color 0.3s ease;
-        }
-
-        .stats-box:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-        }
-
-        .stats-box:hover h1 {
-            color: #f0f0f0;
-        }
-
-        .stats-box:hover .stats-detail {
-            color: #ffffff;
-        }
-
-        .stats-box::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.1);
-            mix-blend-mode: overlay;
-            transition: opacity 0.3s ease;
-        }
-
-        .stats-box:hover::before {
-            opacity: 0;
-        }
-
-        /* Box color themes with stats- prefix */
-        .stats-green {
-            background-color: #4CAF50;
-            background-image: linear-gradient(135deg, #4caf50 0%, #66bb6a 100%);
-        }
-
-        .stats-orange {
-            background-color: #FF9800;
-            background-image: linear-gradient(135deg, #ff9800 0%, #ffb74d 100%);
-        }
-
-        .stats-gray {
-            background-color: #9E9E9E;
-            background-image: linear-gradient(135deg, #9e9e9e 0%, #bdbdbd 100%);
-        }
-
-        .stats-blue {
-            background-color: #2196F3;
-            background-image: linear-gradient(135deg, #2196f3 0%, #64b5f6 100%);
-        }
-    </style>
-
+        </style>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-GZS9WEMZ5B"></script>
         <script>
@@ -493,17 +140,7 @@
                         <ul>
                             <li>
                                 <a><i>Malangkab.go.id</i></a>
-                                <!-- <a href='tel:+62354682152'>
-                                    <span class='fa fa-phone' style='margin-right:.5rem;vertical-align:middle;'></span>
-                                    Hubungi kami di: (0354) 682152 / 696714
-                                </a>
-                            </li>
-                            <li>
-                                <a id='mailto-link' href='mailto:diskominfo@kedirikab.go.id' target='_BLANK'>
-                                    <span class='fa fa-envelope' style='margin-right:.5rem;vertical-align:middle;'></span>
-                                    E-mail: diskominfo[at]kedirikab.go.id
-                                </a>
-                            </li> -->
+                                
                         </ul>
                     </div>
                     <div class='header-addons'>
@@ -525,7 +162,6 @@
                     <div class='wrapper'>
                         <ul class='the-menu'>
                             <li>
-                                <!-- <a href='https://berita.kedirikab.go.id/' style='background:url(https://berita.kedirikab.go.id/asset/images/home.png) no-repeat center;font-size:0;width:34px;'> -->
                                     <br>
                                 </a>
                             </li>

@@ -85,7 +85,7 @@
                                                 <li>
                                                     <div class='article-photo'>
                                                         <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wakil-bupati-malang-dampingi-kunker-menaker-ri-ke-desmigratif' class='hover-effect'>
-                                                            <a class='hover-effect' href='#'>
+                                                            <a class='hover-effect' href="<?= site_url('berita') ?>">
                                                                 <img style='height:110px;width:200px' src="http://portal.malangkab.go.id/uploads/artikel/malangkab-pusat-opd@3507-fb533f1a-7ff8-4b1a-b43d-66e8610a8bcd.jpeg" alt=''/>
                                                             </a>
                                                         </a>
@@ -211,7 +211,11 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <iframe width="590" height="290" src="https://www.youtube.com/embed/vmT2hsAOTec?autoplay=1&mute=1&playsinline=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto 20px auto;"></iframe>
+
+                                    <!-- Youtube -->
+                                    <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/vmT2hsAOTec?autoplay=1&mute=1&playsinline=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
  <!-- STATISTIK KUNJUNGAN -->
  <div class="block">
