@@ -390,10 +390,8 @@
                                     <div class="block">
     <div class="block-title" style="background:#900404;">
         <a href="#" class="right">Semua Artikel dari kategori ini</a>
-        <h2>GALERY</h2>
+        <h2>INFO HARGA TERKINI</h2>
     </div>
-    <p>Pemerintah Kabupaten Malang</p>
-    
     <!-- INFO HARGA SAYUR MAYUR -->
     <div class="container mt-5">
         <div style="margin: auto; padding: 5px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 10px;">
