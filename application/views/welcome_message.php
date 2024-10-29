@@ -12,7 +12,21 @@
                             <!-- Bullet Navigator -->
                             
                     </div>
-                    
+                    <div class="accessibility-tools">
+    <img src="asset/image/difabel.png" alt="Accessibility feature for disabilities" onclick="toggleAccessibilityMenu()" />
+    <button onclick="increaseText(); addEffect(this)"><i class="fas fa-search-plus"></i> Increase Text</button>
+    <button onclick="decreaseText(); addEffect(this)"><i class="fas fa-search-minus"></i> Decrease Text</button>
+    <button onclick="grayscale(); addEffect(this)"><i class="fas fa-adjust"></i> Grayscale</button>
+    <button onclick="highContrast(); addEffect(this)"><i class="fas fa-low-vision"></i> High Contrast</button>
+    <button onclick="negativeContrast(); addEffect(this)"><i class="fas fa-eye-slash"></i> Negative Contrast</button>
+    <button onclick="lightBackground(); addEffect(this)"><i class="fas fa-sun"></i> Light Background</button>
+    <button onclick="underlineLinks(); addEffect(this)"><i class="fas fa-underline"></i> Links Underline</button>
+    <button onclick="readableFont(); addEffect(this)"><i class="fas fa-font"></i> Readable Font</button>
+    <button onclick="resetSettings(); addEffect(this)"><i class="fas fa-sync"></i> Reset</button>
+</div>
+
+
+
                     <div class="main-content">
                         <div class="main-page left">
                             <div class="double-block">
@@ -2813,7 +2827,82 @@
     });
 </script>
 <script>
-    $(function() {/*$('footer .wrapper p > a').after('<p>Your IP Address: 114.10.46.231</p>');*/
+
+    function increaseText() {
+  document.body.style.fontSize = "larger";
+}
+
+function decreaseText() {
+  document.body.style.fontSize = "smaller";
+}
+
+function grayscale() {
+  document.body.style.filter = "grayscale(100%)";
+}
+
+function highContrast() {
+  document.body.style.filter = "contrast(200%)";
+}
+
+function negativeContrast() {
+  document.body.style.filter = "invert(100%)";
+}
+
+function lightBackground() {
+  const currentBgColor = document.body.style.backgroundColor;
+  
+  if (currentBgColor === "rgb(245, 245, 245)") {  // Warna #f5f5f5 diubah ke RGB
+    document.body.style.backgroundColor = "#222"; // Kembali ke background gelap
+    document.body.style.color = "#fff";           // Kembali ke teks putih
+  } else {
+    document.body.style.backgroundColor = "#f5f5f5"; // Background terang
+    document.body.style.color = "#000";               // Teks hitam
+  }
+}
+
+function underlineLinks() {
+  let links = document.querySelectorAll('a');
+  links.forEach(link => {
+    link.style.textDecoration = 'underline';
+  });
+}
+
+function readableFont() {
+  document.body.style.fontFamily = 'Arial, sans-serif';
+}
+
+function resetSettings() {
+  document.body.style = '';
+  let links = document.querySelectorAll('a');
+  links.forEach(link => {
+    link.style.textDecoration = '';
+  });
+}
+
+function toggleAccessibilityMenu() {
+  const menu = document.getElementById("accessibility-menu");
+  
+  // Jika menu saat ini tersembunyi, tampilkan; jika sudah tampil, sembunyikan
+  if (menu.classList.contains("hidden")) {
+    menu.classList.remove("hidden");
+    menu.classList.add("show");
+  } else {
+    menu.classList.remove("show");
+    menu.classList.add("hidden");
+  }
+}
+
+function addEffect(button) {
+    button.classList.add('effect'); // Add the effect class
+    setTimeout(() => {
+        button.classList.remove('effect'); // Remove the effect class after 300ms
+    }, 300); // Duration must match the CSS transition duration
+}
+
+
+</script>
+<script>
+    $(function() {
     });
 </script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8bb987268900ce56","version":"2024.8.0","r":1,"token":"6c31d07a58b4405c9ce435348b33a2c6","serverTiming":{"name":{"cfL4":true}}}' crossorigin="anonymous"></script>

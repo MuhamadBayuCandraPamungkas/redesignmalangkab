@@ -22,6 +22,7 @@
     <link type="text/css" rel="stylesheet" href="template/background/blue/animated_social_icons.css"/>
     <link type="text/css" rel="stylesheet" href="template/slide/slide.css">
     <link type="text/css" rel="stylesheet" href="asset/libs/css/jssor-new.css">
+    
     <link rel="stylesheet" href="template/lightbox/lightbox.css">
     <link rel="stylesheet" href="template/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -30,6 +31,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 
 
 
