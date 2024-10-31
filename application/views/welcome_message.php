@@ -12,8 +12,11 @@
                             <!-- Bullet Navigator -->
                             
                     </div>
-                    <div class="accessibility-tools">
-    <img src="asset/image/difabel.png" alt="Accessibility feature for disabilities" onclick="toggleAccessibilityMenu()" />
+                    <div class="accessibility-toggle" onclick="toggleAccessibilityMenu()">
+    <img src="asset/image/bantuan.png" alt="Accessibility feature for disabilities" />
+</div>
+
+<div class="accessibility-tools hidden">
     <button onclick="increaseText(); addEffect(this)"><i class="fas fa-search-plus"></i> Increase Text</button>
     <button onclick="decreaseText(); addEffect(this)"><i class="fas fa-search-minus"></i> Decrease Text</button>
     <button onclick="grayscale(); addEffect(this)"><i class="fas fa-adjust"></i> Grayscale</button>
@@ -2828,79 +2831,80 @@
 </script>
 <script>
 
-    function increaseText() {
-  document.body.style.fontSize = "larger";
+function increaseText() {
+    document.body.style.fontSize = "larger";
 }
 
 function decreaseText() {
-  document.body.style.fontSize = "smaller";
+    document.body.style.fontSize = "smaller";
 }
 
 function grayscale() {
-  document.body.style.filter = "grayscale(100%)";
+    document.body.style.filter = "grayscale(100%)";
 }
 
 function highContrast() {
-  document.body.style.filter = "contrast(200%)";
+    document.body.style.filter = "contrast(200%)";
 }
 
 function negativeContrast() {
-  document.body.style.filter = "invert(100%)";
+    document.body.style.filter = "invert(100%)";
 }
 
 function lightBackground() {
-  const currentBgColor = document.body.style.backgroundColor;
-  
-  if (currentBgColor === "rgb(245, 245, 245)") {  // Warna #f5f5f5 diubah ke RGB
-    document.body.style.backgroundColor = "#222"; // Kembali ke background gelap
-    document.body.style.color = "#fff";           // Kembali ke teks putih
-  } else {
-    document.body.style.backgroundColor = "#f5f5f5"; // Background terang
-    document.body.style.color = "#000";               // Teks hitam
-  }
+    const currentBgColor = document.body.style.backgroundColor;
+    
+    if (currentBgColor === "rgb(245, 245, 245)") {  // Warna #f5f5f5 dalam RGB
+        document.body.style.backgroundColor = "#222"; // Background gelap
+        document.body.style.color = "#fff";           // Teks putih
+    } else {
+        document.body.style.backgroundColor = "#f5f5f5"; // Background terang
+        document.body.style.color = "#000";               // Teks hitam
+    }
 }
 
 function underlineLinks() {
-  let links = document.querySelectorAll('a');
-  links.forEach(link => {
-    link.style.textDecoration = 'underline';
-  });
+    let links = document.querySelectorAll('a');
+    links.forEach(link => {
+        link.style.textDecoration = 'underline';
+    });
 }
 
 function readableFont() {
-  document.body.style.fontFamily = 'Arial, sans-serif';
+    document.body.style.fontFamily = 'Arial, sans-serif';
 }
 
 function resetSettings() {
-  document.body.style = '';
-  let links = document.querySelectorAll('a');
-  links.forEach(link => {
-    link.style.textDecoration = '';
-  });
+    // Reset semua perubahan pada body
+    document.body.style = '';
+    
+    // Reset underline pada semua link
+    let links = document.querySelectorAll('a');
+    links.forEach(link => {
+        link.style.textDecoration = '';
+    });
 }
 
 function toggleAccessibilityMenu() {
-  const menu = document.getElementById("accessibility-menu");
-  
-  // Jika menu saat ini tersembunyi, tampilkan; jika sudah tampil, sembunyikan
-  if (menu.classList.contains("hidden")) {
-    menu.classList.remove("hidden");
-    menu.classList.add("show");
-  } else {
-    menu.classList.remove("show");
-    menu.classList.add("hidden");
-  }
+    const menu = document.querySelector(".accessibility-tools"); // Menggunakan .accessibility-tools sesuai dengan HTML
+    
+    // Jika menu saat ini tersembunyi, tampilkan; jika sudah tampil, sembunyikan
+    if (menu.classList.contains("hidden")) {
+        menu.classList.remove("hidden");
+    } else {
+        menu.classList.add("hidden");
+    }
 }
 
 function addEffect(button) {
-    button.classList.add('effect'); // Add the effect class
+    button.classList.add('effect'); // Tambahkan kelas 'effect' untuk efek visual
     setTimeout(() => {
-        button.classList.remove('effect'); // Remove the effect class after 300ms
-    }, 300); // Duration must match the CSS transition duration
+        button.classList.remove('effect'); // Hapus kelas 'effect' setelah 300ms
+    }, 300); // Durasi harus sesuai dengan CSS transition duration
 }
 
-
 </script>
+
 <script>
     $(function() {
     });

@@ -40,9 +40,73 @@
     <link type="text/css" rel="stylesheet" href="asset/css/custom.css"/>
     <style type="text/css">
        
+       body {
+	font-size: 13px;
+	font-family: 'Poppins','Barlow', sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #363635;
+	background: url(../bg.jpg) white top center no-repeat fixed;
+	line-height: 140%;
+}
+.accessibility-toggle {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    z-index: 1001;
+}
 
+.accessibility-toggle img {
+    width: 45px;
+    height: auto;
+    opacity: 85%
+}
+
+.accessibility-tools {
+    position: fixed;
+    top: 50%;
+    left: 55px;
+    transform: translateY(-50%);
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+    width: 200px;
+}
+
+.accessibility-tools.hidden {
+    display: none;
+}
+
+.accessibility-tools button {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    padding: 10px;
+    width: 100%;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 4px;
+}
+
+.accessibility-tools button i {
+    margin-right: 8px;
+}
+
+.accessibility-tools button:hover {
+    background-color: #ddd;
+}
     
         </style>
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-GZS9WEMZ5B"></script>
         <script>
