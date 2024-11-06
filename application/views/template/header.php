@@ -11,6 +11,9 @@
     <meta http-equiv="Content-Language" content="id-ID">
     <meta NAME="Distribution" CONTENT="Global">
     <meta NAME="Rating" CONTENT="General">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="asset/logo/logokab.png"/>
     <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.xml"/>
     <link type="text/css" rel="stylesheet" href="template/background/blue/reset.css"/>
