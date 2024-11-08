@@ -10,6 +10,8 @@
                     <!-- end topbar content -->
                     
                             <!-- Bullet Navigator -->
+
+                            <audio id="welcome-audio" src="asset/download/welcome.mp3" preload="auto"></audio>
                             
                     </div>
                     <div class="accessibility-toggle" onclick="toggleAccessibilityMenu()">
@@ -2336,17 +2338,20 @@
                                <!-- End Twiter Content -->
             <hr>
             <!-- E-BOOK -->
-            <div class="widget">
-    <h3 style="margin-bottom: 20px;">E-Book</h3> <!-- Tambahkan margin-bottom untuk jarak -->
-    <img id="ebook-image" src="https://profil.malangkab.go.id/uploads/dokumen/cover_kmsd_2023.jpeg"  alt="" style="width:300px; height:390px;">
-    
-    <!-- Tombol Next/prev -->
-    <div class="navigation">
-        <button class="nav-btn" onclick="previousImage()">&#10094;</button>
-        <button class="nav-btn" onclick="nextImage()">&#10095;</button>
+            <div class="block-title">
+        <h2>E-Book</h2>
     </div>
+
+    <div class="ebook-container">
+        <img id="ebookImage" class="ebook-img" src="https://profil.malangkab.go.id/uploads/dokumen/cover_kmsd_2023.jpeg" alt="E-Book Page">
+        <div class="navigation-buttons">
+            <button class="nav-button" onclick="prevImage()" id="prevButton">Prev</button>
+            <button class="nav-button" onclick="nextImage()" id="nextButton">Next</button>
+        </div>
+    </div>
+
     <!-- End E-book -->
-</div>
+
 
 </div>
                           
@@ -2722,6 +2727,18 @@
     }
 </script>
 <script>
+        // Function untuk memutar suara selamat datang
+        function playWelcomeAudio() {
+            const audio = document.getElementById('welcome-audio');
+            audio.play().catch((error) => {
+                console.log('Autoplay tidak diizinkan:', error);
+            });
+        }
+
+        // Memastikan audio diputar setelah halaman dimuat
+        window.addEventListener('load', playWelcomeAudio);
+    </script>
+<script>
     // Periksa apakah browser mendukung Speech Synthesis API
     if ('speechSynthesis' in window) {
         console.log('Speech Synthesis API didukung.');
@@ -2888,6 +2905,46 @@
 
     });
 </script>
+<script>
+        // JavaScript dijalankan setelah semua elemen HTML dimuat
+        window.onload = function() {
+            const images = [
+                "https://profil.malangkab.go.id/uploads/dokumen/cover_kmsd_2023.jpeg"
+                "https://profil.malangkab.go.id/uploads/dokumen/Profil%20Pemkab%20Malang%202023.jpeg"
+                "https://malangkab.go.id/uploads/dokumen/e-Magazine%20edisi%20VI%202024.jpeg"
+                "https://malangkab.go.id/uploads/dokumen/KMSD%202024.jpeg"
+            ];
+            let currentIndex = 0;
+            const ebookImage = document.getElementById('ebookImage');
+
+            // Function untuk menampilkan gambar sebelumnya
+            function prevImage() {
+                currentIndex = (currentIndex > 0) ? currentIndex - 1 : images.length - 1;
+                updateImage();
+            }
+
+            // Function untuk menampilkan gambar berikutnya
+            function nextImage() {
+                currentIndex = (currentIndex < images.length - 1) ? currentIndex + 1 : 0;
+                updateImage();
+            }
+
+            // Function untuk mengupdate gambar berdasarkan currentIndex
+            function updateImage() {
+                ebookImage.src = images[currentIndex];
+            }
+
+            // Mengganti gambar otomatis setiap 2 detik
+            setInterval(() => {
+                nextImage();
+            }, 2000); // 2000ms = 2 detik
+
+            // Menambahkan fungsi ke tombol
+            document.getElementById("prevButton").onclick = prevImage;
+            document.getElementById("nextButton").onclick = nextImage;
+        };
+    </script>
+
 <script>
 
 function increaseText() {

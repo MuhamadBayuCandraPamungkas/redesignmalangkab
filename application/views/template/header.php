@@ -107,6 +107,59 @@
 .accessibility-tools button:hover {
     background-color: #ddd;
 }
+
+.block-title {
+            background: #900404;
+            padding: 10px;
+            text-align: left;
+            color: white;
+        }
+
+        /* Container untuk e-book */
+        .ebook-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #f1f1f1;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            width: 300px;
+            margin: -1px auto 20px auto;
+        }
+
+        /* Style untuk gambar e-book */
+        .ebook-img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        /* Container untuk tombol navigasi */
+        .navigation-buttons {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        /* Style untuk tombol navigasi */
+        .nav-button {
+            background-color: #900404;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            flex: 1;
+            margin: 0 5px;
+            text-transform: uppercase;
+        }
+
+        /* Hover efek untuk tombol navigasi */
+        .nav-button:hover {
+            background-color: #700303;
+        }
     
         </style>
 
