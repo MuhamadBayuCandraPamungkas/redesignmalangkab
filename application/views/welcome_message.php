@@ -2706,7 +2706,7 @@
 <script type="text/javascript" src="<?= base_url('template/jscript/sss.js'); ?>"></script>
 <script type="text/javascript" src="<?= base_url('template/jscript/jssor.js'); ?>"></script>
 
-<!--JS Disabilitas-->
+<!--JS voiceai-->
 <script type="text/javascript" src="<?= base_url('template/jscript/voice-ai.js'); ?>"></script>
 
 

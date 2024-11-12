@@ -23,14 +23,16 @@ function negativeContrast() {
 function lightBackground() {
     const currentBgColor = document.body.style.backgroundColor;
     
-    if (currentBgColor === "rgb(245, 245, 245)") {  // Warna #f5f5f5 dalam RGB
-        document.body.style.backgroundColor = "#222"; // Background gelap
-        document.body.style.color = "#fff";           // Teks putih
+    // Toggle between light and dark backgrounds
+    if (currentBgColor === "rgb(245, 245, 245)") {  // RGB for #f5f5f5 (light background)
+        document.body.style.backgroundColor = "#222"; // Dark background
+        document.body.style.color = "#fff";           // White text
     } else {
-        document.body.style.backgroundColor = "#f5f5f5"; // Background terang
-        document.body.style.color = "#000";               // Teks hitam
+        document.body.style.backgroundColor = "#f5f5f5"; // Light background
+        document.body.style.color = "#000";               // Black text
     }
 }
+
 
 function underlineLinks() {
     let links = document.querySelectorAll('a');
@@ -44,14 +46,35 @@ function readableFont() {
 }
 
 function resetSettings() {
-    // Reset semua perubahan pada main-content
+    // Reset all changes on main-content
     document.querySelector('.main-content').style = '';
     
-    // Reset underline pada semua link
+    // Reset underline on all links
     let links = document.querySelectorAll('a');
     links.forEach(link => {
         link.style.textDecoration = '';
     });
+    
+    // Reset background and text color to light mode
+    document.body.style.backgroundColor = "#f5f5f5"; // Light background
+    document.body.style.color = "#000";               // Black text
+
+    // Reset grayscale (remove filter)
+    document.body.style.filter = ''; // Remove grayscale filter
+}
+
+
+
+// Menyesuaikan menu aksesibilitas berdasarkan ukuran layar
+function adjustAccessibilityMenu() {
+    const menu = document.querySelector(".accessibility-tools");
+    if (window.innerWidth <= 480) {
+        // Pada layar kecil, sembunyikan menu secara default
+        menu.classList.add("hidden");
+    } else {
+        // Pada layar besar, tampilkan menu
+        menu.classList.remove("hidden");
+    }
 }
 
 function toggleAccessibilityMenu() {
@@ -71,4 +94,6 @@ function addEffect(button) {
         button.classList.remove('effect'); // Hapus kelas 'effect' setelah 300ms
     }, 300); // Durasi harus sesuai dengan CSS transition duration
 }
+
+
 

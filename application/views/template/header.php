@@ -31,9 +31,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
     <!-- Disability -->
     <script type="text/javascript" src="<?= base_url('template/jscript/disabilitas.js'); ?>"></script>
     
@@ -289,7 +287,7 @@
                     <div class='header-addons'>
 
                         <span class='city'>
-                            Minggu, 29 Sep 2024, <span id='jam'></span>
+                            Senin, 12 Nov 2024, <span id='jam'></span>
                         </span>
                         <div class="header-search">
     <form action="https://malangkab.go.id/#" method="post" accept-charset="utf-8">
