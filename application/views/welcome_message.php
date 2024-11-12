@@ -2705,6 +2705,11 @@
 <!-- JssorSlider -->
 <script type="text/javascript" src="<?= base_url('template/jscript/sss.js'); ?>"></script>
 <script type="text/javascript" src="<?= base_url('template/jscript/jssor.js'); ?>"></script>
+
+<!--JS Disabilitas-->
+<script type="text/javascript" src="<?= base_url('template/jscript/voice-ai.js'); ?>"></script>
+
+
 <script>
     function toggleDropdown() {
         var dropdown = document.getElementById("dropdownContent");
@@ -2723,63 +2728,7 @@
         // Memastikan audio diputar setelah halaman dimuat
         window.addEventListener('load', playWelcomeAudio);
     </script>
-<script>
-    // Periksa apakah browser mendukung Speech Synthesis API
-    if ('speechSynthesis' in window) {
-        console.log('Speech Synthesis API didukung.');
 
-        // Membaca pesan "Selamat Datang" saat halaman dibuka
-        let welcomeMessage = new SpeechSynthesisUtterance("Selamat datang di website resmi pemerintah kabupaten malang.");
-        welcomeMessage.lang = 'id-ID'; // Bahasa Indonesia
-        speechSynthesis.speak(welcomeMessage);
-
-        // Variabel untuk menyimpan objek SpeechSynthesisUtterance yang aktif
-        let utterance = null;
-
-        // Event listener untuk mendeteksi teks yang dipilih pengguna
-        document.addEventListener('mouseup', () => {
-            // Hentikan suara yang sedang diputar
-            if (utterance) {
-                speechSynthesis.cancel();
-            }
-
-            // Ambil teks yang dipilih pengguna
-            let selectedText = window.getSelection().toString().trim();
-            if (selectedText) {
-                // Membaca teks yang dipilih
-                utterance = new SpeechSynthesisUtterance(selectedText);
-                utterance.lang = 'id-ID'; // Bahasa Indonesia
-                speechSynthesis.speak(utterance);
-            }
-        });
-
-        // Menghentikan semua suara saat halaman di-refresh atau di-restart
-        window.addEventListener('beforeunload', () => {
-            speechSynthesis.cancel();
-        });
-
-        // Event listener untuk otomatis membaca teks saat hover pada link
-        let links = document.querySelectorAll('p,h2'); // Seleksi semua elemen <a>
-        links.forEach(link => {
-            link.addEventListener('mouseenter', () => {
-                // Hentikan suara yang sedang diputar
-                if (utterance) {
-                    speechSynthesis.cancel();
-                }
-
-                // Membaca teks link saat hover
-                let linkText = link.innerText.trim();
-                if (linkText) {
-                    utterance = new SpeechSynthesisUtterance(linkText);
-                    utterance.lang = 'id-ID'; // Bahasa Indonesia
-                    speechSynthesis.speak(utterance);
-                }
-            });
-        });
-    } else {
-        console.error('Speech Synthesis API tidak didukung di browser ini.');
-    }
-</script>
 
 
 <script type='text/javascript'>
@@ -2930,81 +2879,7 @@
         };
     </script>
 
-<script>
 
-function increaseText() {
-    document.body.style.fontSize = "larger";
-}
-
-function decreaseText() {
-    document.body.style.fontSize = "smaller";
-}
-
-function grayscale() {
-    document.body.style.filter = "grayscale(100%)";
-}
-
-function highContrast() {
-    document.body.style.filter = "contrast(200%)";
-}
-
-function negativeContrast() {
-    document.body.style.filter = "invert(100%)";
-}
-
-function lightBackground() {
-    const currentBgColor = document.body.style.backgroundColor;
-    
-    if (currentBgColor === "rgb(245, 245, 245)") {  // Warna #f5f5f5 dalam RGB
-        document.body.style.backgroundColor = "#222"; // Background gelap
-        document.body.style.color = "#fff";           // Teks putih
-    } else {
-        document.body.style.backgroundColor = "#f5f5f5"; // Background terang
-        document.body.style.color = "#000";               // Teks hitam
-    }
-}
-
-function underlineLinks() {
-    let links = document.querySelectorAll('a');
-    links.forEach(link => {
-        link.style.textDecoration = 'underline';
-    });
-}
-
-function readableFont() {
-    document.body.style.fontFamily = 'Arial, sans-serif';
-}
-
-function resetSettings() {
-    // Reset semua perubahan pada body
-    document.body.style = '';
-    
-    // Reset underline pada semua link
-    let links = document.querySelectorAll('a');
-    links.forEach(link => {
-        link.style.textDecoration = '';
-    });
-}
-
-function toggleAccessibilityMenu() {
-    const menu = document.querySelector(".accessibility-tools"); // Menggunakan .accessibility-tools sesuai dengan HTML
-    
-    // Jika menu saat ini tersembunyi, tampilkan; jika sudah tampil, sembunyikan
-    if (menu.classList.contains("hidden")) {
-        menu.classList.remove("hidden");
-    } else {
-        menu.classList.add("hidden");
-    }
-}
-
-function addEffect(button) {
-    button.classList.add('effect'); // Tambahkan kelas 'effect' untuk efek visual
-    setTimeout(() => {
-        button.classList.remove('effect'); // Hapus kelas 'effect' setelah 300ms
-    }, 300); // Durasi harus sesuai dengan CSS transition duration
-}
-
-</script>
 
 <script>
     $(function() {
