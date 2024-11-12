@@ -14,21 +14,6 @@
                             <audio id="welcome-audio" src="asset/download/welcome.mp3" preload="auto"></audio>
                             
                     </div>
-                    <div class="accessibility-toggle" onclick="toggleAccessibilityMenu()">
-    <img src="asset/image/bantuan.png" alt="Accessibility feature for disabilities" />
-</div>
-
-<div class="accessibility-tools hidden">
-    <button onclick="increaseText(); addEffect(this)"><i class="fas fa-search-plus"></i> Increase Text</button>
-    <button onclick="decreaseText(); addEffect(this)"><i class="fas fa-search-minus"></i> Decrease Text</button>
-    <button onclick="grayscale(); addEffect(this)"><i class="fas fa-adjust"></i> Grayscale</button>
-    <button onclick="highContrast(); addEffect(this)"><i class="fas fa-low-vision"></i> High Contrast</button>
-    <button onclick="negativeContrast(); addEffect(this)"><i class="fas fa-eye-slash"></i> Negative Contrast</button>
-    <button onclick="lightBackground(); addEffect(this)"><i class="fas fa-sun"></i> Light Background</button>
-    <button onclick="underlineLinks(); addEffect(this)"><i class="fas fa-underline"></i> Links Underline</button>
-    <button onclick="readableFont(); addEffect(this)"><i class="fas fa-font"></i> Readable Font</button>
-    <button onclick="resetSettings(); addEffect(this)"><i class="fas fa-sync"></i> Reset</button>
-</div>
 
 
 
@@ -750,7 +735,7 @@
                                 <div class="content-block left">
                                         <div class="block">
                                         <div class="block">
-                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;font-size : 17px">KEGIATAN PERANGKAT DAERAH</h2>
+                                        <h2 class="list-title" style="color:#900404;border-bottom:2px solid #900404;font-size : 17px">BERITA TERKINI</h2>
                                         <ul class="article-block">
                                             <li>
                                                 <div class='article-photo'>
@@ -793,7 +778,7 @@
                                         </ul>
                                         <a href="#" class="more">Selengkapnya</a>
                                     </div>
-                                            <h2 class="list-title" style="color: #900404;border-bottom:2px solid #900404;">Berita Terkini</h2>
+                                            <h2 class="list-title" style="color: #900404;border-bottom:2px solid #900404;">Kegiatan Perangkat Daerah</h2>
                                             <ul class="article-list">
                                             <li>
                                                 <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur'>Wabup Malang hadiri Pagelaran Wayang Kulit dengan Lakon Pandawa Syukur</a>
@@ -2774,7 +2759,7 @@
         });
 
         // Event listener untuk otomatis membaca teks saat hover pada link
-        let links = document.querySelectorAll('a'); // Seleksi semua elemen <a>
+        let links = document.querySelectorAll('p,h2'); // Seleksi semua elemen <a>
         links.forEach(link => {
             link.addEventListener('mouseenter', () => {
                 // Hentikan suara yang sedang diputar

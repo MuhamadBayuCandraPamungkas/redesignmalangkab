@@ -79,9 +79,10 @@
     border: 1px solid #ccc;
     padding: 10px;
     border-radius: 5px;
-    z-index: 1000;
+    z-index: 9999; /* Menambah nilai z-index untuk prioritas lebih tinggi */
     width: 200px;
 }
+
 
 .accessibility-tools.hidden {
     display: none;
@@ -228,6 +229,23 @@
             <img alt='Scroll to top' src='asset/image/top.png'/>
         </div>
         
+        <div class="accessibility-toggle" onclick="toggleAccessibilityMenu()">
+    <img src="asset/image/bantuan.png" alt="Accessibility feature for disabilities" />
+</div>
+
+<div class="accessibility-tools hidden">
+    <button onclick="increaseText(); addEffect(this)"><i class="fas fa-search-plus"></i> Increase Text</button>
+    <button onclick="decreaseText(); addEffect(this)"><i class="fas fa-search-minus"></i> Decrease Text</button>
+    <button onclick="grayscale(); addEffect(this)"><i class="fas fa-adjust"></i> Grayscale</button>
+    <button onclick="highContrast(); addEffect(this)"><i class="fas fa-low-vision"></i> High Contrast</button>
+    <button onclick="negativeContrast(); addEffect(this)"><i class="fas fa-eye-slash"></i> Negative Contrast</button>
+    <button onclick="lightBackground(); addEffect(this)"><i class="fas fa-sun"></i> Light Background</button>
+    <button onclick="underlineLinks(); addEffect(this)"><i class="fas fa-underline"></i> Links Underline</button>
+    <button onclick="readableFont(); addEffect(this)"><i class="fas fa-font"></i> Readable Font</button>
+    <button onclick="resetSettings(); addEffect(this)"><i class="fas fa-sync"></i> Reset</button>
+</div>
+
+
         <div class="boxed">
             <div class="header">
                 <div class='wrapper'>
