@@ -11,7 +11,7 @@
                     
                             <!-- Bullet Navigator -->
 
-                            <audio id="welcome-audio" src="asset/download/welcome.mp3" preload="auto"></audio>
+                            
                             
                     </div>
 
@@ -223,9 +223,10 @@
 
  <!-- STATISTIK KUNJUNGAN -->
  <div class="block">
-    <div class="block-title" style="background:#900404;">
-        <h2>DATA STATISTIK KUNJUNGAN</h2>
-    </div>
+    <div class="block-title">
+      <a href="#" class="right">Lihat Semua</a>
+        <h2>Data Statistik Kunjungan</h2>
+          </div>
     <div class="stats-container">
         <div class="stats-container">
         <div class="stats-box stats-green">
@@ -2274,20 +2275,20 @@
         <h2>Connect With Us</h2>
     </div>
     <div class="widget-social">
-        <div class="social-btns">
-            <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/malangkab/">
-                <i class="fa fa-facebook"></i>
-            </a>
-            <a target="_BLANK" class="btn-sc twitter" href="https://twitter.com/pemkab_malang">
-                <i class="fa fa-twitter"></i>
-            </a>
-            <a target="_BLANK" class="btn-sc ig" href="https://www.instagram.com/malangkab/">
-                <i class="fa fa-instagram"></i>
-            </a>
-            <a target="_BLANK" class="btn-sc yt" href="https://www.youtube.com/user/HumasKabMalang">
-                <i class="fa fa-youtube"></i>
-            </a>
-        </div>
+    <div class="social-btns">
+        <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/malangkab/">
+            <img src="asset/logo/iconfb.png" alt="Facebook">
+        </a>
+        <a target="_BLANK" class="btn-sc twitter" href="https://twitter.com/pemkab_malang">
+            <img src="asset/logo/icontwt.png" alt="Twitter">
+        </a>
+        <a target="_BLANK" class="btn-sc ig" href="https://www.instagram.com/malangkab/">
+            <img src="asset/logo/iconig.png" alt="Instagram">
+        </a>
+        <a target="_BLANK" class="btn-sc yt" href="https://www.youtube.com/user/HumasKabMalang">
+            <img src="asset/logo/iconyt.png" alt="YouTube">
+        </a>
+    </div>
         <p style="margin-top: .5rem;">Ikuti Sosial Media Kami Untuk Mendapatkan Update Terbaru.</p>
     </div>
 </div>
@@ -2716,21 +2717,6 @@
         dropdown.style.display = dropdown.style.display === "none" ? "block" : "none";
     }
 </script>
-<script>
-        // Function untuk memutar suara selamat datang
-        function playWelcomeAudio() {
-            const audio = document.getElementById('welcome-audio');
-            audio.play().catch((error) => {
-                console.log('Autoplay tidak diizinkan:', error);
-            });
-        }
-
-        // Memastikan audio diputar setelah halaman dimuat
-        window.addEventListener('load', playWelcomeAudio);
-    </script>
-
-
-
 <script type='text/javascript'>
     $(function() {
         $(window).scroll(function() {
@@ -2839,6 +2825,10 @@
 
     });
 </script>
+
+<!-- library untuk suara selamat datang -->
+<script src="https://code.responsivevoice.org/responsivevoice.js?key=ywbgbvTk"></script>
+
 <script>
         // JavaScript dijalankan setelah semua elemen HTML dimuat
         window.onload = function() {

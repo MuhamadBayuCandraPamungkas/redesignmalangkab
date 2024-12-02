@@ -9,16 +9,17 @@ function decreaseText() {
 }
 
 function grayscale() {
-    document.querySelector('.main-content').style.filter = "grayscale(100%)";
+    document.body.style.filter = "grayscale(100%)";
 }
 
 function highContrast() {
-    document.querySelector('.main-content').style.filter = "contrast(200%)";
+    document.body.style.filter = "contrast(200%)";
 }
 
 function negativeContrast() {
-    document.querySelector('.main-content').style.filter = "invert(100%)";
+    document.body.style.filter = "invert(100%)";
 }
+
 
 function lightBackground() {
     const currentBgColor = document.body.style.backgroundColor;

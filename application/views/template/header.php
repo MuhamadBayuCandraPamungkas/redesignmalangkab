@@ -42,7 +42,6 @@
     <link type="text/css" rel="stylesheet" href="asset/css/custom.css"/>
     <style type="text/css">
         
-       
        body {
 	font-size: 13px;
 	font-family: 'Poppins','Barlow', sans-serif;
@@ -162,6 +161,45 @@
             background-color: #700303;
         }
     
+
+        /* CSS SOCIAL MEDIA */
+/* Styling container */
+.widget-social .social-btns {
+    display: flex; /* Membuat ikon sejajar horizontal */
+    justify-content: center; /* Memusatkan ikon */
+    gap: 10px; /* Jarak antar ikon */
+    padding: 10px 0;
+}
+
+/* Container ikon */
+.widget-social .social-btns a {
+    width: 40px; /* Ukuran container lebih kecil */
+    height: 40px;
+    background-color: #fff;
+    border-radius: 8px; /* Sudut melengkung */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Menjaga elemen tetap dalam container */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+/* Ikon di dalam container */
+.widget-social .social-btns a img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Efek hover */
+.widget-social .social-btns a:hover {
+    transform: scale(1.1); /* Sedikit membesar saat hover */
+}
+
+
+
+        
         </style>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
