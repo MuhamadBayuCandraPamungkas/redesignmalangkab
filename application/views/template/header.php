@@ -41,7 +41,7 @@
     <!-- Custom CSS -->
     <link type="text/css" rel="stylesheet" href="asset/css/custom.css"/>
     <style type="text/css">
-        
+
        body {
 	font-size: 13px;
 	font-family: 'Poppins','Barlow', sans-serif;
@@ -272,14 +272,12 @@
 </div>
 
 <div class="accessibility-tools hidden">
-    <button onclick="increaseText(); addEffect(this)"><i class="fas fa-search-plus"></i> Increase Text</button>
-    <button onclick="decreaseText(); addEffect(this)"><i class="fas fa-search-minus"></i> Decrease Text</button>
+    
     <button onclick="grayscale(); addEffect(this)"><i class="fas fa-adjust"></i> Grayscale</button>
     <button onclick="highContrast(); addEffect(this)"><i class="fas fa-low-vision"></i> High Contrast</button>
     <button onclick="negativeContrast(); addEffect(this)"><i class="fas fa-eye-slash"></i> Negative Contrast</button>
     <button onclick="lightBackground(); addEffect(this)"><i class="fas fa-sun"></i> Light Background</button>
     <button onclick="underlineLinks(); addEffect(this)"><i class="fas fa-underline"></i> Links Underline</button>
-    <button onclick="readableFont(); addEffect(this)"><i class="fas fa-font"></i> Readable Font</button>
     <button onclick="resetSettings(); addEffect(this)"><i class="fas fa-sync"></i> Reset</button>
 </div>
 

@@ -261,7 +261,7 @@
 <div class="block">
                                         <div class="block-title">
                                             <a href="#" class="right">Lihat Semua</a>
-                                            <h2>Berita Utama</h2>
+                                            <h2> Kegiatan Perangkat Daerah</h2>
                                         </div>
 
 
@@ -779,7 +779,7 @@
                                         </ul>
                                         <a href="#" class="more">Selengkapnya</a>
                                     </div>
-                                            <h2 class="list-title" style="color: #900404;border-bottom:2px solid #900404;">Kegiatan Perangkat Daerah</h2>
+                                            <h2 class="list-title" style="color: #900404;border-bottom:2px solid #900404;">Berita Sosial</h2>
                                             <ul class="article-list">
                                             <li>
                                                 <a href='https://malangkab.go.id/Berita/index/malangkab-pusat-opd%203507-wabup-malang-hadiri-pagelaran-wayang-kulit-dengan-lakon-pandawa-syukur'>Wabup Malang hadiri Pagelaran Wayang Kulit dengan Lakon Pandawa Syukur</a>

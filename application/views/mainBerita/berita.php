@@ -78,22 +78,30 @@ Lebih lanjut, pihaknya berharap agar masyarakat yang akan berangkat bekerja ke l
     </div>
     
     
-    <!-- Sosial Media Widget -->
+    <!-- sosmed widget -->
     <div class="block">
-        <div class="block-title" style="background:#900404;">
-            <h2>Connect With Us</h2>
-        </div>
-        <div class="widget-social">
-            <div class="social-btns">
-                <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/malangkab/"><i class="fa fa-facebook"></i></a>
-                <a target="_BLANK" class="btn-sc twitter" href="https://twitter.com/pemkab_malang"><i class="fa fa-twitter"></i></a>
-                <a target="_BLANK" class="btn-sc ig" href="https://www.instagram.com/malangkab/"><i class="fa fa-instagram"></i></a>
-                <a target="_BLANK" class="btn-sc yt" href="https://www.youtube.com/user/HumasKabMalang"><i class="fa fa-youtube"></i></a>
-            </div>
-            <p style="margin-top: .5rem;">Ikuti Sosial Media Kami Untuk Mendapatkan Update Terbaru.</p>
-        </div>
+    <div class="block-title" style="background:#900404;">
+        <h2>Connect With Us</h2>
     </div>
-    <!-- End Sosial Media Widget -->
+    <div class="widget-social">
+    <div class="social-btns">
+        <a target="_BLANK" class="btn-sc facebook" href="https://www.facebook.com/malangkab/">
+            <img src="asset/logo/iconfb.png" alt="Facebook">
+        </a>
+        <a target="_BLANK" class="btn-sc twitter" href="https://twitter.com/pemkab_malang">
+            <img src="asset/logo/icontwt.png" alt="Twitter">
+        </a>
+        <a target="_BLANK" class="btn-sc ig" href="https://www.instagram.com/malangkab/">
+            <img src="asset/logo/iconig.png" alt="Instagram">
+        </a>
+        <a target="_BLANK" class="btn-sc yt" href="https://www.youtube.com/user/HumasKabMalang">
+            <img src="asset/logo/iconyt.png" alt="YouTube">
+        </a>
+    </div>
+        <p style="margin-top: .5rem;">Ikuti Sosial Media Kami Untuk Mendapatkan Update Terbaru.</p>
+    </div>
+</div>
+                             <!-- end sosmed widget -->
     
     <!-- Twitter Content -->
     <div class="block">

@@ -331,8 +331,168 @@ outline: none;
 }
 
 
+/* *disabilitas css* */
+body {
+	font-size: 13px;
+	font-family: 'Poppins','Barlow', sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #363635;
+	background: url(../bg.jpg) white top center no-repeat fixed;
+	line-height: 140%;
+}
+.accessibility-toggle {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    z-index: 1001;
+}
 
-/* Box color themes with stats- prefix */
+.accessibility-toggle img {
+    width: 45px;
+    height: auto;
+    opacity: 85%
+}
+
+.accessibility-tools {
+    position: fixed;
+    top: 50%;
+    left: 55px;
+    transform: translateY(-50%);
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 9999; /* Menambah nilai z-index untuk prioritas lebih tinggi */
+    width: 200px;
+}
+
+
+.accessibility-tools.hidden {
+    display: none;
+}
+
+.accessibility-tools button {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    padding: 10px;
+    width: 100%;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 4px;
+}
+
+.accessibility-tools button i {
+    margin-right: 8px;
+}
+
+.accessibility-tools button:hover {
+    background-color: #ddd;
+}
+
+/* *E-book Css* */
+
+.block-title {
+            background: #900404;
+            padding: 10px;
+            text-align: left;
+            color: white;
+        }
+
+        /* Container untuk e-book */
+        .ebook-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #f1f1f1;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            width: 300px;
+            margin: -1px auto 20px auto;
+        }
+
+        /* Style untuk gambar e-book */
+        .ebook-img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        /* Container untuk tombol navigasi */
+        .navigation-buttons {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        /* Style untuk tombol navigasi */
+        .nav-button {
+            background-color: #900404;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            flex: 1;
+            margin: 0 5px;
+            text-transform: uppercase;
+        }
+
+        /* Hover efek untuk tombol navigasi */
+        .nav-button:hover {
+            background-color: #700303;
+        }
+    
+
+     /* CSS SOCIAL MEDIA */
+/* Styling container */
+.widget-social .social-btns {
+    display: flex; /* Membuat ikon sejajar horizontal */
+    justify-content: center; /* Memusatkan ikon */
+    gap: 10px; /* Jarak antar ikon */
+    padding: 10px 0;
+}
+
+/* Container ikon */
+.widget-social .social-btns a {
+    width: 40px; /* Ukuran container lebih kecil */
+    height: 40px;
+    background-color: #fff;
+    border-radius: 8px; /* Sudut melengkung */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Menjaga elemen tetap dalam container */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+/* Ikon di dalam container */
+.widget-social .social-btns a img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Efek hover */
+.widget-social .social-btns a:hover {
+    transform: scale(1.1); /* Sedikit membesar saat hover */
+}
+
+
+
+
+/* Statis tik kunjungan css*/
 .stats-green {
     background-color: #4CAF50;
     background-image: linear-gradient(135deg, #4caf50 0%, #66bb6a 100%);
