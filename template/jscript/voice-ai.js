@@ -23,7 +23,7 @@ if ('speechSynthesis' in window) {
     });
 
     // Membaca teks link saat hover
-    let links = document.querySelectorAll('a,h2,p'); 
+    let links = document.querySelectorAll('a,h2,p,h4,th,td'); 
     links.forEach(link => {
         link.addEventListener('mouseenter', () => {
             let linkText = link.innerText.trim();

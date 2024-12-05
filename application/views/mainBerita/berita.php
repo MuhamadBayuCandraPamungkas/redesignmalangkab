@@ -78,10 +78,10 @@ Lebih lanjut, pihaknya berharap agar masyarakat yang akan berangkat bekerja ke l
     </div>
     
     
-    <!-- sosmed widget -->
-    <div class="block">
+      <!-- sosmed widget -->
+      <div class="block">
     <div class="block-title" style="background:#900404;">
-        <h2>Connect With Us</h2>
+        <h2>Ikuti Sosial Media Kami</h2>
     </div>
     <div class="widget-social">
     <div class="social-btns">
@@ -98,7 +98,7 @@ Lebih lanjut, pihaknya berharap agar masyarakat yang akan berangkat bekerja ke l
             <img src="asset/logo/iconyt.png" alt="YouTube">
         </a>
     </div>
-        <p style="margin-top: .5rem;">Ikuti Sosial Media Kami Untuk Mendapatkan Update Terbaru.</p>
+        <p style="margin-top: .5rem;">Ikuti Kami Di IG, Facebook, Twiter dan Youtube Untuk Mendapatkan Informasi Menarik Lainnya.</p>
     </div>
 </div>
                              <!-- end sosmed widget -->
@@ -135,6 +135,9 @@ Lebih lanjut, pihaknya berharap agar masyarakat yang akan berangkat bekerja ke l
     <!-- End Twitter Content -->
 </div>
 
+<!-- Voice-ai -->
+<script type="text/javascript" src="<?= base_url('template/jscript/voice-ai.js'); ?>"></script>
+<script src="https://code.responsivevoice.org/responsivevoice.js?key=ywbgbvTk"></script>
 <div class="clear-float"></div>
 </div></div></div>
 </div>
